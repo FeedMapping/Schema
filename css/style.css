@@ -426,8 +426,8 @@ img {
   font: 400 30px/30px 'Marvel', sans-serif;
   padding: 15px 51px 16px;
   letter-spacing: 1.5px;
-  color: #000000;
-  background: #f1f045;
+  color: #ffffff;
+  background: #129894;
 }
 .btn_1:hover {
   color: #ffffff;
@@ -439,7 +439,7 @@ img {
   padding: 4px 20px 3px;
   font: 400 24px/30px 'Marvel', sans-serif;
   color: #413d3d;
-  background: #f1f045;
+  background: #129894;
 }
 .btn_2:hover {
   color: #ffffff;
@@ -451,7 +451,7 @@ img {
   padding: 4px 34px 3px 33px;
   font: 400 24px/30px 'Marvel', sans-serif;
   color: #413d3d;
-  background: #f1f045;
+  background: #129894;
 }
 .btn_3:hover {
   color: #ffffff;
