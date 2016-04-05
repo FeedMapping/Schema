@@ -334,6 +334,50 @@ img {
 .header_2.indent_5 {
   padding-bottom: 41px;
 }
+/*============  Breadcrumbs  =============*/
+#blogArchive {
+    display: inline;
+    /*float: left;*/
+    margin-top: 90px;
+    width: 100%;
+}
+.breadcrumb {
+    margin-bottom: 0px;
+}
+.breadcrumb > li {
+	display: inline-block;
+    font-size: 14px;
+    color: #777;
+}
+.breadcrumb > li a {
+    text-transform: uppercase;
+	text-decoration: none;
+	color: #363535;
+}
+.breadcrumb>li+li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: "/\00a0";
+}
+.breadcrumb > .active {
+    text-transform: uppercase;
+	color: #129894;
+}
+.blog-breadcrumbs-area {
+    display: inline;
+    padding: 20px 0;
+    float: left;
+    width: 100%;
+}
+.blog-breadcrumbs-left {
+	margin-left: 30px;
+     float: left;
+    display: inline;
+}
+.blog-breadcrumbs-right {
+    float: right;
+    display: inline;
+}
 /*============  Wraps  =============*/
 .wrap_1 {
   padding-top: 124px;
