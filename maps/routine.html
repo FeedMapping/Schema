@@ -21,7 +21,24 @@
     <script src="/js/jquery-migrate-1.2.1.js"></script>
     <script src="/js/jquery.equalheights.js"></script>
 	<script src="javascripts/base64.js"></script>
-	<script src="javascripts/marked.js"></script
+	<script src="javascripts/marked.js"></script>
+	<script type="text/javascript">
+    var githubApiUrl = 'https://api.github.com/repos/hyip/info/contents/wiki/Mapping-Routine.mediawiki';
+    var contentContainerId = "#readmeContent";
+
+    $.ajax({
+      url: githubApiUrl,
+      dataType: 'jsonp',
+      success: function(response)
+      {
+        var encodedContent = response.data.content;
+        var markdownText = Base64.decode(encodedContent);
+        var renderedHtml = marked(markdownText);
+
+        $(contentContainerId).html(renderedHtml);
+      }
+    });
+</script>
     <base href="http://hyip.github.io/">
     <!--[if lt IE 9]>
     <div style=' clear: both; text-align:center; position: relative;'>
@@ -104,6 +121,7 @@
 	<!--========================================================
                               CONTENT
     =========================================================-->
+	<div id="readmeContent"></div>
     <section id="content"><div class="ic">More Website Templates @ TemplateMonster.com - September08, 2014!</div>
         <div class="container">
             <div class="row wrap_11">
