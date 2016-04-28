@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - The HYIP Project | A Unique Mapping System - Open Source</title>
+<title>{% if page.title %}{{ page.title }}{% elsif site.title %}{{ site.title }}{% else %}The HYIP Project | A Unique Mapping System - Open Source{% endif %}</title>
 
 <!-- favicon -->
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
@@ -31,16 +31,16 @@
 <link rel="stylesheet" href="/css/owl.carousel.css"/>
 
 <!-- script -->
-<script src="js/jquery.js"></script>
-<script src="js/jquery-migrate-1.2.1.js"></script>
-<script src="js/jquery.equalheights.js"></script>
+<script src="/js/jquery.js"></script>
+<script src="/js/jquery-migrate-1.2.1.js"></script>
+<script src="/js/jquery.equalheights.js"></script>
 
 <!-- browser -->
 <!--[if (gt IE 9)|!(IE)]><!-->
-<script src="js/jquery.mobile.customized.min.js"></script>
+<script src="/js/jquery.mobile.customized.min.js"></script>
 <!--<![endif]-->
-<script src="js/camera.js"></script>
-<script src="js/owl.carousel.js"></script>
+<script src="/js/camera.js"></script>
+<script src="/js/owl.carousel.js"></script>
 <!--[if lt IE 9]>
 <div style=' clear: both; text-align:center; position: relative;'>
 	<a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
@@ -49,6 +49,6 @@
 			 alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
 	</a>
 </div>
-<script src="js/html5shiv.js"></script>
-<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+<script src="/js/html5shiv.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/ie.css">
 <![endif]-->
