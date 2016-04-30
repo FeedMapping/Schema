@@ -11,7 +11,7 @@
                     </div>
                     <nav class="nav put-right">
                         <ul class="sf-menu">
-                            <li class="current" id="{{ page.url }}"><a href="/">Home</a></li>
+                            <li {% if page.url ==  "/" %}class="current"{% endif %}><a href="/">Home</a></li>
                             <li><a href="/concept">Concept</a>
                                 <ul>
                                     <li><a href="/maps">Project Mapping</a>
