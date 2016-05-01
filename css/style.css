@@ -352,7 +352,7 @@ img {
 .breadcrumb > li a {
     text-transform: uppercase;
 	text-decoration: none;
-	color: #363535;
+	/*color: #363535;*/
 }
 .breadcrumb>li+li:before {
     padding: 0 5px;
