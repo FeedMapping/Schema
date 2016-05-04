@@ -51,7 +51,13 @@
 		<div class="grid_12">
 			<div class="wrap_10">
 				<div class="box_6">
-					<div id="readmeContent"></div>
+					<div id="readmeContent">
+					{% for post in site.posts %}
+						{% if post.path contains page.url %}
+							{{ post.content }}
+						{% endif %}
+					{% endfor %}
+					</div>
 					<div class="clearfix"></div>
 				</div>
 			</div>
