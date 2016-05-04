@@ -35,6 +35,7 @@
 			<div class="wrap_10">
 				<h2 class="header_2 indent_3">Analysis</h2>
 				{% for post in site.posts %}
+				{% if page.path consist "pages" %}
 				<div class="box_6">
 					<div class="put-left">
 						<div class="caption">
@@ -53,6 +54,7 @@
 					</div>
 					<div class="clearfix"></div>
 				</div>
+				{% endif %}
 				{% endfor %}
 				<div class="box_6">
 					<div class="put-left">
