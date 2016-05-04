@@ -1,5 +1,5 @@
 ---
 layout: routine
-title: Mapping Routine
+title: Mapping Routines
 permalink: /maps/routine
 ---
