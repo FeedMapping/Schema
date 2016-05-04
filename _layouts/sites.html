@@ -11,14 +11,14 @@
 	<div class="row">
 		<div class="blog-breadcrumbs-area">
 			<div class="blog-breadcrumbs-left">
-				<h1 class="header_2">Site Building</h1>
+				<h1 class="header_2">{{ page.title }}</h1>
 			</div>
 			<div class="blog-breadcrumbs-right">
 				<ol class="breadcrumb">
 					<li>You are here</li>
 					<li><a href="/">Home</a></li>                  
 					<li><a href="/concept">Concept</a></li>                  
-					<li class="active">Site Building</li>
+					<li class="active">{{ page.title }}</li>
 				</ol>
 			</div>
 		</div>
@@ -41,7 +41,7 @@
 						<div class="caption">
 							<img src="images/index-3_img01.jpg" alt="Image 1"/>
 							<p class="text_2 color_1">
-								{{ page.url }}
+								{{ page.title }}::{{ post.title }}
 							</p>
 						</div>
 					</div>

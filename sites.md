@@ -1,5 +1,5 @@
 ---
 layout: sites
-title: Sites
+title: Site Building
 permalink: /sites
 ---
