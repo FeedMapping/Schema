@@ -1,5 +1,5 @@
 ---
-layout: sites
+layout: method
 title: Site Building
 permalink: /sites
 ---

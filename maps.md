@@ -1,5 +1,5 @@
 ---
 layout: maps
-title: Maps
+title: Project Mapping
 permalink: /maps
 ---
