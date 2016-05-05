@@ -1,5 +1,5 @@
 ---
-layout: news
-title: News
+layout: method
+title: News & Blogging
 permalink: /news
 ---

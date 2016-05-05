@@ -1,5 +1,5 @@
 ---
-layout: status
-title: Status
+layout: method
+title: Monitoring System
 permalink: /status
 ---
