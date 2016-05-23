@@ -1,5 +1,5 @@
 ---
 layout: method
 title: Project Mapping
-permalink: /maps
+permalink: /maps/
 ---
