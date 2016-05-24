@@ -18,7 +18,7 @@
 						<li>You are here</li>
 						<li><a href="/">Home</a></li>                  
 					<li><a href="/concept">Concept</a></li>                  
-					<li><a href="{{ page.url }}">{{ page.category }}</a></li>                  
+					<li><a href="{{ page.url | replace:page.title,'' }}">{{ page.category }}</a></li>                  
 					<li class="active">{{ page.title }}</li>
 					</ol>
 				</div>
@@ -53,7 +53,7 @@
 							of query and result that lies to an hexagonal configuration formed by their channels pairing.<br/>
 							Assuring you of our best intentions, there is no such thing similar with this kind of concept.
 						</p>
-						<a class="btn_2" href="/sites/">find others</a>
+						<a class="btn_2" href="{{ page.url | replace:page.title,'' }}">find others</a>
 					</div>
 					<div class="clearfix"></div>
 				</div>
