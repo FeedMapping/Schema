@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="blog-breadcrumbs-area">
 				<div class="blog-breadcrumbs-left">
-					<h1 class="header_2">Our Concept</h1>
+					<h1 class="header_2">{{ page.title | capitalize }}</h1>
 				</div>
 				<div class="blog-breadcrumbs-right">
 					<ol class="breadcrumb">
@@ -40,12 +40,11 @@
 						<div class="caption">
 							<a href="{{ page.url }}"><img src="/images/index-3_img03.jpg" alt="Image 1"/></a>
 							<p class="text_2 color_1">
-								{{ page.title | capitalize }}
+								{{ page.category }} :: {{ page.title | capitalize }}
 							</p>
 						</div>
 					</div>
 					<div class="caption">
-						<h3 class="text_2 color_2"><a href="{{ page.url }}">{{ page.title | capitalize }}</a></h3>
 						<p class="text_3">
 							{{ page.content }}
 						</p>
