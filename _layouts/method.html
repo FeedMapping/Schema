@@ -41,12 +41,12 @@
 						<div class="caption">
 							<a href="{{ page.url }}{{ post.title | downcase}}"><img src="/images/index-3_img01.jpg" alt="{{ page.title }} :: {{ post.title }}"/></a>
 							<p class="text_2 color_1">
-								{{ page.title }} :: {{ post.title }}
+								{{ page.title }} :: {{ post.title | capitalize }}
 							</p>
 						</div>
 					</div>
 					<div class="caption">
-						<h3 class="text_2 color_2"><a href="{{ page.url }}{{ post.title | downcase}}">{{ post.title }}</a></h3>
+						<h3 class="text_2 color_2"><a href="{{ page.url }}{{ post.title | downcase}}">{{ post.title | capitalize }}</a></h3>
 						<p class="text_3">
 							{{ post.content }}
 						</p>
