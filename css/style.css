@@ -521,6 +521,8 @@ img {
 .img_2 {
   margin: 3px 0 9px 0;
   float: left;
+  width: 170px;
+  height: 140px;
 }
 .img_2 + .img_2 {
   margin-left: 30px;
