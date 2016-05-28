@@ -510,7 +510,7 @@ img {
   height: 154px;
 }
 .img_1 + .img_1 {
-  margin-left: 29px;
+  margin-left: 0px;
 }
 @media (max-width: 1199px) {
   .img_1 {
