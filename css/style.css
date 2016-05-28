@@ -506,6 +506,8 @@ img {
 .img_1 {
   margin: 3px 0 9px 0;
   float: left;
+  width: 220px;
+  height: 154px;
 }
 .img_1 + .img_1 {
   margin-left: 29px;
