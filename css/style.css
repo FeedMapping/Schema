@@ -10,6 +10,11 @@ body {
   color: #363535;
   font: 300 18px/36px 'Open Sans', sans-serif;
 }
+sup {
+  font-size: 0.83em;
+  vertical-align: super;
+  line-height: 0;
+}
 .ic {
   border:0;
   float:right;
