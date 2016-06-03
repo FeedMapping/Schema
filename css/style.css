@@ -751,6 +751,13 @@ img {
   background: #129894;
   text-decoration: none;
 }
+.list_1 li a.fa-facebook {
+  font-size: 25px;
+  line-height: 52px;
+}
+.list_1 li a.fa-facebook:before {
+  padding-left: 2px;
+}
 .list_1 li a.fa-twitter {
   font-size: 25px;
   line-height: 56px;
@@ -758,12 +765,12 @@ img {
 .list_1 li a.fa-twitter:before {
   padding-left: 1px;
 }
-.list_1 li a.fa-facebook {
+.list_1 li a.fa-google-plus {
+  line-height: 50px;
   font-size: 25px;
-  line-height: 52px;
 }
-.list_1 li a.fa-facebook:before {
-  padding-left: 2px;
+.list_1 li a.fa-google-plus:before {
+  padding-left: 1px;
 }
 .list_1 li a.fa-github {
   font-size: 25px;
@@ -776,7 +783,7 @@ img {
   line-height: 50px;
   font-size: 25px;
 }
-.list_1 li a.fa-stack-overflowt:before {
+.list_1 li a.fa-stack-overflow:before {
   padding-left: 1px;
 }
 .list_2 li {
