@@ -760,11 +760,11 @@ img {
 .list_1 li a.fa-facebook:before {
   padding-left: 2px;
 }
-.list_1 li a.fa-google-plus {
+.list_1 li a.fa-github {
   font-size: 25px;
   line-height: 52px;
 }
-.list_1 li a.fa-google-plus:before {
+.list_1 li a.fa-github:before {
   padding-left: 6px;
 }
 .list_1 li a.fa-stack-overflow {
