@@ -765,7 +765,7 @@ img {
   line-height: 52px;
 }
 .list_1 li a.fa-github:before {
-  padding-left: 6px;
+  padding-left: 1px;
 }
 .list_1 li a.fa-stack-overflow {
   line-height: 50px;
