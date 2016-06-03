@@ -760,18 +760,18 @@ img {
 .list_1 li a.fa-facebook:before {
   padding-left: 2px;
 }
-.list_1 li a.fa-google-plus {
+.list_1 li a.fa-github {
   font-size: 25px;
   line-height: 52px;
 }
-.list_1 li a.fa-google-plus:before {
-  padding-left: 6px;
+.list_1 li a.fa-github:before {
+  padding-left: 1px;
 }
-.list_1 li a.fa-pinterest {
+.list_1 li a.fa-stack-overflow {
   line-height: 50px;
-  font-size: 30px;
+  font-size: 25px;
 }
-.list_1 li a.fa-pinterest:before {
+.list_1 li a.fa-stack-overflowt:before {
   padding-left: 1px;
 }
 .list_2 li {
