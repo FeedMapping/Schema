@@ -1,5 +1,5 @@
 ---
 layout: method
-title: News & Blogging
+title: Business Networking
 permalink: /news/
 ---
