@@ -3,6 +3,10 @@
     padding-left: 10px;
 }
 
+.sidebar li > .active {
+    background-color: #f5f5f5;	
+}
+
 .sidebar ul {
     padding-left: 10px;
     list-style-type: square;
