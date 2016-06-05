@@ -1,6 +1,7 @@
 
-.sidebar li {
-    padding-left: 10px;
+.sidebar {
+    padding-top: 1.5em;
+    padding-left: 0.5em;
 }
 
 .sidebar ul {
@@ -9,9 +10,12 @@
     list-style-position: inside;
 }
 
-.sidebar {
-    padding-top: 1.5em;
-    padding-left: 0.5em;
+.sidebar li {
+    padding-left: 10px;
+}
+
+.sidebar li.active {
+    background-color: #f5f5f5;	
 }
 
 ul.topics {
@@ -20,10 +24,6 @@ ul.topics {
 
 .topic-header {
     margin-top: 1em;
-}
-
-ul.subnavlist li > .active {
-    background-color: #f5f5f5;	
 }
 
 #content {
