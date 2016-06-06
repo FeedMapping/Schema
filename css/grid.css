@@ -115,6 +115,12 @@ h5,
 h6{
     font-weight: bold;
 }
+h2{
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
 ol,
 ul {
   list-style: none;
