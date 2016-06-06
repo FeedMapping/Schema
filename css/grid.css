@@ -107,6 +107,12 @@ section {
 body {
   line-height: 1;
 }
+h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
 ol,
 ul {
   list-style: none;
