@@ -3,7 +3,6 @@
   font-weight: 200;
 }
 .topics .brand {
-  background-color: #23282e;
   line-height: 50px;
   display: block;
   text-align: center;
@@ -45,23 +44,17 @@
 }
 .topics ul .active,
 .topics li .active {
-  border-left: 3px solid #d19b3d;
-  background-color: #4f5b69;
 }
 .topics ul .sub-menu li.active,
 .topics li .sub-menu li.active {
-  color: #d19b3d;
 }
 .topics ul .sub-menu li.active a,
 .topics li .sub-menu li.active a {
-  color: #d19b3d;
 }
 .topics ul .sub-menu li,
 .topics li .sub-menu li {
-  background-color: #181c20;
   border: none;
   line-height: 28px;
-  border-bottom: 1px solid #23282e;
   margin-left: 0px;
 }
 .topics ul .sub-menu li:hover,
@@ -79,12 +72,9 @@
 }
 .topics li {
   padding-left: 0px;
-  border-left: 3px solid #2e353d;
-  border-bottom: 1px solid #23282e;
 }
 .topics li a {
   text-decoration: none;
-  color: #e1ffff;
 }
 .topics li a i {
   padding-left: 10px;
@@ -92,8 +82,6 @@
   padding-right: 20px;
 }
 .topics li:hover {
-  border-left: 3px solid #d19b3d;
-  background-color: #4f5b69;
   -webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
   -o-transition: all 1s ease;
@@ -114,7 +102,6 @@
     top: 10px;
     z-index: 10 !important;
     padding: 3px;
-    background-color: #ffffff;
     color: #000;
     width: 40px;
     text-align: center;
