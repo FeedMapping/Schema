@@ -107,10 +107,10 @@ section {
 body {
   line-height: 1;
 }
-h1 {
+h2 {
   padding-bottom: 0.3em;
-  font-size: 2.25em;
-  line-height: 1.2;
+  font-size: 1.75em;
+  line-height: 1.225;
   border-bottom: 1px solid #eee;
 }
 ol,
