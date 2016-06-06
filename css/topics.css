@@ -1,17 +1,17 @@
-.topics {
+.sidebar {
   font-weight: 200;
 }
-.topics .brand {
+.sidebar .brand {
   line-height: 50px;
   display: block;
   text-align: center;
   font-size: 14px;
 }
-.topics .toggle-btn {
+.sidebar .toggle-btn {
   display: none;
 }
-.topics ul,
-.topics li {
+.sidebar ul,
+.sidebar li {
   list-style: none;
   padding: 0px;
   margin: 0px;
@@ -31,8 +31,8 @@
      }
 */
 }
-.topics ul :not(collapsed) .arrow:before,
-.topics li :not(collapsed) .arrow:before {
+.sidebar ul :not(collapsed) .arrow:before,
+.sidebar li :not(collapsed) .arrow:before {
   font-family: FontAwesome;
   content: "\f078";
   display: inline-block;
@@ -41,27 +41,27 @@
   vertical-align: middle;
   float: right;
 }
-.topics ul .active,
-.topics li .active {
+.sidebar ul .active,
+.sidebar li .active {
 }
-.topics ul .sub-menu li.active,
-.topics li .sub-menu li.active {
+.sidebar ul .sub-menu li.active,
+.sidebar li .sub-menu li.active {
 }
-.topics ul .sub-menu li.active a,
-.topics li .sub-menu li.active a {
+.sidebar ul .sub-menu li.active a,
+.sidebar li .sub-menu li.active a {
 }
-.topics ul .sub-menu li,
-.topics li .sub-menu li {
+.sidebar ul .sub-menu li,
+.sidebar li .sub-menu li {
   border: none;
   line-height: 28px;
   margin-left: 0px;
 }
-.topics ul .sub-menu li:hover,
-.topics li .sub-menu li:hover {
+.sidebar ul .sub-menu li:hover,
+.sidebar li .sub-menu li:hover {
   background-color: #020203;
 }
-.topics ul .sub-menu li:before,
-.topics li .sub-menu li:before {
+.sidebar ul .sub-menu li:before,
+.sidebar li .sub-menu li:before {
   font-family: FontAwesome;
   content: "\f105";
   display: inline-block;
@@ -69,18 +69,18 @@
   padding-right: 10px;
   vertical-align: middle;
 }
-.topics li {
+.sidebar li {
   padding-left: 0px;
 }
-.topics li a {
+.sidebar li a {
   text-decoration: none;
 }
-.topics li a i {
+.sidebar li a i {
   padding-left: 10px;
   width: 20px;
   padding-right: 20px;
 }
-.topics li:hover {
+.sidebar li:hover {
   -webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
   -o-transition: all 1s ease;
@@ -88,12 +88,12 @@
   transition: all 1s ease;
 }
 @media (max-width: 767px) {
-  .topics {
+  .sidebar {
     position: relative;
     width: 100%;
     margin-bottom: 10px;
   }
-  .topics .toggle-btn {
+  .sidebar .toggle-btn {
     display: block;
     cursor: pointer;
     position: absolute;
@@ -113,7 +113,7 @@
   }
 }
 @media (min-width: 767px) {
-  .topics .menu-list .menu-content {
+  .sidebar .menu-list .menu-content {
     display: block;
   }
 }
