@@ -108,13 +108,10 @@ body {
   line-height: 1;
 }
 h3 {
-  padding-bottom: 0.3em;
-  font-size: 1.75em;
-  line-height: 1.225;
-  border-bottom: 1px solid #eee;
+  font: 600 24px/30px 'Open Sans', sans-serif; 
 }
 h4 {
-  font-size: 1.25em;
+  font: 300 18px/24px 'Open Sans', sans-serif;
 }
 ol,
 ul {
