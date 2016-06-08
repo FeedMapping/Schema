@@ -1,5 +1,5 @@
 ---
-title: conclution
+title: conclusion
 category: Site Building
 layout: page
 tags:
@@ -7,8 +7,8 @@ tags:
   - main
   - repo
 weight: 9
-permalink: /sites/conclution
-hyiplink: http://hyip.github.io/sites/conclution
+permalink: /sites/concsution
+hyiplink: http://hyip.github.io/sites/conclusion
 ---
 
 Horem ipsum dolor sit amettetur ing elit. 
