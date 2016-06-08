@@ -1,13 +1,12 @@
 ---
-title: repository
-category: Site Building
+title: Conclution
 layout: page
-toc: false
 tags:
-  - know-how
-  - software
-  - encryption
-permalink: /sites/repository
+  - route
+  - main
+  - repo
+weight: 9
+permalink: /sites/conclution
 ---
 
 Horem ipsum dolor sit amettetur ing elit. 
