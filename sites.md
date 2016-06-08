@@ -1,5 +1,5 @@
 ---
 layout: method
 title: Site Building
-permalink: /sites/
+permalink: /:categories/:title/
 ---
