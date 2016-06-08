@@ -1,5 +1,6 @@
 ---
-title: Conclution
+title: conclution
+category: Site Building
 layout: page
 tags:
   - route
@@ -10,5 +11,3 @@ permalink: /sites/conclution
 ---
 
 Horem ipsum dolor sit amettetur ing elit. 
-							In mollis erat mattis neque cilisis, sit amet ultries wertolio dasererat rutrume.<br><br>
-							In mollis erat mattis neque cilisis, sit amet ultries wertolio dasererat rutrume.
