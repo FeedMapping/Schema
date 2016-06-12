@@ -580,11 +580,11 @@ img {
   font: bold 48px/117px 'Arial', sans-serif;
 }
 .box_1 .icon_2:before {
-  content: '\f0ad';
+  content: '\f007';
   font: 700 48px/117px 'FontAwesome';
 }
 .box_1 .icon_3:before {
-  content: '\f007';
+  content: '\f0ad';
   font: 700 48px/117px 'FontAwesome';
 }
 .box_1 .icon_4:before {
