@@ -51,12 +51,10 @@
 							um dolor sit amet, consecteturpiscing.
 						</p>
 						<p class="text_8">
-{% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})<br>
-  {% for post in repository.posts reversed %}
-  **{{ post.title }}
-  {% endfor %}
-{% endfor %}
+							{% for repository in site.github.public_repositories %}
+							  * [{{ repository.name }}]({{ repository.html_url }})<br>
+							  {% endfor %}
+							{% endfor %}
 						</p>
 					</address>
 					<h2 class="header_2 indent_5">
