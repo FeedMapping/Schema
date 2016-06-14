@@ -51,17 +51,12 @@
 							um dolor sit amet, consecteturpiscing.
 						</p>
 						<p class="text_8">
-							Our <a href="http://store.templatemonster.com/?aff=hyiptheme" rel="nofollow">premium website templates</a> go with 24/7 support. <br/>
-							<br/>
-							If you have any questions about customization of free themes, address <br/>
-							to guys from <a href="http://www.templatetuning.com/" rel="nofollow">TemplateTuning</a>. Note that it's a paid service. <br/>
-							<br/>
-							The Company Name Inc. <br/>
-							9870 St Vincent Place, <br/>
-							Glasgow, DC 45 Fr 45. <br/>
-							Telephone: +1 800 603 6035 <br/>
-							FAX: +1 800 889 9898 <br/>
-							E-mail: <a href="#">mail@demolink.org</a>
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})<br>
+  {% for post in repository.posts reversed %}
+  **{{ post.title }}
+  {% endfor %}
+{% endfor %}
 						</p>
 					</address>
 					<h2 class="header_2 indent_5">
