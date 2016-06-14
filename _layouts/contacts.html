@@ -54,8 +54,10 @@
 							you can get in touch with us using our contact form. 
 						<br /><br />						
 							{% for repository in site.github.public_repositories %}
-							  * [<a href="{{ repository.url }}" target="_blank">{{ repository.name }}</a>] - 
-							  {{ repository.description }}</a>{% if repository.fork %} (Forked){% endif %}<br>
+							  * Name: <a href="{{ repository.url }}" target="_blank">{{ repository.name }}</a> 
+							  {% if repository.fork %} (Forked){% endif %} - 
+							  Homepage: [<a href="{{ repository.homepage }}" target="_blank">{{ repository.homepage }}</a>]<br>
+							  {{ repository.description }}<br>
 							{% endfor %}
 						</p>
 					</address>
