@@ -55,7 +55,8 @@
 						</p>
 						<p class="text_8">
 							{% for repository in site.github.public_repositories %}
-							  * [{{ repository.name }}]({{ repository.html_url }})<br>
+							  * [<strong>{{ repository.name }}</strong>]
+							  (<a href="{{ repository.html_url }}" target="_blank">{{ repository.html_url }}</a>)<br>
 							{% endfor %}
 						</p>
 					</address>
