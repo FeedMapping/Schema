@@ -17,7 +17,8 @@
 					<ol class="breadcrumb">
 						<li>You are here</li>
 						<li><a href="/">Home</a></li>                  
-						<li class="active">Contacts</li>
+						<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+						<li class="active"><a href="https://github.com/hyip/{{ site.github.repository_name }}/blob/master/{{ page.path }}">Source Link</a></li>
 					</ol>
 				</div>
 			</div>
@@ -47,7 +48,7 @@
 					<address>
 						<p class="text_7 color_6">
 							This website lives as <a href="https://pages.github.com/">GitHub Pages</a> that is generated 
-							from several repositories as sorted below.
+							from the codes on several repositories as sorted below.
 						</p>
 						<p class="text_8">
 							If you have any questions about customization of the repositories <br/>
