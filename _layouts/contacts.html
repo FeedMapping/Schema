@@ -52,13 +52,17 @@
 						<p class="text_8">
 							If you have any questions about customization of the repositories <br/>
 							you can get in touch with us using our contact form. 
-						<br /><br />						
+						<br /><br />
+							<ul>						
 							{% for repository in site.github.public_repositories %}
-							  * Name: <a href="{{ repository.url }}" target="_blank">{{ repository.name }}</a> 
+							<li>						
+							  Name: <a href="{{ repository.html_url }}" target="_blank">{{ repository.name }}</a> 
 							  {% if repository.fork %} (Forked){% endif %} - 
 							  Homepage: [<a href="{{ repository.homepage }}" target="_blank">{{ repository.homepage }}</a>]<br>
 							  {{ repository.description }}<br>
+							</li>						
 							{% endfor %}
+							</ul>						
 						</p>
 					</address>
 				</div>
