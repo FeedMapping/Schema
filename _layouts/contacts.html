@@ -55,7 +55,7 @@
 						<br /><br />						
 							{% for repository in site.github.public_repositories %}
 							  * [<a href="{{ repository.html_url }}" target="_blank">{{ repository.name }}</a>] - 
-							  {{ repository.description }}</a>{% if page.category %}(Forked){% endif %}<br>
+							  {{ repository.description }}</a>{% if repository.fork %} (Forked){% endif %}<br>
 							{% endfor %}
 						</p>
 					</address>
