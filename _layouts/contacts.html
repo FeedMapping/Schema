@@ -70,61 +70,7 @@
 					<h2 class="header_2 indent_2">
 						Contact Form
 					</h2>
-					<form id="contact-form">
-						<div class="contact-form-loader"></div>
-						<fieldset>
-							<div class="row">
-								<div class="grid_2">
-									<label class="name">
-										<input type="text" name="name" placeholder="Name:" value=""
-											   data-constraints="@Required @JustLetters"/>
-										<span class="empty-message">*This field is required.</span>
-										<span class="error-message">*This is not a valid name.</span>
-									</label>
-								</div>
-								<div class="grid_2">
-									<label class="email">
-										<input type="text" name="email" placeholder="E-mail:" value=""
-											   data-constraints="@Required @Email"/>
-										<span class="empty-message">*This field is required.</span>
-										<span class="error-message">*This is not a valid email.</span>
-									</label>
-								</div>
-								<div class="grid_2">
-									<label class="phone">
-										<input type="text" name="phone" placeholder="Phone:" value=""
-											   data-constraints="@JustNumbers"/>
-										<span class="empty-message">*This field is required.</span>
-										<span class="error-message">*This is not a valid phone.</span>
-									</label>
-								</div>
-							</div>
-							<label class="message">
-								<textarea name="message" placeholder="Message:"
-										  data-constraints='@Required @Length(min=20,max=999999)'></textarea>
-								<span class="empty-message">*This field is required.</span>
-								<span class="error-message">*The message is too short.</span>
-							</label>
-							<div class="btn-wrap">
-								<a class="btn_3" href="#" data-type="reset">clear</a>
-								<a class="btn_3" href="#" data-type="submit">send</a>
-							</div>
-						</fieldset>
-						<div class="modal fade response-message">
-							<div class="modal-dialog">
-								<div class="modal-content">
-									<div class="modal-header">
-										<button type="button" class="close" data-dismiss="modal"
-												aria-hidden="true">&times;</button>
-										<h4 class="modal-title">Your message is important for us! We will be in touch soon.</h4>
-									</div>
-									<div class="modal-body">
-										You may check for detailed respond at our <a href="https://disqus.com/home/forums/tophyips/" target="_blank">Community on Disqus</a>.
-									</div>
-								</div>
-							</div>
-						</div>
-					</form>
+						{% include disqus_load.html %} 
 				</div>
 			</div>
 		</div>
