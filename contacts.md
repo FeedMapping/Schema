@@ -7,6 +7,4 @@ hyiplink: http://hyip.github.io/contacts
 ---
 Version | Name | Features
 -------:|------|----------
-{% for repository in site.github.public_repositories %}
-1.0     |Alpha |lists with HTML 
-{% endfor %}
+{% for repository in site.github.public_repositories %}1|Alpha |lists with HTML{% endfor %}
