@@ -6,5 +6,7 @@ permalink: /contacts
 hyiplink: http://hyip.github.io/contacts
 ---
 Version | Name | Features
+{% for repository in site.github.public_repositories %}
 -------:|------|----------
-{% for repository in site.github.public_repositories %}1|Alpha |lists with HTML{% endfor %}
+1.0     |Alpha |lists with HTML 
+{% endfor %}
