@@ -5,4 +5,6 @@ layout-source: https://github.com/hyip/hyip.github.io/blob/master/_layouts/conta
 permalink: /contacts
 hyiplink: http://hyip.github.io/contacts
 ---
-content
+Version | Name | Features
+-------:|------|----------
+1.0     |Alpha |<li>Supports</li><li>lists</li><li>with HTML</li>
