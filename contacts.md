@@ -9,5 +9,6 @@ hyiplink: http://hyip.github.io/contacts
 - Name: <a href="{{ repository.html_url }}" target="_blank">{{ repository.name }}</a> 
   {% if repository.fork %} (Forked){% endif %} - 
   Homepage: [<a href="{{ repository.homepage }}" target="_blank">{{ repository.homepage }}</a>]<br>
-  {{ repository.description }}<hr>						
+  {{ repository.description }}
+* * *  
 {% endfor %}					
