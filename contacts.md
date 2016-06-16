@@ -5,8 +5,11 @@ layout-source: https://github.com/hyip/hyip.github.io/blob/master/_layouts/conta
 permalink: /contacts
 hyiplink: http://hyip.github.io/contacts
 ---
-Version | Name | Features
-------- | ---- | --------
-{% for repository in site.github.public_repositories %}
-1.0     |Alpha |lists with HTML  
-{% endfor %}
+							{% for repository in site.github.public_repositories %}
+							<li>						
+							  Name: <a href="{{ repository.html_url }}" target="_blank">{{ repository.name }}</a> 
+							  {% if repository.fork %} (Forked){% endif %} - 
+							  Homepage: [<a href="{{ repository.homepage }}" target="_blank">{{ repository.homepage }}</a>]<br>
+							  {{ repository.description }}<hr>
+							</li>						
+							{% endfor %}
