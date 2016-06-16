@@ -7,4 +7,4 @@ hyiplink: http://hyip.github.io/contacts
 ---
 Version | Name | Features
 -------:|------|----------
-1.0     |Alpha |<li>Supports</li><li>lists</li><li>with HTML</li>
+1.0     |Alpha |lists with HTML 
