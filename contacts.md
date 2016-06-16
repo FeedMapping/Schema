@@ -5,6 +5,7 @@ layout-source: https://github.com/hyip/hyip.github.io/blob/master/_layouts/conta
 permalink: /contacts
 hyiplink: http://hyip.github.io/contacts
 ---
+							<ul class="text_8">
 							{% for repository in site.github.public_repositories %}
 							<li>						
 							  Name: <a href="{{ repository.html_url }}" target="_blank">{{ repository.name }}</a> 
@@ -13,3 +14,4 @@ hyiplink: http://hyip.github.io/contacts
 							  {{ repository.description }}<hr>
 							</li>						
 							{% endfor %}
+							</ul>						
