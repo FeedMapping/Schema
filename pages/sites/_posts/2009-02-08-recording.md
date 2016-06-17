@@ -1,7 +1,7 @@
 ---
 title: recording
 category: site suilding
-layout: page
+layout: pages
 tags:
   - form
   - main

@@ -1,7 +1,7 @@
 ---
 title: conclusion
 category: site suilding
-layout: page
+layout: pages
 tags:
   - route
   - main
