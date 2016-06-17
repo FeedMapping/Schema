@@ -1,9 +1,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{% if page.category %}{% assign words = page.category | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize | append: ' ' }}{% endfor %}{% endcapture %}{{ titlecase }}: {{ page.title | capitalize }} - {{ site.description_page_category }}{% elsif page.title %}{{ page.title | capitalize }} - {{ site.description_page_title }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="description" content="{% if page.category %}{% assign words = page.category | split: ' ' %}{% capture categorycase %}{% for word in words %}{{ word | capitalize | append: ' ' }}{% endfor %}{% endcapture %}{{ categorycase }}: {{ page.title | capitalize }} - {{ site.description_page_category }}{% elsif page.title %}{% assign words = page.title | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize | append: ' ' }}{% endfor %}{% endcapture %}{{ titlecase }} - {{ site.description_page_title }}{% else %}{{ site.description }}{% endif %}">
 
-    <title>{% if page.category %}{{ titlecase }}: {{ page.title | capitalize }} | Courtesy of The HYIP Project{% elsif page.title %}{{ page.title }} | The HYIP Project - System Mapping and Definition{% else %}The HYIP Project | A Unique Mapping System - Open Source{% endif %}</title>
+    <title>{% if page.category %}{{ categorycase }}: {{ page.title | capitalize }} | Courtesy of The HYIP Project{% elsif page.title %}{{ page.title }} | The HYIP Project - System Mapping and Definition{% else %}The HYIP Project | A Unique Mapping System - Open Source{% endif %}</title>
 
     <!-- favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
