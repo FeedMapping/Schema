@@ -1,6 +1,6 @@
 ---
 title: scripting
-category: news & blogging
+category: business networking
 layout: pages
 tags:
   - knowhow

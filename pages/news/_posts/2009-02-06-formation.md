@@ -1,6 +1,6 @@
 ---
 title: formation
-category: news & blogging
+category: business networking
 layout: pages
 tags:
   - knowhow
