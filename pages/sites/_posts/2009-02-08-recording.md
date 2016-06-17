@@ -1,6 +1,6 @@
 ---
 title: recording
-category: site suilding
+category: site building
 layout: pages
 tags:
   - form

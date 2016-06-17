@@ -1,6 +1,6 @@
 ---
 title: conclusion
-category: site suilding
+category: site building
 layout: pages
 tags:
   - route
