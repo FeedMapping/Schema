@@ -1,6 +1,6 @@
 ---
 title: settlement
-category: Project Mapping
+category: project mapping
 layout: pages
 tags:
   - knowhow

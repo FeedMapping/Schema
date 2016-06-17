@@ -1,13 +1,13 @@
 ---
 title: conclusion
-category: Site Building
+category: site suilding
 layout: page
 tags:
   - route
   - main
   - repo
 weight: 9
-permalink: /sites/concsution
+permalink: /sites/conclusion
 hyiplink: http://hyip.github.io/sites/conclusion
 ---
 
