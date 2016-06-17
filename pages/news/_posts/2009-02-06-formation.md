@@ -1,0 +1,13 @@
+---
+title: formation
+category: News & Blogging
+layout: pages
+tags:
+  - knowhow
+  - software
+  - encryption
+  - resources
+permalink: /maps/overall
+hyiplink: http://hyip.github.io/maps/overall
+---
+Horem ipsum dolor sit amettetur ing elit. 
