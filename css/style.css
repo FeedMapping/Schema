@@ -301,6 +301,7 @@ img {
 /*============  Headers  =============*/
 .header_1 {
   text-align: center;
+  text-transform: capitalize;
   font: 600 48px/60px 'Open Sans', sans-serif;
 }
 .header_1.indent_1 {
@@ -322,6 +323,7 @@ img {
   }
 }
 .header_2 {
+  text-transform: capitalize;
   font: 600 36px/30px 'Open Sans', sans-serif;
 }
 .header_2.indent_1 {
