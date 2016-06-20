@@ -157,7 +157,7 @@
 						<li>You are here</li>
 						<li><a href="/">Home</a></li>{% if page.layout == "method" or page.layout == "pages" %}
 						<li><a href="/concept">Concept</a></li>{% endif %}                  
-						<li><a href="{{ page.url }}">{% if page.layout != "method" %}{{ page.layout }}{% else %}{{ page.title }}{% endif %}</a></li>
+						<li><a href="{{ page.url }}">{% if page.layout == "method" %}{{ page.title }}{% elsif page.layout == "pages" %}{{ page.category }}{% else %}{{ page.layout }}{% endif %}</a></li>
 						<li class="active"><a href="https://github.com/hyip/{{ site.github.repository_name }}/blob/master/{{ page.path }}">Source Link</a></li>
 					</ol>
 				</div>
