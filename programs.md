@@ -1,5 +1,5 @@
 ---
-title: Programs
+title: Our Programs
 layout: programs
 layout-source: https://github.com/hyip/hyip.github.io/blob/master/_layouts/programs.html
 permalink: /programs
