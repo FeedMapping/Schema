@@ -1,5 +1,5 @@
 ---
-title: Concept
+title: Our Concept
 layout: concept
 layout-source: https://github.com/hyip/hyip.github.io/blob/master/_layouts/concept.html
 permalink: /concept
