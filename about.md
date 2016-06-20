@@ -1,5 +1,5 @@
 ---
-title: About
+title: About The HYIP Project
 layout: about
 layout-source: https://github.com/hyip/hyip.github.io/blob/master/_layouts/about.html
 permalink: /about
