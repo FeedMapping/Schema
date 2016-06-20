@@ -1,5 +1,5 @@
 ---
-title: Contacts
+title: Find Us
 layout: contacts
 layout-source: https://github.com/hyip/hyip.github.io/blob/master/_layouts/contacts.html
 permalink: /contacts
