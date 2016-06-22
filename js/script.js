@@ -5,7 +5,7 @@ function include(url) {
 
 /* cookie.JS
  ========================================================*/
-include('js/jquery.cookie.js');
+include('/js/jquery.cookie.js');
 
 
 /* DEVICE.JS
