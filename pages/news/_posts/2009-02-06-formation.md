@@ -8,6 +8,6 @@ tags:
   - encryption
   - resources
 permalink: /news/formation
-hyiplink: http://hyip.github.io/news/formation
+pagelink: http://eq19.github.io/news/formation
 ---
 Horem ipsum dolor sit amettetur ing elit. 

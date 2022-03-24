@@ -8,6 +8,6 @@ tags:
   - encryption
   - resources
 permalink: /maps/comparison
-hyiplink: http://hyip.github.io/maps/comparison
+pagelink: http://eq19.github.io/maps/comparison
 ---
 Horem ipsum dolor sit amettetur ing elit. 

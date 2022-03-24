@@ -1,9 +1,9 @@
 ---
 title: Our Concept
 layout: concept
-layout-source: https://github.com/hyip/hyip.github.io/blob/master/_layouts/concept.html
+layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/concept.html
 permalink: /concept
-hyiplink: http://hyip.github.io/concept
+pagelink: http://eq19.github.io/concept
 ---
 # Typography 
 

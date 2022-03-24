@@ -8,6 +8,6 @@ tags:
   - encryption
   - resources
 permalink: /maps/employment
-hyiplink: http://hyip.github.io/maps/employment
+pagelink: http://eq19.github.io/maps/employment
 ---
 Horem ipsum dolor sit amettetur ing elit. 

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{% if page.category %}{% assign words = page.category | split: ' ' %}{% capture categorycase %}{% for word in words %}{{ word | capitalize | append: ' ' }}{% endfor %}{% endcapture %}{{ categorycase }}: {{ page.title | capitalize }} - {{ site.description_page_category }}{% elsif page.title %}{{ page.title }} - {{ site.description_page_title }}{% else %}{{ site.description }}{% endif %}">
 
-    <title>{% if page.category %}{{ categorycase }}: {{ page.title | capitalize }} | Courtesy of The HYIP Project{% elsif page.title %}{{ page.title }} | The HYIP Project - System Mapping and Definition{% else %}The HYIP Project | A Unique Mapping System - Open Source{% endif %}</title>
+    <title>{% if page.category %}{{ categorycase }}: {{ page.title | capitalize }} | Courtesy of The eQ19 Project{% elsif page.title %}{{ page.title }} | The eQ19 Project - System Mapping and Definition{% else %}The eQ19 Project | A Unique Mapping System - Open Source{% endif %}</title>
 
     <!-- favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
@@ -70,7 +70,7 @@
             <div class="row">
                 <div class="grid_12">
                     <div class="brand put-left">
-                        <h1><a href="/"><img src="/images/logo.png" alt="The HYIP Project | A Unique Kind of Mapping System - Open Source"/></a></h1>
+                        <h1><a href="/"><img src="/images/logo.png" alt="The eQ19 Project | A Unique Kind of Mapping System - Open Source"/></a></h1>
                     </div>
                     <nav class="nav put-right">
                         <ul class="sf-menu">
@@ -158,7 +158,7 @@
 						<li><a href="/">Home</a></li>{% if page.layout == "method" or page.layout == "pages" %}
 						<li><a href="/concept">Concept</a></li>{% endif %}                  
 						{% if page.layout == "method" %}<li><a href="{{ page.url }}">{{ page.title }}{% elsif page.layout == "pages" %}<li><a href="{{ page.url | replace:page.title,'' }}">{{ page.category }}</a></li><li><a href="{{ page.url }}">{{ page.title }}{% else %}<li><a href="{{ page.url }}">{{ page.layout }}{% endif %}</a></li>
-						<li class="active"><a href="https://github.com/hyip/{{ site.github.repository_name }}/blob/master/{{ page.path }}">Source Link</a></li>
+						<li class="active"><a href="https://github.com/eq19/{{ site.github.repository_name }}/blob/master/{{ page.path }}">Source Link</a></li>
 					</ol>
 				</div>
 			</div>

@@ -8,6 +8,6 @@ tags:
   - encryption
   - resources
 permalink: /news/scripting
-hyiplink: http://hyip.github.io/news/scripting
+pagelink: http://eq19.github.io/news/scripting
 ---
 Horem ipsum dolor sit amettetur ing elit. 

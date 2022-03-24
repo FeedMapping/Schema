@@ -8,6 +8,6 @@ tags:
   - encryption
   - resources
 permalink: /maps/spreading
-hyiplink: http://hyip.github.io/maps/spreading
+pagelink: http://eq19.github.io/maps/spreading
 ---
 Horem ipsum dolor sit amettetur ing elit. 

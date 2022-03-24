@@ -1,9 +1,9 @@
 ---
-title: About The HYIP Project
+title: About The eQ19 Project
 layout: about
-layout-source: https://github.com/hyip/hyip.github.io/blob/master/_layouts/about.html
+layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/about.html
 permalink: /about
-hyiplink: http://hyip.github.io/about
+pagelink: http://eq19.github.io/about
 ---
 # Typography 
 

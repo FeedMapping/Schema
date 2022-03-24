@@ -1,9 +1,9 @@
 ---
 title: Our Programs
 layout: programs
-layout-source: https://github.com/hyip/hyip.github.io/blob/master/_layouts/programs.html
+layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/programs.html
 permalink: /programs
-hyiplink: http://hyip.github.io/programs
+pagelink: http://eq19.github.io/programs
 ---
 # Typography 
 

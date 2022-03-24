@@ -1,9 +1,9 @@
 ---
 title: Find Us
 layout: contacts
-layout-source: https://github.com/hyip/hyip.github.io/blob/master/_layouts/contacts.html
+layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/contacts.html
 permalink: /contacts
-hyiplink: http://hyip.github.io/contacts
+pagelink: http://eq19.github.io/contacts
 ---
 # Typography 
 

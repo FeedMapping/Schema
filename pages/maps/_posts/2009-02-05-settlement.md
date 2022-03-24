@@ -8,6 +8,6 @@ tags:
   - encryption
   - resources
 permalink: /maps/settlement
-hyiplink: http://hyip.github.io/maps/settlement
+pagelink: http://eq19.github.io/maps/settlement
 ---
 Horem ipsum dolor sit amettetur ing elit. 
