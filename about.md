@@ -1,5 +1,5 @@
 ---
-title: About The eQ19 Project
+title: About The Quantum Project
 layout: about
 layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/about.html
 permalink: /about
