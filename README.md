@@ -452,6 +452,5 @@ This is formed as a partial of _168 (mapping) and 618 (feeding)_ that stand as  
 _The Pre-release 168_ is being developed for _[eCommerce](https://github.com/chetabahana/chetabahana.github.io/discussions/70)_ within 7 (seven) years. Based on the _[19 Cells](https://github.com/eq19/quantum#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those _10143_ to become 1st Release.
 
 So Be Patient and Stay Tuned!
-
-:copyright: [Quantum Project](https://github.com/MarketLeader)  
+:copyright: [The Quantum Project](https://github.com/eq19)  
 [![profile for eQ19 on Stack Exchange, a network of free, community-driven Q&amp;A sites](https://stackexchange.com/users/flair/5054985.png)](https://stackoverflow.com/users/4058484/eq19?tab=profile)   
