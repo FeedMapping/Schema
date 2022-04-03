@@ -1,6 +1,6 @@
 # Introduction
 
-Still far from production but at least it has a minimum error. This is the partial of [the whole scheme](https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) from our [Quantum Project](https://github.com/eq19) based on the algorithm of:
+This is the partial of [the whole scheme](https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) from our [Quantum Project](https://github.com/eq19) based on the algorithm of:
 
 **DNA Recombination: [M+F](https://github.com/chetabahana/chetabahana.github.io/blob/Chetabahana/_layouts/feed.rb) to [C1+C2](https://github.com/chetabahana/chetabahana.github.io/blob/workflows/_includes/data/roots.rb):**
 
@@ -17,7 +17,7 @@ Each cycles will have a total of seven (7) steps primes algorithm of base 10 tha
 
 [![Quantum Project - The Concept of Primes Algorithm by DNA Recombination](https://eq19.github.io/images/banner.jpg)](https://github.com/eq19/maps)
 
-Such of method is used to generate a _[basic grammar](https://github.com/chetabahana)_ which algorithm is adaptable for any kind of implementations or applications as explained further below.
+Such of method is used to generate a _[basic grammar](https://github.com/chetabahana)_ which algorithm is adaptable for any kind of implementations or applications as explained below.
 
 # Tabulate Prime by The Power of 168
 
