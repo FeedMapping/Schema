@@ -434,7 +434,7 @@ Therefore it will take several unsolved cases of modern science including but no
 
 [<img src=https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg>](https://github.com/chetabahana/track/wiki)
 
-The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](https://github.com/eq19/eq19.github.io#1st-step-q10-30).
+The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](https://github.com/eq19/eq19.github.io#1st-step-q10-30). Please find below the progress we have got so far.
 
 # Running Code
 
