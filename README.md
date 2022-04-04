@@ -106,9 +106,9 @@ Let's start by get in touch with the (30, 36)th as the result of Δ1 shown on th
 
 [![Prime Hexagon](https://user-images.githubusercontent.com/36441664/74550123-6dd1d680-4f83-11ea-8810-3b8f4f50a9c0.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
 
-Take a note that the next 10 number after 19 right before the 30 which are 20 up to 29 is in laid on the second rows of 17 while _[17's Cell](https://github.com/chetabahana/chetabahana.github.io/wiki/17)_ has 35+65=100=10².
+You may see that it is clearly showing the 30th Prime of 113=114-1 is routed to 36th Prime of 151=150+1 while both of the 30 and 36 are exactly laid on _[the 18’s Cell](https://github.com/chetabahana/chetabahana.github.io/wiki/18)_:
 
-You may see also that it is clearly showing the 30th Prime of 113=114-1 is routed to 36th Prime of 151=150+1 while both of the 30 and 36 are exactly laid on _[the 18’s Cell](https://github.com/chetabahana/chetabahana.github.io/wiki/18)_:
+Take also a note that the next 10 number after 19 right before the 30 which are 20 up to 29 is in laid on the second rows of 17 while _[17's Cell](https://github.com/chetabahana/chetabahana.github.io/wiki/17)_ has 35+65=100=10².
 
 ## 3rd Step: Q(36, 114)
 
@@ -301,11 +301,12 @@ True Prime Vektors ζ(s):
 ----------------------+-----+                                                ---
 ```
 
-See that this configuration showing a kind of turbulences which leads to a gap in the central of metatron where the replication is initiated there. The basic algorithm would take thr mechanism of DNA generation from RNA.
+See that this configuration showing a kind of turbulences which leads to a gap in the central of metatron where the replication is initiated there. The basic algorithm would take the mechanism of DNA generation from RNA.
 
 <img width=100% src=https://user-images.githubusercontent.com/36441664/100724943-01cb3c80-33f6-11eb-8564-c5a9ced2b668.png>
 
-By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19 out of _True Prime Pairs_.
+By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19 out of _True Prime Pairs_.  Thus that is the actual meaning of _[eQ19](https://github.com/eq19)_.
+
 
 ## 6th Step: Q(29, 19)
 
@@ -433,7 +434,7 @@ Therefore it will take several unsolved cases of modern science including but no
 
 [<img src=https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg>](https://github.com/chetabahana/track/wiki)
 
-The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](https://github.com/eq19/eq19.github.io#1st-step-q10-30). Thus that is the actual meaning of _[eQ19](https://github.com/eq19)_.
+The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](https://github.com/eq19/eq19.github.io#1st-step-q10-30).
 
 # Running Code
 
