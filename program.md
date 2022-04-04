@@ -1,9 +1,9 @@
 ---
-title: Our Programs
-layout: programs
-layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/programs.html
-permalink: /programs
-pagelink: http://eq19.github.io/programs
+title: Our Program
+layout: program
+layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/program.html
+permalink: /program
+pagelink: http://eq19.github.io/program
 ---
 # Typography 
 
