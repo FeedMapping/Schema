@@ -1,5 +1,5 @@
 ---
-title: About The Quantum Project
+title: Our Mapping
 layout: mapping
 layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/mapping.html
 permalink: /mapping
