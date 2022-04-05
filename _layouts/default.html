@@ -57,6 +57,7 @@
                         As <a href="https://github.com/eq19/info/wiki/Mapping">the concept</a> is basically applicable in general case, you can also find 
 						that we are going to walk to a kind of test drive thru our <a href="/maps">project mapping</a> 
 						by taking a certain model in such a way that you might easily define whether it is work on the real world or not.
+						{{ page.excerpt }}
                     </p>
                 </div>
             </div>
@@ -125,7 +126,7 @@
                 <div id="owl">
                     <div class="item">
                         <p class="text_3">
-						    {{ content }}
+						    {{ content | remove_first:page.excerpt }}
                         </p>
                     </div>
                 </div>
