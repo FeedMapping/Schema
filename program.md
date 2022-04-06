@@ -1,9 +1,9 @@
 ---
-title: Find Us
-layout: contacts
-layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/contacts.html
-permalink: /contacts
-pagelink: http://eq19.github.io/contacts
+title: Our Program
+layout: program
+layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/program.html
+permalink: /program
+pagelink: http://eq19.github.io/program
 ---
 # Typography 
 

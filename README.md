@@ -459,5 +459,5 @@ _The Pre-release 168_ is being developed for _[eCommerce](https://github.com/che
 
 So Be Patient and Stay Tuned!
 
-:copyright: [The Quantum Project](https://github.com/eq19)  
+© [The Quantum Project](https://github.com/eq19)  
 [![profile for eQ19 on Stack Exchange, a network of free, community-driven Q&amp;A sites](https://stackexchange.com/users/flair/5054985.png)](https://stackoverflow.com/users/4058484/eq19?tab=profile)   
