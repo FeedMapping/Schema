@@ -11,7 +11,7 @@ _C1+C2_ as implementations, see sample: [Project Base (C1)](https://chetabahana.
 
 This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using the cyclic algorithm of **[168](https://github.com/eq19/eq19.github.io#tabulate-prime-by-the-power-of-168) vs [618](https://github.com/eq19/eq19.github.io#next-target-tabulate-prime-by-618)** that act as [Lexer and Parser](https://stackoverflow.com/questions/2842809/lexers-vs-parsers).
 
-[<img width=100% src=https://user-images.githubusercontent.com/36441664/70385860-e5074f00-19c3-11ea-92f3-ec6f33bf9774.png>](https://stackoverflow.com/questions/2842809/lexers-vs-parsers)
+[![Lexer and Parser](https://user-images.githubusercontent.com/36441664/70385860-e5074f00-19c3-11ea-92f3-ec6f33bf9774.png)](https://stackoverflow.com/questions/2842809/lexers-vs-parsers)
 
 Each cycles will have a total of seven (7) steps primes algorithm of base 10 that consist of [three (3) leading steps](https://github.com/eq19/eq19.github.io#tabulate-prime-by-the-power-of-168) of 168: Q(10, 30), Q(30, 36), Q(36, 114) and [four (4) lagging steps](https://github.com/eq19/eq19.github.io#next-target-tabulate-prime-by-618) of 618: Q(114, 89), Q(89, 29), Q(29, 19), Q(19, 10):
 
@@ -53,7 +53,7 @@ Now we are going to see what is the purpose. Let's enter the journey of making *
 
 Let's put this prime pairs (5, 7, 11, 13, 17,19) in reverse (19, 17, 13, 11, 7, 5) then assign them as a default condition. Consider the (12/2)th = 6th prime = 13 is formed as an hexagon cube called the [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
 
-[<img src=https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png>](https://www.google.com/search?q=metatron&tbm=isch)
+[![LMetatron's Cube](https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png)](https://www.google.com/search?q=metatron&tbm=isch)
 
 Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Convert them to 10 primes up to 10th prime=29 then to 29 primes up to of (10th)th=29th prime=109. Now let's put Δ1 to 13 as the central of Metraton. 
 
@@ -208,23 +208,23 @@ It is clear that the primes are organized to generate another 1000 primes via a 
 
 That what and why **18+13+12=43** located within **the last 9 cells** is standing for!
 
-[<img width=100% src="https://user-images.githubusercontent.com/36441664/76146565-6f944300-60c6-11ea-829d-16f98dc94163.png">](https://www.hexspin.com/defining-the-prime-hexagon/)
+[![the last 9 cells](https://user-images.githubusercontent.com/36441664/76146565-6f944300-60c6-11ea-829d-16f98dc94163.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
 
 From the above explanation about 43 and 89 then the prime flow in the developed flowchart above should take a connection to form between them two. This is the reason why the sequence of its shapes are arranged as below:
 
-[<img width=100% src=https://user-images.githubusercontent.com/36441664/103147412-5492dc80-4787-11eb-8277-4fa39ce28c90.png>](https://github.com/chetabahana/tensorflow/wiki/Programming)
+[![the sequence](https://user-images.githubusercontent.com/36441664/103147412-5492dc80-4787-11eb-8277-4fa39ce28c90.png)](https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 Therefore the 30th primes will bear the responsibility to generate the prime 43 while the 36th prime for the 89. 
 
-[<img width=100% src=https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png>](https://github.com/chetabahana/tensorflow/wiki/Programming)
+[![generate the prime](https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png)](https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 This will take place on the 150 that should have a delta of Δ18 to the last number which is 168 where this 168 is exactly π(1000).
 
-[<img width=100% src=https://user-images.githubusercontent.com/36441664/107850441-06b85d80-6e35-11eb-8787-b947d7c60c2e.png>](https://github.com/chetabahana/tensorflow/wiki/Programming)
+[![delta of Δ18](https://user-images.githubusercontent.com/36441664/107850441-06b85d80-6e35-11eb-8787-b947d7c60c2e.png)](https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 Let's consider this flowchart of 168 as a lexer so the parser has to be designed to absorb the flow between the 30th and 36th. Then it will slightly form as a Metatron Cube of the hexagonal form of 18's Cell.
 
-[<img width=100% src=https://user-images.githubusercontent.com/36441664/107083678-9607b480-6828-11eb-9cdf-cfdfc4f6face.png>](https://github.com/chetabahana/tensorflow/wiki/Programming)
+[![delta of Δ18](https://user-images.githubusercontent.com/36441664/107083678-9607b480-6828-11eb-9cdf-cfdfc4f6face.png)](https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 Here we assign it as the diagram of 618.
 
