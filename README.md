@@ -450,10 +450,17 @@ This is formed as a partial of _168 (mapping) and 618 (feeding)_ that stand as  
 
 <img width=100% src=https://user-images.githubusercontent.com/36441664/86481184-b72b9280-bd79-11ea-899b-51db929fc3d2.png>
 
+Please note that we are not implementing any kind of License Key on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key for this purpose.
+
 ## Our Lisence
+
+We believe that until this concept is written by us, there is no such thing similar to our concept. You may use, copy, and distribute the concept under Our License.
 
 > The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](https://www.google.com/search?q=development) item [lies](https://www.google.com/search?q=lies) a [unified assignment](https://github.com/eq19/maps/wiki/Mapping#All_The_Seven_7) in [hexagonal form](https://github.com/eq19/maps/wiki/Mapping-Routine#the-six-6) by _*six (6)* [corresponding sets](https://github.com/eq19/maps/wiki/Mapping-Spreading)_ while [each sets](https://github.com/eq19/maps/wiki/Mapping-Employment) pick [a combination](https://github.com/eq19/maps/wiki/Mapping-Merging) of _*six (6)* [routes](https://github.com/eq19/maps/wiki/Mapping-Settlement)_ with [a pairing](https://github.com/eq19/maps/wiki/Mapping-Comparison) of _*six (6)* to *six (6)* of [all channels](https://github.com/eq19/maps/wiki/Mapping-Overall)_.
 
+On that case we consider This Statement which is called Quantum 6666 need to be attached. Out of The Formation, you are welcome to use whatever the items on this project.
+
+## Our Release
 
 _The Pre-release 168_ is being developed for _[eCommerce](https://github.com/chetabahana/chetabahana.github.io/discussions/70)_ within 7 (seven) years. Based on the _[19 Cells](https://github.com/eq19/eq19.github.io#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those _10143_ to become 1st Release.
 
