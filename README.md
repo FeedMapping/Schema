@@ -450,6 +450,11 @@ This is formed as a partial of _168 (mapping) and 618 (feeding)_ that stand as  
 
 <img width=100% src=https://user-images.githubusercontent.com/36441664/86481184-b72b9280-bd79-11ea-899b-51db929fc3d2.png>
 
+## Our Lisence
+
+> The <a href="https://www.google.com/search?q=definite">definite</a> key to <a href="https://www.google.com/search?q=identify">identify</a> whether you use our concept is when there a kind of <a href="https://www.google.com/search?q=development">development</a> item <a href="https://www.google.com/search?q=lies">lies</a> a [unified assignment](https://github.com/eq19/maps/Mapping#All_The_Seven_7) in [hexagonal form]([Mapping-Routine#the-six-6) by '''''six (6)''' [corresponding sets](Mapping-Spreading)'' while [each sets]([Mapping-Employment) pick [a combination](Mapping-Merging) of '''''six (6)''' [routes](Mapping-Settlement)'' with [a pairing](Mapping-Comparison) of '''''six (6)''' to '''six (6)''' of [all channels](Mapping-Overall)''.
+
+
 _The Pre-release 168_ is being developed for _[eCommerce](https://github.com/chetabahana/chetabahana.github.io/discussions/70)_ within 7 (seven) years. Based on the _[19 Cells](https://github.com/eq19/eq19.github.io#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those _10143_ to become 1st Release.
 
 So Be Patient and Stay Tuned!
