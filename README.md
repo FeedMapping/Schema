@@ -90,7 +90,7 @@ See how those primes reacted to compensate the Δ1 by spreading the gap in to a 
 
 In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 to π(100)=25 and π(1000)=168 above in to a flowchart diagrams.
 
-<img src=https://user-images.githubusercontent.com/36441664/128732737-81762604-0ae0-4a90-b5a8-30921cf46efb.png>
+[![generate the prime](https://user-images.githubusercontent.com/36441664/128732737-81762604-0ae0-4a90-b5a8-30921cf46efb.png)](https://github.com/eq19)
 
 See that this flows starting from π(10) and finalize by pairing of Δ12. Let's draw 12 of flow arrows in such a way where they have interconnection with 10 objects. So here we can get the idea of **10 number becoming 10 primes**.
 
@@ -98,7 +98,7 @@ See that this flows starting from π(10) and finalize by pairing of Δ12. Let's 
 
 This flowchart is designed base on the behaviour of the primes number that flows uniformly within an hexagon chart called _[The Prime Hexagon](https://www.hexspin.com/defining-the-prime-hexagon/)_. Here you might see that the number of 10 is the same direction with 19 while 10+19=29=10th prime.
 
-<img src=https://user-images.githubusercontent.com/36441664/105412087-d0892300-5c66-11eb-9c3e-19d8652b478c.png>
+[![generate the prime](https://user-images.githubusercontent.com/36441664/105412087-d0892300-5c66-11eb-9c3e-19d8652b478c.png)](https://github.com/eq19)
 
 By checking all of the loops there is nothing similar to this phenomena. It seems like all the numbers are actually set to let this term happen. So this chart is considered sufficient enought to be used to explain about the true power of this Δ1 flowing:
 
@@ -190,11 +190,11 @@ So the further process would always continously become the same algorithm.
 
 Within this development we will discuss about the interconnection between 168 and 618. Our pre-release has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser 
 
-<img src=https://user-images.githubusercontent.com/36441664/84902333-e6ce6f80-b0d6-11ea-8289-aac5e1961cd6.gif>
+[![generate the prime](https://user-images.githubusercontent.com/36441664/84902333-e6ce6f80-b0d6-11ea-8289-aac5e1961cd6.gif)](https://github.com/eq19)
 
 One of the major case is that we will start with the lagging steps. The basic algorithm is Synthesis of leading and lagging strands of DNA.
 
-<img src=https://user-images.githubusercontent.com/36441664/97624272-73137a80-1a59-11eb-8784-8f131e488847.jpg>
+[![generate the prime](https://user-images.githubusercontent.com/36441664/97624272-73137a80-1a59-11eb-8784-8f131e488847.jpg)](https://github.com/eq19)
 
 <blockquote>The leading strand is synthesized continuously in the direction of replication fork movement. The lagging strand is synthesized in small pieces (Okazaki fragments) backward from the overall direction of replication. The Okazaki fragments are then joined by the action of DNA ligase.</blockquote>
 
@@ -232,7 +232,7 @@ Here we assign it as the diagram of 618.
 
 The bilateral sum 9 will then double this 43 to 86 and act as the lexer while the prime 71 and 109 will act as the parser. This will compensate the other primes by the other of circles of the metatron which consist of 6 internal and 6 external.
 
-<img width=100% src=https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg>
+[![generate the prime](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](https://github.com/eq19)
 
 Let's look again to the Δ1 tabulation above. Take a note that the last rows has a sum of 43 which covered by prime 71 up the last prime of 109. See what is happen on the Central of Metatron which having the prime 13.
 
@@ -303,7 +303,8 @@ True Prime Vektors ζ(s):
 
 See that this configuration showing a kind of turbulences which leads to a gap in the central of metatron where the replication is initiated there. The basic algorithm would take the mechanism of DNA generation from RNA.
 
-<img width=100% src=https://user-images.githubusercontent.com/36441664/100724943-01cb3c80-33f6-11eb-8564-c5a9ced2b668.png>
+[![DNA generation from RNA](https://user-images.githubusercontent.com/36441664/100724943-01cb3c80-33f6-11eb-8564-c5a9ced2b668.png)](https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
+
 
 By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19 out of _True Prime Pairs_.  Thus that is the actual meaning of _[eQ19](https://github.com/eq19)_.
 
@@ -334,11 +335,12 @@ This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come 
 
 Let's take the end number each of the three (3) pairs then il will come to the 66:
 
-<img src=https://user-images.githubusercontent.com/36441664/83051968-e2cfa480-a078-11ea-8ff2-316a809a8fad.jpg>
+[![generate the prime](https://user-images.githubusercontent.com/36441664/83051968-e2cfa480-a078-11ea-8ff2-316a809a8fad.jpg)](https://github.com/eq19)
 
 On [the next target](https://github.com/chetabahana/chetabahana.github.io/discussions/categories/announcements) we will discuss about 1000/Φ = 618 = 619-1 = 114th prime - 1 as a lexer and parser shown below: 
 
-<img width=100% src=https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png>
+[![the next target](https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png)](https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
+
 
 Combining the two (2) algorithm then it will give the tabulation as below:
 
@@ -444,11 +446,11 @@ You may check the running code starting with [Sequence Diagram](https://chetabah
 
 Clicking on each of objects will turn to 6 (six) diagrams in the cycle form of [prime hexagon](https://github.com/chetabahana/hexagon) which is then return to the beginning. So in order to get code able to run online then the 168 is provided in [json](https://chetabahana.github.io/feed.json) while 618 in [xml](https://chetabahana.github.io/feeds.xml).
 
-<img width=100% src=https://user-images.githubusercontent.com/36441664/69475449-ce77ca00-0dff-11ea-964e-cc959db0740a.png>
+[![generate the prime](https://user-images.githubusercontent.com/36441664/69475449-ce77ca00-0dff-11ea-964e-cc959db0740a.png)](https://github.com/eq19)
 
 This is formed as a partial of _168 (mapping) and 618 (feeding)_ that stand as  [the whole scheme](https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of The M+F to C1+C2. Although the code is already running but however it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_.
 
-<img width=100% src=https://user-images.githubusercontent.com/36441664/86481184-b72b9280-bd79-11ea-899b-51db929fc3d2.png>
+[![generate the prime](https://user-images.githubusercontent.com/36441664/86481184-b72b9280-bd79-11ea-899b-51db929fc3d2.png)](https://github.com/eq19)
 
 Please note that we are not implementing any kind of License Key on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key for this purpose.
 
