@@ -15,7 +15,7 @@ This sample was developed by converting [eQuantum](https://github.com/eq19) to [
 
 Each cycles will have a total of seven (7) steps primes algorithm of base 10 that consist of [three (3) leading steps](https://github.com/eq19/eq19.github.io#tabulate-prime-by-the-power-of-168) of 168: Q(10, 30), Q(30, 36), Q(36, 114) and [four (4) lagging steps](https://github.com/eq19/eq19.github.io#next-target-tabulate-prime-by-618) of 618: Q(114, 89), Q(89, 29), Q(29, 19), Q(19, 10):
 
-[![Quantum Project - The Concept of Primes Algorithm by DNA Recombination](https://eq19.github.io/images/banner.jpg)](https://github.com/eq19/maps)
+[![eQuantum Project - The Concept of Primes Algorithm by DNA Recombination](https://eq19.github.io/images/banner.jpg)](https://github.com/eq19/maps)
 
 Such of method is used to generate a _[basic grammar](https://github.com/chetabahana)_ which algorithm is adaptable for any kind of implementations or applications as explained below.
 
