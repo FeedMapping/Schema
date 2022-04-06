@@ -23,7 +23,7 @@ Such of method is used to generate a _[basic grammar](https://github.com/chetaba
 
 Primes is formed by three (3) sets of twin prime pairs called _[The True Prime Pairs](https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. 
 
-<img src=https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg>
+[![The True Prime Pairs](https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg)](https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
 These primes are naturally distributed in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
 
