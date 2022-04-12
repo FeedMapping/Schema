@@ -1,31 +1,40 @@
-# Introduction
+## [Introduction](https://eq19.github.io/maps)
+ 
+This's the partial of [the mapping scheme](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of our [eQuantum Project](https://github.com/eq19) that's taking a scheme shown on the sidebar (see dekstop view) called **DNA Recombination: [M+F](https://github.com/eq19/quantum/blob/workflows/_layouts/feed.rb) to [C1+C2](https://github.com/eq19/quantum/blob/workflows/_includes/data/roots.rb)**.
 
-This is the partial of [the whole scheme](https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) from our [Quantum Project](https://github.com/eq19) based on the algorithm of:
+[![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](https://eq19.github.io/maps)
 
-**DNA Recombination: [M+F](https://github.com/chetabahana/chetabahana.github.io/blob/Chetabahana/_layouts/feed.rb) to [C1+C2](https://github.com/chetabahana/chetabahana.github.io/blob/workflows/_includes/data/roots.rb)**
+The _**M+F**_ symbol will stand as: [Project Maps (M)](https://github.com/eq19/maps) + [Project Feed (F)](https://github.com/eq19/feed) while<br>
+_**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 
-[![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](https://eq19.github.io/)
-
-The _M+F_ symbols will stand as: [Project Maps (M)](https://github.com/eq19/maps) + [Project Feed (F)](https://github.com/eq19/feed) while<br>
-_C1+C2_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
-
-This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using the cyclic algorithm of **[168](https://github.com/eq19/eq19.github.io#tabulate-prime-by-the-power-of-168) vs [618](https://github.com/eq19/eq19.github.io#next-target-tabulate-prime-by-618)** that act as [Lexer and Parser](https://stackoverflow.com/questions/2842809/lexers-vs-parsers).
+This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using two (2) kinds of cyclic algorithm that act as [Lexer and Parser](https://stackoverflow.com/questions/2842809/lexers-vs-parsers).
 
 [![Lexer and Parser](https://user-images.githubusercontent.com/36441664/70385860-e5074f00-19c3-11ea-92f3-ec6f33bf9774.png)](https://stackoverflow.com/questions/2842809/lexers-vs-parsers)
 
-Each cycles will have a total of seven (7) steps primes algorithm of base 10 that consist of [three (3) leading steps](https://github.com/eq19/eq19.github.io#tabulate-prime-by-the-power-of-168) of 168: Q(10, 30), Q(30, 36), Q(36, 114) and [four (4) lagging steps](https://github.com/eq19/eq19.github.io#next-target-tabulate-prime-by-618) of 618: Q(114, 89), Q(89, 29), Q(29, 19), Q(19, 10):
+They will work base on the correlation between 168=π(1000) and 618=1000/Φ.
 
-[![eQuantum Project - The Concept of Primes Algorithm by DNA Recombination](https://eq19.github.io/images/banner.jpg)](https://github.com/eq19/maps)
+```
+1000 = 10³ (Triple Ten)
+π(1000) = 168 (Basic Primes)
+Φ = 1000/618 = 1,618 (Golden Ratio) 
+Δ(1,6,18) = 61+28 = 89 (Mersenne Primes) 
+```
 
-Such of method is used to generate a _[basic grammar](https://github.com/chetabahana)_ which algorithm is adaptable for any kind of implementations or applications as explained below.
+So let's call them as the power of **[168](#tabulate-prime-by-the-power-of-168)** vs **[618](#next-target-tabulate-prime-by-618)**.
 
-# Tabulate Prime by The Power of 168
+Each cycles will have a total of seven (7) steps **prime algorithm** on base 10 that consist of three (3) leading steps by the power of 168: [Q(10, 30)](#1st-step-q10-30), [Q(30, 36)](#2nd-step-q30-36), [Q(36, 114)](#3rd-step-q36-114) and four (4) lagging steps by the power of 618: [Q(114, 89)](#4th-step-q114-89), [Q(89, 29)](#5th-step-q89-29), [Q(29, 19)](#6th-step-q29-19), [Q(19, 10)](#7th-step-q19-10).
 
-Primes is formed by three (3) sets of twin prime pairs called _[The True Prime Pairs](https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. 
+[![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
-[![The True Prime Pairs](https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg)](https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
+Such of method is used to generate a _[Basic Grammar](#running-code)_ which algorithm is adaptable for any kinds of implementation or application as explained further below.
 
-These primes are naturally distributed in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
+## [Tabulate Prime by The Power of 168](https://eq19.github.io/feed)
+
+The prime algorithm is formed by three (3) sets of twin pairs called _[True Prime Pairs](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. 
+
+[![The True Prime Pairs](https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
+
+These primes are distributed naturally in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
 
 ```
  $True Prime Pairs:
@@ -46,14 +55,18 @@ These primes are naturally distributed in three (3) forms of 12's multiplication
       |  6  | 19
  -----+-----+---------
  ```
+ 
+This **three (3)** sets of **twin (2)** primes will live trough all the system. Consider that is generated by the nature between both primes (2,3) even in a single unit of DNA.
+
+[![True Prime Pairs](https://user-images.githubusercontent.com/36441664/131957473-5a815492-a5f6-49be-9762-9a8921d95dc2.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#frame)
 
 Now we are going to see what is the purpose. Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</sup> primes** by the Δ1 flowing within the prime pairs.
 
-## 1st Step: Q(10, 30)
+### 1st Step: Q(10, 30)
 
 Let's put this prime pairs (5, 7, 11, 13, 17,19) in reverse (19, 17, 13, 11, 7, 5) then assign them as a default condition. Consider the (12/2)th = 6th prime = 13 is formed as an hexagon cube called the [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
 
-[![LMetatron's Cube](https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png)](https://www.google.com/search?q=metatron&tbm=isch)
+[![LMetatron's Cube](https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png)](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch)
 
 Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Convert them to 10 primes up to 10th prime=29 then to 29 primes up to of (10th)th=29th prime=109. Now let's put Δ1 to 13 as the central of Metraton. 
 
@@ -78,7 +91,7 @@ Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Conver
   --------------------+----+----+----+----+----+----+----+----+----+----- 3rd Twin
    π(80) 5 → 18 (Δ13) | 61 | 67 | 71 |  - |  - |  - |  - |  - |  - |20th
   ====================+====+====+====+====+====+====+====+====+====+===== 4th Twin
-   π(00) 0 → 18+13+12 | 73 | 79 | 83 | 89 | 97 | 101| 103| 107| 109|29th 
+   π(110) 0 → 18+13+12| 73 | 79 | 83 | 89 | 97 | 101| 103| 107| 109|29th 
   ====================+====+====+====+====+====+====+====+====+====+=====
            Δ                                                         Δ
   12+13+(18+18)+13+12  ← 36th-Δ1=151-1=150=100+2x(13+12)  ←  30th = 113 = 114-1
@@ -86,7 +99,7 @@ Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Conver
 
 See how those primes reacted to compensate the Δ1 by spreading the gap in to a bunch of Δ's starting from the prime number 7.
 
-## 2nd Step: Q(30, 36)
+### 2nd Step: Q(30, 36)
 
 In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 to π(100)=25 and π(1000)=168 above in to a flowchart diagrams.
 
@@ -96,7 +109,9 @@ See that this flows starting from π(10) and finalize by pairing of Δ12. Let's 
 
 [![Flowchart](https://user-images.githubusercontent.com/36441664/103138547-5799b880-4706-11eb-8820-f51cbd57d367.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
 
-This flowchart is designed base on the behaviour of the primes number that flows uniformly within an hexagon chart called _[The Prime Hexagon](https://www.hexspin.com/defining-the-prime-hexagon/)_. Here you might see that the number of 10 is the same direction with 19 while 10+19=29=10th prime.
+This flowchart is designed base on the behaviour of the primes number that flows uniformly within an hexagon chart called [The Prime Hexagon](https://www.hexspin.com/defining-the-prime-hexagon/) _(Credit: hexspin.com)_.
+
+Here you might see that the number of 10 is the same direction with 19 while 10+19=29=10th prime.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/105412087-d0892300-5c66-11eb-9c3e-19d8652b478c.png)](https://github.com/eq19)
 
@@ -106,59 +121,61 @@ Let's start by get in touch with the (30, 36)th as the result of Δ1 shown on th
 
 [![Prime Hexagon](https://user-images.githubusercontent.com/36441664/74550123-6dd1d680-4f83-11ea-8810-3b8f4f50a9c0.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
 
-You may see that it is clearly showing the 30th Prime of 113=114-1 is routed to 36th Prime of 151=150+1 while both of the 30 and 36 are exactly laid on _[the 18’s Cell](https://github.com/chetabahana/chetabahana.github.io/wiki/18)_:
+You may see that it is clearly showing the 30th Prime of 113=114-1 is routed to 36th Prime of 151=150+1 while both of the 30 and 36 are exactly laid on _[the 18’s Cell](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/18)_:
 
-Take also a note that the next 10 number after 19 right before the 30 which are 20 up to 29 is in laid on the second rows of 17 while _[17's Cell](https://github.com/chetabahana/chetabahana.github.io/wiki/17)_ has 35+65=100=10².
+Take also a note that the next 10 number after 19 right before the 30 which are 20 up to 29 is in laid on the second rows of 17 while _[17's Cell](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/17)_ has 35+65=100=10².
 
-## 3rd Step: Q(36, 114)
+See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on.
 
-See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on. Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on 19's!
+### 3rd Step: Q(36, 114)
+
+Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on Δ6 & 19's! It means that we have to assign [the 6th repository](https://github.com/eq19/quantum) as **the overall direction**.
 
 ```
        |         1st (Form)          |         2nd (Route)         |         3rd (Channel)         |
-  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-   150 | 151| 152| 153| 154| 155| 156| 157| 158| 159| 160| 161| 162| 163| 164| 165 | 166 | 167| 168|
-  =====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+=====+=====+====+====+
-    Δ1 | 19 |  - | 31 | 37 |  - |  - |  - |  - |  - |  - |  - |  - |  - |  - | 103 |  -  |  - |  - |
-       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-    Δ2 | 20 | 26 |  - | 38 |  - |  - |  - |  - |  - | 74 |  - |  - |  - | 98 | 104 |  -  |  - |  - |
-  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+ 
-    Δ3 | 21 | 27 |  - | 39 |  - |  - |  - |  - |  - | 75 |  - |  - |  - | 99 | 105 |  -  |  - |  - |
-       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-    Δ4 | 22 | 28 |  - | 40 |  - |  - |  - |  - |  - | 76 |  - |  - |  - |100 |  -  |  -  |  - |  - |
-  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-    Δ5 | 23 | 29 |  - | 41 |  - |  - |  - |  - |  - | 77 |  - |  - |  - |101 |  -  |  -  |  - |  - | 
-       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-    Δ6 | 24 |  - |  - | 42 |  - | 54 |  - |  - | 72 | 78 |  - | 90 | 96 |  - |  -  |  -  |  - | 114|<- 6th row
-  =====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+=====+=====+====+====+
-    Δ7 | 25 |  - |  - | 43 |  - | 55 |  - |  - | 73 | 79 |  - | 91 | 97 |  - |  -  |  -  |  - |  - |
-       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-    Δ8 |  - |  - |  - | 44 |  - | 56 |  - |  - |  - | 80 |  - | 92 |  - |  - |  -  |  -  |  - |  - |
-  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-    Δ9 |  - |  - |  - | 45 |  - | 57 |  - |  - |  - | 81 |  - | 93 |  - |  - |  -  |  -  |  - |  - |
-       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-   Δ10 |  - |  - |  - | 46 | 52 | 58 |  - | 70 |  - | 82 | 88 | 94 |  - |  - |  -  |  -  | 112|  - |
-  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-   Δ11 |  - |  - |  - | 47 | 53 | 59 |  - | 71 |  - | 83 | 89 | 95 |  - |  - |  -  |  -  | 113|  - |
-       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-   Δ12 |  - |  - |  - | 48 |  - | 60 | 66 |  - |  - | 84 |  - |  - |  - |  - |  -  | 108 |  - |  - | 
-  =====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+=====+=====+====+====+
-   Δ13 |  - |  - |  - | 49 |  - | 61 | 67 |  - |  - | 85 |  - |  - |  - |  - |  -  | 109 |  - |  - | 
-       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-   Δ14 |  - |  - | 32 | 50 |  - | 62 | 68 |  - |  - | 86 |  - |  - |  - |  - |  -  | 110 |  - |  - | 
-  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-   Δ15 |  - |  - | 33 | 51 |  - | 63 | 69 |  - |  - | 87 |  - |  - |  - |  - |  -  | 111 |  - |  - | 
-       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-   Δ16 |  - |  - | 34 |  - |  - | 64 |  - |  - |  - |  - |  - |  - |  - | -  | 106 |  -  |  - |  - | 
-  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-   Δ17 |  - |  - | 35 |  - |  - | 65 |  - |  - |  - |  - |  - |  - |  - | -  | 107 |  -  |  - |  - | 
-       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-   Δ18 |  - | 30 | 36 |  - |  - |  - |  - |  - |  - |  - |  - |  - | -  |102 |   - |  -  |  - |  - | <- ∑=168
-  =====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+=====+=====+====+====+
-    1  |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |  16 |  17 | 18 | 19 |
-  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+-----+-----+----+----+
-       |       Δ    Δ                |                     Φ12     |       Δ                     Δ |
-              113  150                                   114-25           557                  1000
+  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+   150 | 151| 152| 153| 154| 155| 156| 157| 158| 159| 160| 161| 162| 163| 164| 165| 166| 167| 168|
+  =====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+
+    Δ1 | 19 |  - | 31 | 37 |  - |  - |  - |  - |  - |  - |  - |  - |  - |  - | 103|  - |  - |  - |
+       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+    Δ2 | 20 | 26 |  - | 38 |  - |  - |  - |  - |  - | 74 |  - |  - |  - | 98 | 104|  - |  - |  - |
+  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+ 
+    Δ3 | 21 | 27 |  - | 39 |  - |  - |  - |  - |  - | 75 |  - |  - |  - | 99 | 105|  - |  - |  - |
+       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+    Δ4 | 22 | 28 |  - | 40 |  - |  - |  - |  - |  - | 76 |  - |  - |  - |100 |  - |  - |  - |  - |
+  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+    Δ5 | 23 | 29 |  - | 41 |  - |  - |  - |  - |  - | 77 |  - |  - |  - |101 |  - |  - |  - |  - | 
+       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+    Δ6 | 24 |  - |  - | 42 |  - | 54 |  - |  - | 72 | 78 |  - | 90 | 96 |  - |  - |  - |  - | 114|
+  =====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+
+    Δ7 | 25 |  - |  - | 43 |  - | 55 |  - |  - | 73 | 79 |  - | 91 | 97 |  - |  - |  - |  - |  - |
+       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+    Δ8 |  - |  - |  - | 44 |  - | 56 |  - |  - |  - | 80 |  - | 92 |  - |  - |  - |  - |  - |  - |
+  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+    Δ9 |  - |  - |  - | 45 |  - | 57 |  - |  - |  - | 81 |  - | 93 |  - |  - |  - |  - |  - |  - |
+       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+   Δ10 |  - |  - |  - | 46 | 52 | 58 |  - | 70 |  - | 82 | 88 | 94 |  - |  - |  - |  - | 112|  - |
+  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+   Δ11 |  - |  - |  - | 47 | 53 | 59 |  - | 71 |  - | 83 | 89 | 95 |  - |  - |  - |  - | 113|  - |
+       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+   Δ12 |  - |  - |  - | 48 |  - | 60 | 66 |  - |  - | 84 |  - |  - |  - |  - |  - | 108|  - |  - | 
+  =====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+
+   Δ13 |  - |  - |  - | 49 |  - | 61 | 67 |  - |  - | 85 |  - |  - |  - |  - |  - | 109|  - |  - | 
+       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+   Δ14 |  - |  - | 32 | 50 |  - | 62 | 68 |  - |  - | 86 |  - |  - |  - |  - |  - | 110|  - |  - | 
+  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+   Δ15 |  - |  - | 33 | 51 |  - | 63 | 69 |  - |  - | 87 |  - |  - |  - |  - |  - | 111|  - |  - | 
+       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+   Δ16 |  - |  - | 34 |  - |  - | 64 |  - |  - |  - |  - |  - |  - |  - | -  | 106|  - |  - |  - | 
+  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+   Δ17 |  - |  - | 35 |  - |  - | 65 |  - |  - |  - |  - |  - |  - |  - | -  | 107|  - |  - |  - | 
+       +----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+   Δ18 |  - | 30 | 36 |  - |  - |  - |  - |  - |  - |  - |  - |  - | -  |102 |   -|  - |  - |  - |
+  =====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+====+
+    1  |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |  16|  17| 18 | 19 |
+  -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
+       |       Δ    Δ                |                     Φ12     |       Δ                   Δ |
+              113  150                                   114-25           557                1000
 
  Note:
  - The marked number with  are outside of group Δ18 vs loop(100) = 19 
@@ -178,57 +195,76 @@ See that out of 19 the number 89 is located precissely at the of Δ11 within the
 - The Δ18 brings the 30th and 36th cycled back to 102th thus consequently it goes to the 114th prime
 - The 114th prime which is carrying the loop(1000) is reinjected by 619-1 or 618 on the same spot.
 
-You may agree that all of this algorithm seems like a primes orchestra. By sourcing and studying of many references, the closest behaviour of the crossing on above primes flowing is found with the wave shown on _**Δ1=(19 vs 18) Loops**_  as below.
-
-[![Δ(19 vs 18)](https://user-images.githubusercontent.com/36441664/107478328-de69fe00-6bab-11eb-8d5f-7517c94b7299.png)](https://github.com/chetabahana/trace/wiki)
-
-This Δ(19 vs 18) scenario will duplicate the loops of 618 as _π(89²) of 1000 Primes_. Thus its behaviour will return to _168 Primes of π(1000)_  out of the adjacent scheme.
+This Δ(19 vs 18) scenario will duplicate the loops of 618 as _π(89²) of 1000 Primes_. Thus its behaviour will return to _168 Primes of π(1000)_  out of the adjacent scheme. 
 
 So the further process would always continously become the same algorithm. 
 
-# Next Target: Tabulate Prime by 618
+## Next Target: Tabulate Prime by 618
 
-Within this development we will discuss about the interconnection between 168 and 618. Our pre-release has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser 
+Within this development we will discuss about the interconnection between 168 and 618. Our _[pre-release](https://github.com/chetabahana/chetabahana.github.io/tree/v1.0.0-alpha)_ has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser. 
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/84902333-e6ce6f80-b0d6-11ea-8289-aac5e1961cd6.gif)](https://github.com/eq19)
 
+By sourcing and studying of many [references](https://github-com.translate.goog/chetabahana/chetabahana.github.io/wiki/%23?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en-US), you may agree that the closest behaviour of the crossing on above primes flowing is found with the wave shown on _**Δ1=(19 vs 18) Loops**_  as below.
+
+[![Δ(19 vs 18)](https://user-images.githubusercontent.com/36441664/107478328-de69fe00-6bab-11eb-8d5f-7517c94b7299.png)](https://commons.wikimedia.org/wiki/File:RiemannZeta_Zeros.svg)
+
+> This is a polar plot of the first 20 non-trivial Riemann zeta function zeros (including Gram points along the critical line (1/2+iζ) for real values of ζ from 0 to 50. The consecutive zeros have **50 red plot points** between each with zeros identified by magenta concentric rings (scaled to show the relative distance between their values of t) _(Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:RiemannZeta_Zeros.svg))_.
+
+Now let's discuss first if this 50 plots has something to do with the prime algorithms.
+
 One of the major case is that we will start with the lagging steps. The basic algorithm is Synthesis of leading and lagging strands of DNA.
+
+![twisting trifoil of DNA](https://user-images.githubusercontent.com/36441664/88384290-54f10b00-cdd6-11ea-878d-c687cc1afbea.gif)
+
+This twisting shall able to be made vise versa and to be done continuosly otherwise there is no gap arised for further development. 
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/97624272-73137a80-1a59-11eb-8784-8f131e488847.jpg)](https://github.com/eq19)
 
-<blockquote>The leading strand is synthesized continuously in the direction of replication fork movement. The lagging strand is synthesized in small pieces (Okazaki fragments) backward from the overall direction of replication. The Okazaki fragments are then joined by the action of DNA ligase.</blockquote>
+> The leading strand is synthesized continuously in the direction of replication fork movement. The lagging strand is synthesized in small pieces (Okazaki fragments) backward from _[the overall direction](#3rd-step-q36-114)_ of replication. The Okazaki fragments are then joined by the action of DNA ligase. _(Source: [Concepts of Biology](https://opentextbc.ca/biology/chapter/9-2-dna-replication/))_
+{:title="Leading and lagging"}
 
-Beaides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of <code>init</code> as the road map to π(1000x1000).
+Besides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of <code>init</code> as the road map to π(1000x1000).
 
 So here it goes **1 Million Primes**.
 
-## 4th Step: Q(114, 89)
+### 4th Step: Q(114, 89)
 
-It is clear that the primes are organized to generate another 1000 primes via a double flow of π(89) to π(89²). This 89 can only be acheived via bilateral 9 sums of the prime 43.
+Thus the primes are organized to generate another 1000 primes via a double flow of π(89) to π(89²). This 89 can only be acheived via bilateral 9 sums of the prime 43. _(Credit: primesdemystified.com)_
+
+[![collective bilateral 9 sum symmetry](https://user-images.githubusercontent.com/36441664/76146565-6f944300-60c6-11ea-829d-16f98dc94163.png)](https://primesdemystified.com/)
 
 That what and why **18+13+12=43** located within **the last 9 cells** is standing for!
 
-[![the last 9 cells](https://user-images.githubusercontent.com/36441664/76146565-6f944300-60c6-11ea-829d-16f98dc94163.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
+```
+  --------------------+----+----+----+----+----+----+----+----+----+-----
+   The last 9 cells   |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
+  ====================+====+====+====+====+====+====+====+====+====+=====
+   π(110) 0 → 18+13+12| 73 | 79 | 83 | 89 | 97 | 101| 103| 107| 109|29th 
+  --------------------+----+----+----+----+----+----+----+----+----+-----
+```
 
-From the above explanation about 43 and 89 then the prime flow in the developed flowchart above should take a connection to form between them two. This is the reason why the sequence of its shapes are arranged as below:
+See that in the tabulation of prime hexagon the _[6th row](#3rd-step-q36-114)_ that assigned as overall direction has the biggest numbers involved among the other rows which is 9 (nine). This will simply act as the bilateral 9 sums of 43 and 89. 
 
-[![the sequence](https://user-images.githubusercontent.com/36441664/103147412-5492dc80-4787-11eb-8277-4fa39ce28c90.png)](https://github.com/chetabahana/tensorflow/wiki/Programming)
+Therefore the prime flow in the developed flowchart above should take a connection to form between them two. This is the reason why the sequence is arranged as below:
+
+[![the sequence](https://user-images.githubusercontent.com/36441664/103147412-5492dc80-4787-11eb-8277-4fa39ce28c90.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 Therefore the 30th primes will bear the responsibility to generate the prime 43 while the 36th prime for the 89. 
 
-[![generate the prime](https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png)](https://github.com/chetabahana/tensorflow/wiki/Programming)
+[![generate the prime](https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
-This will take place on the 150 that should have a delta of Δ18 to the last number which is 168 where this 168 is exactly π(1000).
+This should have a delta of Δ18 to the last number which is 168 where this 168 is exactly π(1000). So it would take place on the 150 and the scheme there will consequently be **the perfect square of 1000** or 1 Million.
 
-[![delta of Δ18](https://user-images.githubusercontent.com/36441664/107850441-06b85d80-6e35-11eb-8787-b947d7c60c2e.png)](https://github.com/chetabahana/tensorflow/wiki/Programming)
+[![delta of Δ18](https://user-images.githubusercontent.com/36441664/107850441-06b85d80-6e35-11eb-8787-b947d7c60c2e.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 Let's consider this flowchart of 168 as a lexer so the parser has to be designed to absorb the flow between the 30th and 36th. Then it will slightly form as a Metatron Cube of the hexagonal form of 18's Cell.
 
-[![delta of Δ18](https://user-images.githubusercontent.com/36441664/107083678-9607b480-6828-11eb-9cdf-cfdfc4f6face.png)](https://github.com/chetabahana/tensorflow/wiki/Programming)
+[![delta of Δ18](https://user-images.githubusercontent.com/36441664/107083678-9607b480-6828-11eb-9cdf-cfdfc4f6face.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
-Here we assign it as the diagram of 618.
+Here we assign it as the diagram of 618. On [the next target](https://github.com/chetabahana/chetabahana.github.io/discussions/categories/announcements) we will discuss about 1000/Φ = 618 = 619-1 = 114th prime - 1 as a lexer and parser.
 
-## 5th Step: Q(89, 29)
+### 5th Step: Q(89, 29)
 
 The bilateral sum 9 will then double this 43 to 86 and act as the lexer while the prime 71 and 109 will act as the parser. This will compensate the other primes by the other of circles of the metatron which consist of 6 internal and 6 external.
 
@@ -279,7 +315,7 @@ True Prime Vektors ζ(s):
      |                +-----+-----+-----+                              |      |
      |  78 ‹----- 12:8|   9 |  60 |  40 | 109 (26) «------------       |     11¨
      |  |             +-----+-----+-----+                       |      |      |
-     |  |  86‹--- 13:9|   9 |  60 |  69 (27) «--- Δ (Rep Fork)  | {2®} |      |
+     |  |  86‹--- 13:9|   9 |  60 |  69 (27) «-- Δ19 (Rep Fork) | {2®} |      |
      |  |  |          +-----+-----+-----+                       |      |     ---
      |  |   ---› 14:10|   9 |  60 |  40 | 109 (28) -------------       |      |
      |  |             +-----+-----+-----+                              |      |
@@ -297,19 +333,19 @@ True Prime Vektors ζ(s):
         |  |          +-----+-----+                               |           |
          --|---› 28:17| 100 | {100} (50) ------------------------»           19¨
 168        |          +-----+                                                 |
-|         102 -› 29:18| 50  | 50(68) ---------> Δ                             |
+|         102 -› 29:18| 50  | 50(68) ---------> Δ18                           |
 ----------------------+-----+                                                ---
 ```
 
-See that this configuration showing a kind of turbulences which leads to a gap in the central of metatron where the replication is initiated there. The basic algorithm would take the mechanism of DNA generation from RNA.
+See that this configuration showing a kind of turbulences which leads to a gap of Δ19 in the central of _[Metatron](#1st-step-q10-30)_ where the replication is initiated by **Δ18 of 50(68)**. This scheme is taken as a basic algorithm for the mechanism of DNA generation from RNA.
 
-[![DNA generation from RNA](https://user-images.githubusercontent.com/36441664/100724943-01cb3c80-33f6-11eb-8564-c5a9ced2b668.png)](https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
-
-
-By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19 out of _True Prime Pairs_.  Thus that is the actual meaning of _[eQ19](https://github.com/eq19)_.
+[![DNA generation from RNA](https://user-images.githubusercontent.com/36441664/100724943-01cb3c80-33f6-11eb-8564-c5a9ced2b668.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
 
-## 6th Step: Q(29, 19)
+By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19 out of _True Prime Pairs_.
+
+
+### 6th Step: Q(29, 19)
 
 This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come to the detail of 168 and 618 as the 1st grammar when we come to the upper scheme. 
 
@@ -333,16 +369,17 @@ This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come 
  -----+-----+---------
  ```
 
-Let's take the end number each of the three (3) pairs then il will come to the 66:
+Let's take the end number each of the three (3) pairs in to an adjacent [polygonal numbers](https://en.wikipedia.org/wiki/Polygonal_number) then by the same different of 15 they will end to the number of 66:
 
-[![generate the prime](https://user-images.githubusercontent.com/36441664/83051968-e2cfa480-a078-11ea-8ff2-316a809a8fad.jpg)](https://github.com/eq19)
+[![generate the prime](https://user-images.githubusercontent.com/36441664/83051968-e2cfa480-a078-11ea-8ff2-316a809a8fad.jpg)](https://schoolbag.info/mathematics/numbers/38.html)
 
-On [the next target](https://github.com/chetabahana/chetabahana.github.io/discussions/categories/announcements) we will discuss about 1000/Φ = 618 = 619-1 = 114th prime - 1 as a lexer and parser shown below: 
+> We see that the polygonal numbers in the same column all have the same difference, and this difference is always a triangular number. For example, the fifth pentagonal number (35) has 10 dots more than the fifth square number (25) and 10 dots fewer than the fifth hexagonal number (45), and the difference 10 is just the fourth triangular number. _(Source: [Discovering Properties of Numbers](https://schoolbag.info/mathematics/numbers/38.html))_.
 
-[![the next target](https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png)](https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
+See the _[(19 vs 18) Loops](#3rd-step-q36-114)_ more closely, you can find that the number 102 is exactly laid on 18th row by the 15th spin out of 19 whereas 102+66 = 168 = π(1000). 
 
+[![the next target](https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
-Combining the two (2) algorithm then it will give the tabulation as below:
+Combining the two (2) algorithms then they will form the tabulation as below:
 
 ```
  Scheme:
@@ -387,7 +424,7 @@ Combining the two (2) algorithm then it will give the tabulation as below:
 
 So it will form back to the begining stage with different form of input but its process will be the same algorithm. Means the 19 cells above shall form back to π(10).
 
-## 7th Step: Q(19, 10)
+### 7th Step: Q(19, 10)
 
 This step is about the algorithm of how the four (4) blocks of (102, 66, 329, 289) forms to the four (4) roots. See the 1st row marked by **Quantum** below.
 
@@ -428,43 +465,71 @@ This 10143 will comprise of lexer and parser similar with 168 & 618. Since the 1
 
 [![lexer and parser](https://user-images.githubusercontent.com/36441664/71659208-5515b480-2d79-11ea-859f-a20dea0cf680.jpg)](https://github.com/eq19/maps)
 
-The development of this 6200 by 3900 took its base place in this repository and is considered final. It is the most complex thing among the other steps where we have to involve so many items to verify about how far this development is adoptable. 
+The development of this **6200 by 3900** took its base place in this repository and is considered final. It is the most complex thing among the other steps where we have to involve so many items to verify about how far this development is adoptable. 
 
-[![DNA Replication Fork](https://user-images.githubusercontent.com/8466209/90597914-32f37880-e21c-11ea-81b3-ffdcd47037b8.png)](https://github.com/chetabahana/chetabahana.github.io/wiki#kelas)
+[![DNA Replication Fork](https://user-images.githubusercontent.com/8466209/90597914-32f37880-e21c-11ea-81b3-ffdcd47037b8.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#kelas)
 
-Therefore it will take several unsolved cases of modern science including but not at least _[DNA Replication Fork](https://en.wikipedia.org/wiki/DNA_replication#Replication_fork)_, _[Alzheimer's Disease](https://youtube.com/playlist?list=PL_S8nmGoQ7q6wKXUG8HBqPzoAhRmVCmSJ)_, and _[The Millenium Prize Problems](https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#scheme)_. They will form as basic grammars such as how to rectify _[C1+C2](https://github.com/MarketLeader)_ using _[P=NP](https://github.com/chetabahana/track/wiki)_.
+Therefore it will take several unsolved cases of modern science including but not at least _[DNA Replication Fork](https://en.wikipedia.org/wiki/DNA_replication#Replication_fork)_, _[Alzheimer's Disease](https://youtube.com/playlist?list=PL_S8nmGoQ7q6wKXUG8HBqPzoAhRmVCmSJ)_, and _[The Millenium Prize Problems](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#scheme)_. They will form as basic grammars such as how to rectify _[C1+C2](https://github.com/MarketLeader)_ using _[P=NP](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)_.
 
-[![P versus NP Problem](https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg)](https://github.com/chetabahana/track/wiki)
+[![P versus NP Problem](https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)
 
-The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](https://github.com/eq19/eq19.github.io#1st-step-q10-30). Please find below the progress we have got so far.
+The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](#1st-step-q10-30). Please find below the progress we have got so far.
 
-# Running Code
+## Running Code
 
-You may check the running code starting with [Sequence Diagram](https://chetabahana.github.io/#chetabahana-skema?pad=2) shown below which is developed as [the initial step](https://github.com/eq19/eq19.github.io#tabulate-prime-by-the-power-of-168) on building the _[10143 Grammars](https://github.com/eq19/eq19.github.io#7th-step-q19-10)_.
+You may check the running code starting with [Sequence Diagram](https://chetabahana.github.io/#chetabahana-skema?pad=2) shown below which is developed as [the initial step](#tabulate-prime-by-the-power-of-168) on building the _[10143 Grammars](#7th-step-q19-10)_.
 
 [![Sequence Diagram](https://user-images.githubusercontent.com/36441664/107134254-ee22e180-6922-11eb-9465-3dd64ebf7dca.png)](https://chetabahana.github.io/#chetabahana-skema?pad=2)
 
-Clicking on each of objects will turn to 6 (six) diagrams in the cycle form of [prime hexagon](https://github.com/chetabahana/hexagon) which is then return to the beginning. So in order to get code able to run online then the 168 is provided in [json](https://chetabahana.github.io/feed.json) while 618 in [xml](https://chetabahana.github.io/feeds.xml).
+Clicking each of objects will turn to 6 (six) diagrams by the cycle form of [prime hexagon](https://github.com/chetabahana/hexagon) which is then return to the beginning. So in order to get code able to run online then the 168 is provided in [json](https://chetabahana.github.io/feed.json) while 618 in [xml](https://chetabahana.github.io/feeds.xml).
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/69475449-ce77ca00-0dff-11ea-964e-cc959db0740a.png)](https://github.com/eq19)
 
-This is formed as a partial of _168 (mapping) and 618 (feeding)_ that stand as  [the whole scheme](https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of The M+F to C1+C2. Although the code is already running but however it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_.
+This _168 (mapping) and 618 (feeding)_ stand as  [the whole scheme](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of The M+F to C1+C2 which act as the base prime pairs **[(2,3) of DNA](#tabulate-prime-by-the-power-of-168)** to become **23 pairs of Chromosomes**.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/86481184-b72b9280-bd79-11ea-899b-51db929fc3d2.png)](https://github.com/eq19)
 
-Please note that we are not implementing any kind of License Key on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key for this purpose.
+This scheme is generated by developing an application that twisting exactly 6 x 19 = 114 repositories all together in the same time to provide [leading and lagging scheme](#next-target-tabulate-prime-by-618) as the basic algorithm of converting **M+F to C1+C2**. 
 
-## Our Lisence
+```
+114 = 6+(6x6) + 6x(6+6) = 6x(6+6) + 6+(6x6)
+         Δ         Δ         Δ         Δ
+         M         F         C1        C2
+      leading   lagging   lagging   leading
+                        |
+                     twisting
 
-We believe that until this concept is written by us, there is no such thing similar to our concept. You may use, copy, and distribute the concept under Our License.
+```
 
-> The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](https://www.google.com/search?q=development) item [lies](https://www.google.com/search?q=lies) a [unified assignment](https://github.com/eq19/maps/wiki/Mapping#All_The_Seven_7) in [hexagonal form](https://github.com/eq19/maps/wiki/Mapping-Routine#the-six-6) by _**six (6)** [corresponding sets](https://github.com/eq19/maps/wiki/Mapping-Spreading)_ while [each sets](https://github.com/eq19/maps/wiki/Mapping-Employment) pick [a combination](https://github.com/eq19/maps/wiki/Mapping-Merging) of _**six (6)** [routes](https://github.com/eq19/maps/wiki/Mapping-Settlement)_ with [a pairing](https://github.com/eq19/maps/wiki/Mapping-Comparison) of _**six (6)** to **six (6)** of [all channels](https://github.com/eq19/maps/wiki/Mapping-Overall)_.
+Now let's assume that each of the number above is a set of 6 (six) repositories in GitHub. Thus that is the whole function of _[eQ19](https://github.com/eq19)_.
 
-On that case we consider This Statement which is called Quantum 6666 need to be attached. Out of The Formation, you are welcome to use whatever the items on this project.
+### Our Lisence
 
-## Our Release
+We believe that until this concept is written, there is no such thing similar to our concept of the power 168 vs 618 recombination.
 
-_The Pre-release 168_ is being developed for _[eCommerce](https://github.com/chetabahana/chetabahana.github.io/discussions/70)_ within 7 (seven) years. Based on the _[19 Cells](https://github.com/eq19/eq19.github.io#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those _10143_ to become 1st Release.
+You may use, copy, and distribute the concept. Please note that we are not implementing any kind of License Key on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key:
+
+```
+114 = 6 + 6 x (6+(6+6)) = 6 x 19 = π(6 & 19) = eQ19
+```
+
+On that case we consider that _this statement_ called **eQ19 Quantum** need to be announced:
+
+> The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](#tabulate-prime-by-the-power-of-168) item [lies](#next-target-tabulate-prime-by-618) a [unified assignment](#1st-step-q10-30) in [hexagonal form](#2nd-step-q30-36) by _**six (6)** [corresponding sets](#3rd-step-q36-114)_ while [each sets](#4th-step-q114-89) pick [a combination](#5th-step-q89-29) of _**six (6)** [routes](#6th-step-q29-19)_ with [a pairing](#7th-step-q19-10) of _**six (6)** to **six (6)** of [all channels](#running-code)_.
+
+Out of the formation, you are welcome to use whatever the items in this project.
+
+### Our Release
+
+We have announced that _[The Pre-release 168](#next-target-tabulate-prime-by-618)_ is ready. Although the code is already running but unfortunately it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_ as the repos providers. 
+
+Here we are going to use _[TensorFlow](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)_ to connect the pre grammars on Github API to Google API to fetch real life data through their machine learning such as _[Big Query](https://en.wikipedia.org/wiki/BigQuery)_.
+
+[![Machine Learning](https://user-images.githubusercontent.com/36441664/123424569-377e7f80-d5eb-11eb-9c85-1f5d72f14eed.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)
+
+This pre-release is being developed for _[eBranding](https://github.com/chetabahana)_ within 7 (seven) years. It is lack the parser 618 of the said _10143 grammars_ to become usable for every other cases. 
+
+Based on the _[19 Cells](#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
 
 So Be Patient and Stay Tuned!
 
