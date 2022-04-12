@@ -26,7 +26,7 @@ Each cycles will have a total of seven (7) steps **prime algorithm** on base 10 
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
-Such of method is used to generate a _[Basic Grammar](#running-code)_ which algorithm is adaptable for any kinds of implementation or application as explained further below.
+Such of method is used to generate a _[Basic Grammar](#running-code)_ between [<code>user</code>](https://github.com/Chetabahana) and [<code>organization</code>](https://github.com/MarketLeader) accounts which algorithm is adaptable for any kinds of implementation or application as explained further below.
 
 ## [Tabulate Prime by The Power of 168](https://eq19.github.io/feed)
 
