@@ -1,10 +1,13 @@
-disqus_shortname: tophyips
-global_site_tag: AW-815593044
-google_analytics: UA-79558814-1
+debug:
+  dist: false
+  compress: true
+  shortcodes: true
 
-description: We develop a unique kind of Mapping System as an Open Source Project by taking a business called Quantum Primes Recombination as the model.
-description_page_title: System Mapping and Mapping Definition of eQuantum Project - Primes Recombination - Open Source.
-description_page_category: Project Map on Mapping System of eQuantum Project - Primes Recombination - Open Source.
+google:
+  gtag: GTM-PGWT4RS
+  adsense: ca-pub-3677197599836940
 
-
-theme: jekyll-theme-cayman
+remote_theme: FeedTheme/jekyll-rtd-theme
+#remote_theme: pages-themes/tactile@v0.2.0
+#remote_theme: rundocs/jekyll-rtd-theme@v2.0.10
+#remote_theme: FeedTheme/jekyll-rtd-theme@v2.0.10
