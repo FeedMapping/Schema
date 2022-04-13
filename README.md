@@ -429,7 +429,11 @@ So it will form back to the begining stage with different form of input but its 
 
 ### [7th Step: Q(19, 10)](https://eq19.github.io/quantum)
 
-This step is about the algorithm of how the four (4) blocks of (102, 66, 329, 289) forms to the four (4) roots. See the 1st row marked by **Quantum** below.
+This step is about the algorithm of how the four (4) blocks of (102, 66, 329, 289) forms to the four (4) roots. 
+
+![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
+
+See the 1st row marked by **Quantum** below.
 
 ```
   --------------------+----+----+----+----+----+----+----+----+----+-----
