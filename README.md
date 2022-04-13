@@ -26,7 +26,7 @@ Each cycles will have a total of seven (7) steps **prime algorithm** on base 10 
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
-Such of method is used to generate a _[Basic Grammar](#running-code)_ between [<code>user</code>](https://github.com/Chetabahana) and [<code>organization</code>](https://github.com/MarketLeader) accounts which algorithm is adaptable for any kinds of implementation or application as explained further below.
+Such of method is used to generate a _[Basic Grammar](#running-code)_ between [<code>user</code>](#2nd-step-q30-36) and [<code>organization</code>](#3rd-step-q36-114) accounts which algorithm is adaptable for any kinds of implementation or application as explained further below.
 
 ## [Tabulate Prime by The Power of 168](https://eq19.github.io/maps)
 
@@ -99,7 +99,7 @@ Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Conver
 
 See how those primes reacted to compensate the Δ1 by spreading the gap in to a bunch of Δ's starting from the prime number 7.
 
-### [2nd Step: Q(30, 36)](https://chetabahana.github.io)
+### [2nd Step: Q(30, 36)](https://github.com/chetabahana)
 
 In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 to π(100)=25 and π(1000)=168 above in to a flowchart diagrams.
 
@@ -127,7 +127,7 @@ Take also a note that the next 10 number after 19 right before the 30 which are 
 
 See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on.
 
-### [3rd Step: Q(36, 114)](https://marketleader.github.io/)
+### [3rd Step: Q(36, 114)](https://github.com/marketleader)
 
 Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on Δ6 & 19's! It means that we have to assign [the 6th repository](https://github.com/eq19/quantum) as **the overall direction**.
 
