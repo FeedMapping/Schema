@@ -103,21 +103,21 @@ Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Conver
 
 See how those primes reacted to compensate the Δ1 by spreading the gap in to a bunch of Δ's starting from the prime number 7.
 
-### [2nd Step: Q(30, 36)](https://github.com/chetabahana)
-
 In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 to π(100)=25 and π(1000)=168 above in to a flowchart diagrams.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/128732737-81762604-0ae0-4a90-b5a8-30921cf46efb.png)](https://github.com/eq19)
 
 See that this flows starting from π(10) and finalize by pairing of Δ12. Let's draw 12 of flow arrows in such a way where they have interconnection with 10 objects. So here we can get the idea of **10 number becoming 10 primes**.
 
-[![Flowchart](https://user-images.githubusercontent.com/36441664/103138547-5799b880-4706-11eb-8820-f51cbd57d367.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
+### [2nd Step: Q(30, 36)](https://github.com/chetabahana)
 
 This flowchart is designed base on the behaviour of the primes number that flows uniformly within an hexagon chart called [The Prime Hexagon](https://www.hexspin.com/defining-the-prime-hexagon/) _(Credit: hexspin.com)_.
 
+[![generate the prime](https://user-images.githubusercontent.com/36441664/105412087-d0892300-5c66-11eb-9c3e-19d8652b478c.png)](https://github.com/eq19)
+
 Here you might see that the number of 10 is the same direction with 19 while 10+19=29=10th prime.
 
-[![generate the prime](https://user-images.githubusercontent.com/36441664/105412087-d0892300-5c66-11eb-9c3e-19d8652b478c.png)](https://github.com/eq19)
+[![Flowchart](https://user-images.githubusercontent.com/36441664/103138547-5799b880-4706-11eb-8820-f51cbd57d367.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
 
 By checking all of the loops there is nothing similar to this phenomena. It seems like all the numbers are actually set to let this term happen. So this chart is considered sufficient enought to be used to explain about the true power of this Δ1 flowing:
 
