@@ -507,7 +507,7 @@ Now let's assume that each of the number above is a set of 6 (six) repositories 
 
 We believe that until this concept is written, there is no such thing similar to our concept of the power 168 vs 618 recombination.
 
-You may use, copy, and distribute the concept. Please note that we are not implementing any kind of License Key on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key:
+You may use, copy, and distribute the concept. Please note that we are not implementing any kind of _License Key_ on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key:
 
 ```
 114 = 6 + 6 x (6+(6+6)) = 6 x 19 = π(6 & 19) = eQ19
