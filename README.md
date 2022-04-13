@@ -1,4 +1,4 @@
-## [Introduction](https://eq19.github.io/maps)
+## [Introduction](https://eq19.github.io/)
  
 This's the partial of [the mapping scheme](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of our [eQuantum Project](https://github.com/eq19) that's taking a scheme shown on the sidebar (see dekstop view) called **DNA Recombination: [M+F](https://github.com/eq19/quantum/blob/workflows/_layouts/feed.rb) to [C1+C2](https://github.com/eq19/quantum/blob/workflows/_includes/data/roots.rb)**.
 
@@ -28,7 +28,7 @@ Each cycles will have a total of seven (7) steps **prime algorithm** on base 10 
 
 Such of method is used to generate a _[Basic Grammar](#running-code)_ between [<code>user</code>](https://github.com/Chetabahana) and [<code>organization</code>](https://github.com/MarketLeader) accounts which algorithm is adaptable for any kinds of implementation or application as explained further below.
 
-## [Tabulate Prime by The Power of 168](https://eq19.github.io/feed)
+## [Tabulate Prime by The Power of 168](https://eq19.github.io/maps)
 
 The prime algorithm is formed by three (3) sets of twin pairs called _[True Prime Pairs](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. 
 
@@ -62,7 +62,7 @@ This **three (3)** sets of **twin (2)** primes will live trough all the system. 
 
 Now we are going to see what is the purpose. Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</sup> primes** by the Δ1 flowing within the prime pairs.
 
-### 1st Step: Q(10, 30)
+### [1st Step: Q(10, 30)](https://eq19.github.io/feed)
 
 Let's put this prime pairs (5, 7, 11, 13, 17,19) in reverse (19, 17, 13, 11, 7, 5) then assign them as a default condition. Consider the (12/2)th = 6th prime = 13 is formed as an hexagon cube called the [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
 
@@ -99,7 +99,7 @@ Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Conver
 
 See how those primes reacted to compensate the Δ1 by spreading the gap in to a bunch of Δ's starting from the prime number 7.
 
-### 2nd Step: Q(30, 36)
+### [2nd Step: Q(30, 36)](https://chetabahana.github.io)
 
 In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 to π(100)=25 and π(1000)=168 above in to a flowchart diagrams.
 
@@ -127,7 +127,7 @@ Take also a note that the next 10 number after 19 right before the 30 which are 
 
 See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on.
 
-### 3rd Step: Q(36, 114)
+### [3rd Step: Q(36, 114)](https://marketleader.github.io/)
 
 Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on Δ6 & 19's! It means that we have to assign [the 6th repository](https://github.com/eq19/quantum) as **the overall direction**.
 
@@ -228,7 +228,7 @@ Besides it, there is also strong signal that this parser will have the correlati
 
 So here it goes **1 Million Primes**.
 
-### 4th Step: Q(114, 89)
+### [4th Step: Q(114, 89)](https://eq19.github.io/script)
 
 Thus the primes are organized to generate another 1000 primes via a double flow of π(89) to π(89²). This 89 can only be acheived via bilateral 9 sums of the prime 43. _(Credit: primesdemystified.com)_
 
@@ -264,7 +264,7 @@ Let's consider this flowchart of 168 as a lexer so the parser has to be designed
 
 Here we assign it as the diagram of 618. On [the next target](https://github.com/chetabahana/chetabahana.github.io/discussions/categories/announcements) we will discuss about 1000/Φ = 618 = 619-1 = 114th prime - 1 as a lexer and parser.
 
-### 5th Step: Q(89, 29)
+### [5th Step: Q(89, 29)](https://eq19.github.io/rating)
 
 The bilateral sum 9 will then double this 43 to 86 and act as the lexer while the prime 71 and 109 will act as the parser. This will compensate the other primes by the other of circles of the metatron which consist of 6 internal and 6 external.
 
@@ -345,7 +345,7 @@ See that this configuration showing a kind of turbulences which leads to a gap o
 By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19 out of _True Prime Pairs_.
 
 
-### 6th Step: Q(29, 19)
+### [6th Step: Q(29, 19)](https://eq19.github.io/monitor)
 
 This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come to the detail of 168 and 618 as the 1st grammar when we come to the upper scheme. 
 
@@ -424,7 +424,7 @@ Combining the two (2) algorithms then they will form the tabulation as below:
 
 So it will form back to the begining stage with different form of input but its process will be the same algorithm. Means the 19 cells above shall form back to π(10).
 
-### 7th Step: Q(19, 10)
+### [7th Step: Q(19, 10)](https://eq19.github.io/quantum)
 
 This step is about the algorithm of how the four (4) blocks of (102, 66, 329, 289) forms to the four (4) roots. See the 1st row marked by **Quantum** below.
 
