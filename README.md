@@ -22,9 +22,7 @@ They will work base on the correlation between 168=π(1000) and 618=1000/Φ.
 
 So let's call them as the power of **[168](#tabulate-prime-by-the-power-of-168)** vs **[618](#next-target-tabulate-prime-by-618)**.
 
-Each cycles will have a total of seven (7) steps **prime algorithm** on base 10 that consist of three (3) leading steps by the power of 168: [Q3(10, 29)](#1st-step-q10-30), [Q5(30, 36)](#2nd-step-q30-36), [Q7(37, 114)](#3rd-step-q36-114) and four (4) lagging steps by the power of 618: [Q11(114, 90)](#4th-step-q114-89), [Q13(89, 30)](#5th-step-q89-29), [Q17(29, 21)](#6th-step-q29-19), [Q19(20, 10)](#7th-step-q19-10).
-
-
+Each cycles will have a total of seven (7) steps **prime algorithm** on base 10 that consist of three (3) **leading** steps by the power of 168: [Q3(10, 29)](#1st-step-q10-30), [Q5(30, 36)](#2nd-step-q30-36), [Q7(37, 114)](#3rd-step-q36-114) and four (4) **lagging** steps by 618: [Q11(114, 90)](#4th-step-q114-89), [Q13(89, 30)](#5th-step-q89-29), [Q17(29, 21)](#6th-step-q29-19), [Q19(20, 10)](#7th-step-q19-10).
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
