@@ -20,7 +20,7 @@ They will work base on the correlation between **168=π(1000)** as lexer and **6
 Δ(1,6,18) = 61+28 = 89 (Mersenne Primes) 
 ```
 
-Each cycles will have a total of seven (7) steps prime algorithm on **base 10** that consist of three (3) **leading** steps by the power of 168: [Q3(10, **29**)](#1st-step-q310-29), [Q5(30, 36)](#2nd-step-q530-36), [Q7(37, 114)](#3rd-step-q736-114) and four (4) **lagging** steps by 618: [Q11(113, 90)](#4th-step-q11113-89), [Q13(**89**, 30)](#5th-step-q1389-30), [Q17(29, 21)](#6th-step-q1729-21), [Q19(20, 10)](#7th-step-q1920-10).
+Each cycles will have a total of seven (7) steps prime algorithm on **base 10** that consist of three (3) **leading** steps by the power of 168: [Q19(10, **29**)](#1st-step-q310-29), [Q17(30, **36**)](#2nd-step-q530-36), [Q13(37, 114)](#3rd-step-q736-114) and four (4) **lagging** steps by 618: [Q11(**113**, 90)](#4th-step-q11113-89), [Q7(**89**, 30)](#5th-step-q1389-30), [Q3(**29**, 21)](#6th-step-q1729-21), [Q2(**20**, 10)](#7th-step-q1920-10).
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
