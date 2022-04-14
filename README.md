@@ -66,7 +66,7 @@ Now we are going to see why this could be happen. Let's enter the journey of mak
 
 ### [1st Step: Q3(10, 29)](https://eq19.github.io/feed)
 
-Let's assign another pairs (5, 7, 11, 13, 17,19) in to a combination so it will turn in reverse (19, 17, 13, 11, 7, 5). All toghether will forms (12/2)th = 6th prime = 13th circle on the center of an hexagon cube called the [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
+Let's assign another pairs (5, 7, 11, 13, 17,19) in to a combination so it will turn in reverse (19, 17, 13, 11, 7, 5) lies on the center of default. This 12 all toghether will forms (12/2)th = 6th prime = 13th circle on the center of an hexagonal cube called [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
 
 [![Metatron's Cube](https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png)](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch)
 
