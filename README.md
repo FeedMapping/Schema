@@ -224,7 +224,7 @@ This twisting shall able to be made vise versa and to be done continuosly otherw
 > The leading strand is synthesized continuously in the direction of replication fork movement. The lagging strand is synthesized in small pieces (Okazaki fragments) backward from _[the overall direction](#3rd-step-q736-114)_ of replication. The Okazaki fragments are then joined by the action of DNA ligase. _(Source: [Concepts of Biology](https://opentextbc.ca/biology/chapter/9-2-dna-replication/))_
 {:title="Leading and lagging"}
 
-Besides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of [<code>init</codehttps://eq19.github.io/maps) as the road map to π(1000x1000).
+Besides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of [<code>init</code>](https://eq19.github.io/maps) as the road map to π(1000x1000).
 
 So here it goes **1 Million Primes**.
 
