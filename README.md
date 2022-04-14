@@ -425,11 +425,7 @@ So it will form back to the begining stage with different form of input but its 
 
 ### [7th Step: Q2(18, 10)](https://eq19.github.io/quantum)
 
-This step is about the algorithm of how the four (4) blocks of (102, 66, 329, 289) forms to the four (4) roots. 
-
-![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
-
-See the 1st row marked by **Quantum** below.
+This step is about the algorithm of how the four (4) blocks of (102, 66, 329, 289) forms to the four (4) roots. See the 1st row marked by **Quantum** below.
 
 ```
   --------------------+----+----+----+----+----+----+----+----+----+-----
@@ -466,8 +462,6 @@ Root Generation:
 
 This 10143 will comprise of lexer and parser similar with 168 & 618. Since the 168 algorithm is set 102 by 66 then its ratio is 102/168=60% by 66/168=40% or approx 10143x60%=6200 of lexers by 10143x40%=3900 of parsers.
 
-[![lexer and parser](https://user-images.githubusercontent.com/36441664/71659208-5515b480-2d79-11ea-859f-a20dea0cf680.jpg)](https://github.com/eq19/maps)
-
 The development of this **6200 by 3900** took its base place in this repository and is considered final. It is the most complex thing among the other steps where we have to involve so many items to verify about how far this development is adoptable. 
 
 [![DNA Replication Fork](https://user-images.githubusercontent.com/8466209/90597914-32f37880-e21c-11ea-81b3-ffdcd47037b8.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#kelas)
@@ -479,6 +473,10 @@ Therefore it will take several unsolved cases of modern science including but no
 The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](#1st-step-q1910-29). Please find below the progress we have got so far.
 
 ## [Running Code](#2nd-step-q1730-36)
+
+ 
+
+![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
 
 You may check the running code starting with [Sequence Diagram](https://chetabahana.github.io/#chetabahana-skema?pad=2) shown below which is developed as [the initial step](#tabulate-prime-by-the-power-of-168) on building the _[10143 Grammars](#7th-step-q218-10)_.
 
@@ -526,11 +524,15 @@ Out of the formation, you are welcome to use whatever the items in this project.
 
 We have announced that _[The Pre-release 168](#next-target-tabulate-prime-by-618)_ is ready. Although the code is already running but unfortunately it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_ as the repos providers. 
 
+![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
+
 Here we are going to use _[TensorFlow](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)_ to connect the pre grammars on Github API to Google API to fetch real life data through their machine learning such as _[Big Query](https://en.wikipedia.org/wiki/BigQuery)_.
 
 [![Machine Learning](https://user-images.githubusercontent.com/36441664/123424569-377e7f80-d5eb-11eb-9c85-1f5d72f14eed.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)
 
 This pre-release is being developed for _[eBranding](https://github.com/chetabahana)_ within 7 (seven) years. It is lack the parser 618 of the said _10143 grammars_ to become usable for every other cases. 
+
+[![lexer and parser](https://user-images.githubusercontent.com/36441664/71659208-5515b480-2d79-11ea-859f-a20dea0cf680.jpg)](https://github.com/eq19/maps)
 
 Based on the _[19 Cells](#6th-step-q328-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
 
