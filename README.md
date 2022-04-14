@@ -20,7 +20,7 @@ They will work base on the correlation between **168=π(1000)** as lexer and **6
 Δ(1,6,18) = 61+28 = 89 (Mersenne Primes) 
 ```
 
-Each cycles will have a total of seven (7) steps prime algorithm on **base 10** that consist of three (3) **leading** steps by the power of 168: [Q19(10, **29**)](#1st-step-q1910-29), [Q17(30, **36**)](#2nd-step-q1730-36), [Q13(37, **114**)](#3rd-step-q1336-114) and four (4) **lagging** steps by 618: [Q11(**113**, 90)](#4th-step-q11113-89), [Q7(**89**, 30)](#5th-step-q789-30), [Q3(**29**, 19)](#6th-step-q329-19), [Q2(**18**, 10)](#7th-step-q218-10).
+Each cycles will have a total of seven (7) steps prime algorithm on **base 10** that consist of three (3) **leading** steps by the power of 168: [Q19(10, **29**)](#1st-step-q1910-29), [Q17(30, **36**)](#2nd-step-q1730-36), [Q13(37, **114**)](#3rd-step-q1336-114) and four (4) **lagging** steps by 618: [Q11(**113**, 90)](#4th-step-q11113-89), [Q7(**89**, 29)](#5th-step-q789-29), [Q3(**28**, 19)](#6th-step-q328-19), [Q2(**18**, 10)](#7th-step-q218-10).
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
@@ -264,7 +264,7 @@ Let's consider this flowchart of 168 as a lexer so the parser has to be designed
 
 Here we assign it as the diagram of 618. On [the next target](https://github.com/chetabahana/chetabahana.github.io/discussions/categories/announcements) we will discuss about 1000/Φ = 618 = 619-1 = 114th prime - 1 as a lexer and parser.
 
-### [5th Step: Q7(89, 30)](https://eq19.github.io/rating)
+### [5th Step: Q7(89, 29)](https://eq19.github.io/rating)
 
 The bilateral sum 9 will then double this 43 to 86 and act as the lexer while the prime 71 and 109 will act as the parser. This will compensate the other primes by the other of circles of the metatron which consist of 6 internal and 6 external.
 
@@ -344,7 +344,7 @@ See that this configuration showing a kind of turbulences which leads to a gap o
 
 By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19's.
 
-### [6th Step: Q3(29, 19)](https://eq19.github.io/monitor)
+### [6th Step: Q3(28, 19)](https://eq19.github.io/monitor)
 
 This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come to the detail of 168 and 618 as the 1st grammar when we come to the upper scheme. 
 
@@ -518,7 +518,7 @@ You may use, copy, and distribute the concept. Please note that we are not imple
 
 On that case we consider that _this statement_ called **eQ19 Quantum** need to be announced:
 
-> The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](#tabulate-prime-by-the-power-of-168) item [lies](#next-target-tabulate-prime-by-618) a [unified assignment](#1st-step-q1910-29) in [hexagonal form](#2nd-step-q1730-36) by _**six (6)** [corresponding sets](#3rd-step-q736-114)_ while [each sets](#4th-step-q11113-89) pick [a combination](#5th-step-q789-30) of _**six (6)** [routes](#6th-step-q329-19)_ with [a pairing](#7th-step-q218-10) of _**six (6)** to **six (6)** of [all channels](#running-code)_.
+> The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](#tabulate-prime-by-the-power-of-168) item [lies](#next-target-tabulate-prime-by-618) a [unified assignment](#1st-step-q1910-29) in [hexagonal form](#2nd-step-q1730-36) by _**six (6)** [corresponding sets](#3rd-step-q736-114)_ while [each sets](#4th-step-q11113-89) pick [a combination](#5th-step-q789-29) of _**six (6)** [routes](#6th-step-q328-19)_ with [a pairing](#7th-step-q218-10) of _**six (6)** to **six (6)** of [all channels](#running-code)_.
 
 Out of the formation, you are welcome to use whatever the items in this project.
 
@@ -532,7 +532,7 @@ Here we are going to use _[TensorFlow](http://translate.google.com/translate?js=
 
 This pre-release is being developed for _[eBranding](https://github.com/chetabahana)_ within 7 (seven) years. It is lack the parser 618 of the said _10143 grammars_ to become usable for every other cases. 
 
-Based on the _[19 Cells](#6th-step-q329-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
+Based on the _[19 Cells](#6th-step-q328-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
 
 So Be Patient and Stay Tuned!
 
