@@ -516,7 +516,7 @@ You may use, copy, and distribute the concept. Please note that we are not imple
 114 = 6 + 6 x (6+(6+6)) = 6 x 19 = π(6 & 19) = eQ19
 ```
 
-On that case we consider that _this statement_ called **eQ19 Quantum** need to be announced:
+On that case we consider _this statement_ called **eQ19 Quantum** need to be announced:
 
 > The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](#tabulate-prime-by-the-power-of-168) item [lies](#next-target-tabulate-prime-by-618) a [unified assignment](#1st-step-q1910-29) in [hexagonal form](#2nd-step-q1730-36) by _**six (6)** [corresponding sets](#3rd-step-q736-114)_ while [each sets](#4th-step-q11113-89) pick [a combination](#5th-step-q789-29) of _**six (6)** [routes](#6th-step-q328-19)_ with [a pairing](#7th-step-q218-10) of _**six (6)** to **six (6)** of [all channels](#running-code)_.
 
