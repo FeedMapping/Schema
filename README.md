@@ -270,7 +270,7 @@ The bilateral sum 9 will then double this 43 to 86 and act as the lexer while th
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/163196031-b29f162d-c9af-4dc4-b25c-9256127a4aa4.jpg)](https://www.primesdemystified.com/First1000Primes.html)
 
-Let's look again to the Δ1 tabulation above. Take a note that the last rows has a sum of 43 which covered by prime 71 up the last prime of 109. See what is happen on the Central of Metatron which having the prime 13.
+Let's assign another pairs in to the center of default. Take a note that the last rows has a sum of 43 which covered by **prime 71 up to 109**. See what is happen by the 13th circle.
 
 ```
 Scheme 13:9
