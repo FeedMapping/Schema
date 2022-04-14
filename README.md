@@ -103,13 +103,13 @@ In the sense of this Δ1 flowing, there will be really hard to cope its algorith
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/128732737-81762604-0ae0-4a90-b5a8-30921cf46efb.png)](https://github.com/eq19)
 
-See that this flows starting from π(10) and finalize by pairing of Δ12. Let's draw 12 of flow arrows in such a way where they have interconnection with 10 objects. So here we can get the idea of **10 number becoming 10 primes**.
-
-### [2nd Step: Q17(30, 36)](https://github.com/chetabahana)
-
 This flowchart is designed base on the behaviour of the primes number that flows uniformly within an hexagon chart called [The Prime Hexagon](https://www.hexspin.com/defining-the-prime-hexagon/) _(Credit: hexspin.com)_.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/105412087-d0892300-5c66-11eb-9c3e-19d8652b478c.png)](https://github.com/eq19)
+
+See that this flows starting from π(10) and finalize by pairing of Δ12. Let's draw 12 of flow arrows in such a way where they have interconnection with 10 objects. So here we can get the idea of **10 number becoming 10 primes**.
+
+### [2nd Step: Q17(30, 36)](https://github.com/chetabahana)
 
 Here you might see that the number of 10 is the same direction with 19 while 10+19=29=10th prime.
 
