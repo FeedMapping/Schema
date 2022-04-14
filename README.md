@@ -66,11 +66,11 @@ Now we are going to see why this could be happen. Let's enter the journey of mak
 
 ### [1st Step: Q3(10, 29)](https://eq19.github.io/feed)
 
-Let's assign another pairs (5, 7, 11, 13, 17,19) in to a combination so it will turn in reverse (19, 17, 13, 11, 7, 5) lies on the center of default. This 12 all toghether will forms (12/2)th = 6th prime = 13th circle on the center of an hexagonal cube called [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
+Let's assign another pairs (5, 7, 11, 13, 17,19) in to a combination so it will turn in reverse (19, 17, 13, 11, 7, 5) lies on the center of default. This 12 all toghether will form (12/2)th = 6th prime = 13 circles including the new one on the center of [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
 
 [![Metatron's Cube](https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png)](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch)
 
-Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Convert them to 10 primes up to 10th prime=29 then to 29 primes up to of (10th)th=29th prime=109. Now let's force 12 or Δ1 to the **prime 13**. See how those primes reacted to compensate the Δ1 by spreading the gap in to a bunch of Δ's that goes to the **13th circle**.
+Now let's force 12 or Δ1 to the **prime 13**. See how those primes reacted to compensate the Δ1 by spreading the gap in to a bunch of Δ's that goes to the **13th circle.
 
 ```
   Tabulate Prime by Power of 10
@@ -99,7 +99,7 @@ Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Conver
   12+13+(18+18)+13+12  ← 36th-Δ1=151-1=150=100+2x(13+12)  ←  30th = 113 = 114-1
 ```
 
-In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 to π(100)=25 and π(1000)=168 above in to a flowchart diagrams.
+In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 primes (2,3,5,7) to π(100)=25 and π(1000)=168 and convert them to 10th prime=29 then to 29 primes up to of (10th)th=29th prime=109 as a flowchart diagram.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/128732737-81762604-0ae0-4a90-b5a8-30921cf46efb.png)](https://github.com/eq19)
 
