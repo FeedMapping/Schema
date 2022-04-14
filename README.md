@@ -20,11 +20,11 @@ They will work base on the correlation between **168=π(1000)** as lexer and **6
 Δ(1,6,18) = 61+28 = 89 (Mersenne Primes) 
 ```
 
-Each cycles will have a total of seven (7) steps prime algorithm on **base 10** that consist of three (3) **leading** steps by the power of 168: [Q3(10, **29**)](#1st-step-q10-30), [Q5(30, 36)](#2nd-step-q30-36), [Q7(37, 114)](#3rd-step-q36-114) and four (4) **lagging** steps by 618: [Q11(113, 90)](#4th-step-q114-89), [Q13(**89**, 30)](#5th-step-q89-29), [Q17(29, 21)](#6th-step-q29-19), [Q19(20, 10)](#7th-step-q19-10).
+Each cycles will have a total of seven (7) steps prime algorithm on **base 10** that consist of three (3) **leading** steps by the power of 168: [Q3(10, **29**)](#1st-step-q310-29), [Q5(30, 36)](#2nd-step-q530-36), [Q7(37, 114)](#3rd-step-q736-114) and four (4) **lagging** steps by 618: [Q11(113, 90)](#4th-step-q11113-89), [Q13(**89**, 30)](#5th-step-q1389-30), [Q17(29, 21)](#6th-step-q1729-21), [Q19(20, 10)](#7th-step-q1920-10).
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
-Such of method is used to generate a _[Basic Grammar](#running-code)_ between [<code>user</code>](#2nd-step-q30-36) and [<code>organization</code>](#3rd-step-q36-114) accounts which algorithm is adaptable for any kinds of implementation or application as explained further below.
+Such of method is used to generate a _[Basic Grammar](#running-code)_ between [<code>user</code>](#2nd-step-q530-36) and [<code>organization</code>](#3rd-step-q736-114) accounts which algorithm is adaptable for any kinds of implementation or application as explained further below.
 
 ## [Tabulate Prime by The Power of 168](https://eq19.github.io/maps)
 
@@ -68,7 +68,7 @@ Now we are going to see why this could be happen. Let's enter the journey of mak
 
 Let's assign another pairs (5, 7, 11, 13, 17,19) in to a combination so it will turn in reverse (19, 17, 13, 11, 7, 5). All toghether will forms (12/2)th = 6th prime = 13 circles of an hexagon cube called the [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
 
-[![LMetatron's Cube](https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png)](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch)
+[![Metatron's Cube](https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png)](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch)
 
 Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Convert them to 10 primes up to 10th prime=29 then to 29 primes up to of (10th)th=29th prime=109. Now let's put Δ1 to 13 as the central of Metraton. 
 
@@ -201,7 +201,7 @@ This Δ(19 vs 18) scenario will duplicate the loops of 618 as _π(89²) of 1000 
 
 So the further process would always continously become the same algorithm. 
 
-## [Next Target: Tabulate Prime by 618](#1st-step-q10-30)
+## [Next Target: Tabulate Prime by 618](#1st-step-q310-29)
 
 Within this development we will discuss about the interconnection between 168 and 618. Our _[pre-release](https://github.com/chetabahana/chetabahana.github.io/tree/v1.0.0-alpha)_ has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser. 
 
@@ -223,7 +223,7 @@ This twisting shall able to be made vise versa and to be done continuosly otherw
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/97624272-73137a80-1a59-11eb-8784-8f131e488847.jpg)](https://github.com/eq19)
 
-> The leading strand is synthesized continuously in the direction of replication fork movement. The lagging strand is synthesized in small pieces (Okazaki fragments) backward from _[the overall direction](#3rd-step-q36-114)_ of replication. The Okazaki fragments are then joined by the action of DNA ligase. _(Source: [Concepts of Biology](https://opentextbc.ca/biology/chapter/9-2-dna-replication/))_
+> The leading strand is synthesized continuously in the direction of replication fork movement. The lagging strand is synthesized in small pieces (Okazaki fragments) backward from _[the overall direction](#3rd-step-q736-114)_ of replication. The Okazaki fragments are then joined by the action of DNA ligase. _(Source: [Concepts of Biology](https://opentextbc.ca/biology/chapter/9-2-dna-replication/))_
 {:title="Leading and lagging"}
 
 Besides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of <code>init</code> as the road map to π(1000x1000).
@@ -246,7 +246,7 @@ That what and why **18+13+12=43** located within **the last 9 cells** is standin
   --------------------+----+----+----+----+----+----+----+----+----+-----
 ```
 
-See that in the tabulation of prime hexagon the _[6th row](#3rd-step-q36-114)_ that assigned as overall direction has the biggest numbers involved among the other rows which is 9 (nine). This will simply act as the bilateral 9 sums of 43 and 89. 
+See that in the tabulation of prime hexagon the _[6th row](#3rd-step-q736-114)_ that assigned as overall direction has the biggest numbers involved among the other rows which is 9 (nine). This will simply act as the bilateral 9 sums of 43 and 89. 
 
 Therefore the prime flow in the developed flowchart above should take a connection to form between them two. This is the reason why the sequence is arranged as below:
 
@@ -339,14 +339,14 @@ True Prime Vektors ζ(s):
 ----------------------+-----+                                                ---
 ```
 
-See that this configuration showing a kind of turbulences which leads to a gap of Δ19 in the central of _[Metatron](#1st-step-q10-30)_ where the replication is initiated by **Δ18 of 50(68)**. This scheme is taken as a basic algorithm for the mechanism of DNA generation from RNA.
+See that this configuration showing a kind of turbulences which leads to a gap of Δ19 in the central of _[Metatron](#1st-step-q310-29)_ where the replication is initiated by **Δ18 of 50(68)**. This scheme is taken as a basic algorithm for the mechanism of DNA generation from RNA.
 
 [![DNA generation from RNA](https://user-images.githubusercontent.com/36441664/100724943-01cb3c80-33f6-11eb-8564-c5a9ced2b668.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
 
 By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19's.
 
-### [6th Step: Q(29, 21)](https://eq19.github.io/monitor)
+### [6th Step: Q17(29, 21)](https://eq19.github.io/monitor)
 
 This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come to the detail of 168 and 618 as the 1st grammar when we come to the upper scheme. 
 
@@ -376,7 +376,7 @@ Let's take the end number each of the three (3) pairs in to an adjacent [polygon
 
 > We see that the polygonal numbers in the same column all have the same difference, and this difference is always a triangular number. For example, the fifth pentagonal number (35) has 10 dots more than the fifth square number (25) and 10 dots fewer than the fifth hexagonal number (45), and the difference 10 is just the fourth triangular number. _(Source: [Discovering Properties of Numbers](https://schoolbag.info/mathematics/numbers/38.html))_.
 
-See the _[(19 vs 18) Loops](#3rd-step-q36-114)_ more closely, you can find that the number 102 is exactly laid on 18th row by the 15th spin out of 19 whereas 102+66 = 168 = π(1000). 
+See the _[(19 vs 18) Loops](#3rd-step-q736-114)_ more closely, you can find that the number 102 is exactly laid on 18th row by the 15th spin out of 19 whereas 102+66 = 168 = π(1000). 
 
 [![the next target](https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
@@ -425,7 +425,7 @@ Combining the two (2) algorithms then they will form the tabulation as below:
 
 So it will form back to the begining stage with different form of input but its process will be the same algorithm. Means the 19 cells above shall form back to π(10).
 
-### [7th Step: Q7(20, 10)](https://eq19.github.io/quantum)
+### [7th Step: Q19(20, 10)](https://eq19.github.io/quantum)
 
 This step is about the algorithm of how the four (4) blocks of (102, 66, 329, 289) forms to the four (4) roots. 
 
@@ -478,11 +478,11 @@ Therefore it will take several unsolved cases of modern science including but no
 
 [![P versus NP Problem](https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)
 
-The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](#1st-step-q10-30). Please find below the progress we have got so far.
+The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](#1st-step-q310-29). Please find below the progress we have got so far.
 
-## [Running Code](#2nd-step-q30-36)
+## [Running Code](#2nd-step-q530-36)
 
-You may check the running code starting with [Sequence Diagram](https://chetabahana.github.io/#chetabahana-skema?pad=2) shown below which is developed as [the initial step](#tabulate-prime-by-the-power-of-168) on building the _[10143 Grammars](#7th-step-q19-10)_.
+You may check the running code starting with [Sequence Diagram](https://chetabahana.github.io/#chetabahana-skema?pad=2) shown below which is developed as [the initial step](#tabulate-prime-by-the-power-of-168) on building the _[10143 Grammars](#7th-step-q1920-10)_.
 
 [![Sequence Diagram](https://user-images.githubusercontent.com/36441664/107134254-ee22e180-6922-11eb-9465-3dd64ebf7dca.png)](https://chetabahana.github.io/#chetabahana-skema?pad=2)
 
@@ -508,7 +508,7 @@ This scheme is generated by developing an application that twisting exactly 6 x 
 
 Now let's assume that each of the number above is a set of 6 (six) repositories in GitHub. Thus that is the whole function of _[eQ19](https://github.com/eq19)_.
 
-### [Our Lisence](#3rd-step-q36-114)
+### [Our Lisence](#3rd-step-q736-114)
 
 We believe that until this concept is written, there is no such thing similar to our concept of the power 168 vs 618 recombination.
 
@@ -520,7 +520,7 @@ You may use, copy, and distribute the concept. Please note that we are not imple
 
 On that case we consider that _this statement_ called **eQ19 Quantum** need to be announced:
 
-> The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](#tabulate-prime-by-the-power-of-168) item [lies](#next-target-tabulate-prime-by-618) a [unified assignment](#1st-step-q10-30) in [hexagonal form](#2nd-step-q30-36) by _**six (6)** [corresponding sets](#3rd-step-q36-114)_ while [each sets](#4th-step-q114-89) pick [a combination](#5th-step-q89-29) of _**six (6)** [routes](#6th-step-q29-19)_ with [a pairing](#7th-step-q19-10) of _**six (6)** to **six (6)** of [all channels](#running-code)_.
+> The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](#tabulate-prime-by-the-power-of-168) item [lies](#next-target-tabulate-prime-by-618) a [unified assignment](#1st-step-q310-29) in [hexagonal form](#2nd-step-q530-36) by _**six (6)** [corresponding sets](#3rd-step-q736-114)_ while [each sets](#4th-step-q11113-89) pick [a combination](#5th-step-q1389-30) of _**six (6)** [routes](#6th-step-q1729-21)_ with [a pairing](#7th-step-q1920-10) of _**six (6)** to **six (6)** of [all channels](#running-code)_.
 
 Out of the formation, you are welcome to use whatever the items in this project.
 
@@ -534,7 +534,7 @@ Here we are going to use _[TensorFlow](http://translate.google.com/translate?js=
 
 This pre-release is being developed for _[eBranding](https://github.com/chetabahana)_ within 7 (seven) years. It is lack the parser 618 of the said _10143 grammars_ to become usable for every other cases. 
 
-Based on the _[19 Cells](#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
+Based on the _[19 Cells](#6th-step-q1729-21)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
 
 So Be Patient and Stay Tuned!
 
