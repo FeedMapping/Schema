@@ -518,7 +518,7 @@ Out of the formation, you are welcome to use whatever the items in this project.
 
 ### [Next Release](#next-target-tabulate-prime-by-618)
 
-We have announced that _[The Pre-release 168](#next-target-tabulate-prime-by-618)_ is ready. Although the code is already running but unfortunately it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_ as the repos providers. 
+Although the _[The Pre-release 168](#next-target-tabulate-prime-by-618)_ is already running but unfortunately it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_ whre all of the repos is resided. 
 
 ![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
 
