@@ -230,7 +230,7 @@ So here it goes **1 Million Primes**.
 
 ### [4th Step: Q11(113, 90)](https://eq19.github.io/script)
 
-Thus the primes are organized to generate another 1000 primes via a double flow of π(89) to π(89²). This 89 can only be acheived via bilateral 9 sums of the prime 43. _(Credit: primesdemystified.com)_
+Thus the primes are organized to generate another 1000 primes via an adjacent flow of π(89) to π(89²). This scheme can only be acheived via **bilateral 9 sums** of the prime 43 by **modulo 90**. _(Credit: primesdemystified.com)_
 
 [![collective bilateral 9 sum symmetry](https://user-images.githubusercontent.com/36441664/76146565-6f944300-60c6-11ea-829d-16f98dc94163.png)](https://primesdemystified.com/)
 
