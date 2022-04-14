@@ -127,7 +127,7 @@ Take also a note that the next 10 number after 19 right before the 30 which are 
 
 See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on.
 
-### [3rd Step: Q13(36, 114)](https://github.com/marketleader)
+### [3rd Step: Q13(37, 114)](https://github.com/marketleader)
 
 Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on Δ6 & 19's! It means that we have to assign [the 6th repository](https://github.com/eq19/quantum) as **the overall direction**.
 
@@ -228,7 +228,7 @@ Besides it, there is also strong signal that this parser will have the correlati
 
 So here it goes **1 Million Primes**.
 
-### [4th Step: Q11(113, 89)](https://eq19.github.io/script)
+### [4th Step: Q11(113, 90)](https://eq19.github.io/script)
 
 Thus the primes are organized to generate another 1000 primes via a double flow of π(89) to π(89²). This 89 can only be acheived via bilateral 9 sums of the prime 43. _(Credit: primesdemystified.com)_
 
