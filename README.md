@@ -70,7 +70,7 @@ Let's assign another pairs (5, 7, 11, 13, 17,19) in to a combination so it will 
 
 [![Metatron's Cube](https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png)](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch)
 
-Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Convert them to 10 primes up to 10th prime=29 then to 29 primes up to of (10th)th=29th prime=109. Now let's put Δ1 to 13 as the central of Metraton. 
+Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Convert them to 10 primes up to 10th prime=29 then to 29 primes up to of (10th)th=29th prime=109. Now let's force 12 or Δ1 to the **prime 13**. See how those primes reacted to compensate the Δ1 by spreading the gap in to a bunch of Δ's that goes to the **13th circle**.
 
 ```
   Tabulate Prime by Power of 10
@@ -98,8 +98,6 @@ Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Conver
            Δ                                                         Δ
   12+13+(18+18)+13+12  ← 36th-Δ1=151-1=150=100+2x(13+12)  ←  30th = 113 = 114-1
 ```
-
-See how those primes reacted to compensate the Δ1 by spreading the gap in to a bunch of Δ's starting from the prime number 7.
 
 In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 to π(100)=25 and π(1000)=168 above in to a flowchart diagrams.
 
