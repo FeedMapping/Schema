@@ -20,11 +20,11 @@ They will work base on the correlation between **168=π(1000)** as lexer and **6
 Δ(1,6,18) = 61+28 = 89 (Mersenne Primes) 
 ```
 
-Each cycles will have a total of seven (7) steps prime algorithm on **base 10** that consist of three (3) **leading** steps by the power of 168: [Q19(10, **29**)](#1st-step-q310-29), [Q17(30, **36**)](#2nd-step-q530-36), [Q13(37, **114**)](#3rd-step-q736-114) and four (4) **lagging** steps by 618: [Q11(**113**, 90)](#4th-step-q11113-89), [Q7(**89**, 30)](#5th-step-q1389-30), [Q3(**29**, 21)](#6th-step-q1729-21), [Q2(**20**, 10)](#7th-step-q1920-10).
+Each cycles will have a total of seven (7) steps prime algorithm on **base 10** that consist of three (3) **leading** steps by the power of 168: [Q19(10, **29**)](#1st-step-q1910-29), [Q17(30, **36**)](#2nd-step-q1730-36), [Q13(37, **114**)](#3rd-step-q1336-114) and four (4) **lagging** steps by 618: [Q11(**113**, 90)](#4th-step-q11113-89), [Q7(**89**, 30)](#5th-step-q789-30), [Q3(**29**, 21)](#6th-step-q329-21), [Q2(**20**, 10)](#7th-step-q220-10).
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
-Such of method is used to generate a _[Basic Grammar](#running-code)_ between [<code>user</code>](#2nd-step-q530-36) and [<code>organization</code>](#3rd-step-q736-114) accounts which algorithm is adaptable for any kinds of implementation or application as explained further below.
+Such of method is used to generate a _[Basic Grammar](#running-code)_ between [<code>user</code>](#2nd-step-q1730-36) and [<code>organization</code>](#3rd-step-q736-114) accounts which algorithm is adaptable for any kinds of implementation or application as explained further below.
 
 ## [Tabulate Prime by The Power of 168](https://eq19.github.io/maps)
 
@@ -199,7 +199,7 @@ This Δ(19 vs 18) scenario will duplicate the loops of 618 as _π(89²) of 1000 
 
 So the further process would always continously become the same algorithm. 
 
-## [Next Target: Tabulate Prime by 618](#1st-step-q310-29)
+## [Next Target: Tabulate Prime by 618](#1st-step-q1910-29)
 
 Within this development we will discuss about the interconnection between 168 and 618. Our _[pre-release](https://github.com/chetabahana/chetabahana.github.io/tree/v1.0.0-alpha)_ has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser. 
 
@@ -337,7 +337,7 @@ True Prime Vektors ζ(s):
 ----------------------+-----+                                                ---
 ```
 
-See that this configuration showing a kind of turbulences which leads to a gap of Δ19 in the central of _[Metatron](#1st-step-q310-29)_ where the replication is initiated by **Δ18 of 50(68)**. This scheme is taken as a basic algorithm for the mechanism of DNA generation from RNA.
+See that this configuration showing a kind of turbulences which leads to a gap of Δ19 in the central of _[Metatron](#1st-step-q1910-29)_ where the replication is initiated by **Δ18 of 50(68)**. This scheme is taken as a basic algorithm for the mechanism of DNA generation from RNA.
 
 [![DNA generation from RNA](https://user-images.githubusercontent.com/36441664/100724943-01cb3c80-33f6-11eb-8564-c5a9ced2b668.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
@@ -476,11 +476,11 @@ Therefore it will take several unsolved cases of modern science including but no
 
 [![P versus NP Problem](https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)
 
-The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](#1st-step-q310-29). Please find below the progress we have got so far.
+The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](#1st-step-q1910-29). Please find below the progress we have got so far.
 
-## [Running Code](#2nd-step-q530-36)
+## [Running Code](#2nd-step-q1730-36)
 
-You may check the running code starting with [Sequence Diagram](https://chetabahana.github.io/#chetabahana-skema?pad=2) shown below which is developed as [the initial step](#tabulate-prime-by-the-power-of-168) on building the _[10143 Grammars](#7th-step-q1920-10)_.
+You may check the running code starting with [Sequence Diagram](https://chetabahana.github.io/#chetabahana-skema?pad=2) shown below which is developed as [the initial step](#tabulate-prime-by-the-power-of-168) on building the _[10143 Grammars](#7th-step-q220-10)_.
 
 [![Sequence Diagram](https://user-images.githubusercontent.com/36441664/107134254-ee22e180-6922-11eb-9465-3dd64ebf7dca.png)](https://chetabahana.github.io/#chetabahana-skema?pad=2)
 
@@ -518,7 +518,7 @@ You may use, copy, and distribute the concept. Please note that we are not imple
 
 On that case we consider that _this statement_ called **eQ19 Quantum** need to be announced:
 
-> The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](#tabulate-prime-by-the-power-of-168) item [lies](#next-target-tabulate-prime-by-618) a [unified assignment](#1st-step-q310-29) in [hexagonal form](#2nd-step-q530-36) by _**six (6)** [corresponding sets](#3rd-step-q736-114)_ while [each sets](#4th-step-q11113-89) pick [a combination](#5th-step-q1389-30) of _**six (6)** [routes](#6th-step-q1729-21)_ with [a pairing](#7th-step-q1920-10) of _**six (6)** to **six (6)** of [all channels](#running-code)_.
+> The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](#tabulate-prime-by-the-power-of-168) item [lies](#next-target-tabulate-prime-by-618) a [unified assignment](#1st-step-q1910-29) in [hexagonal form](#2nd-step-q1730-36) by _**six (6)** [corresponding sets](#3rd-step-q736-114)_ while [each sets](#4th-step-q11113-89) pick [a combination](#5th-step-q789-30) of _**six (6)** [routes](#6th-step-q329-21)_ with [a pairing](#7th-step-q220-10) of _**six (6)** to **six (6)** of [all channels](#running-code)_.
 
 Out of the formation, you are welcome to use whatever the items in this project.
 
@@ -532,7 +532,7 @@ Here we are going to use _[TensorFlow](http://translate.google.com/translate?js=
 
 This pre-release is being developed for _[eBranding](https://github.com/chetabahana)_ within 7 (seven) years. It is lack the parser 618 of the said _10143 grammars_ to become usable for every other cases. 
 
-Based on the _[19 Cells](#6th-step-q1729-21)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
+Based on the _[19 Cells](#6th-step-q329-21)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
 
 So Be Patient and Stay Tuned!
 
