@@ -20,7 +20,7 @@ They will work base on the correlation between **168=π(1000)** as lexer and **6
 Δ(1,6,18) = 61+28 = 89 (Mersenne Primes) 
 ```
 
-Each cycles will have a total of seven (7) steps prime algorithm on **base 10** that consist of three (3) **leading** steps by the power of 168: [Q19(10, **29**)](#1st-step-q1910-29), [Q17(30, **36**)](#2nd-step-q1730-36), [Q13(37, **114**)](#3rd-step-q1336-114) and four (4) **lagging** steps by 618: [Q11(**113**, 90)](#4th-step-q11113-89), [Q7(**89**, 29)](#5th-step-q789-29), [Q3(**28**, 19)](#6th-step-q328-19), [Q2(**18**, 10)](#7th-step-q218-10).
+Each cycles will have a total of seven (7) steps prime algorithm on **base 10** that consist of three (3) **leading** steps by the power of 168: [Q19(10, **29**)](#1st-step-q1910-29), [Q17(30, **36**)](#2nd-step-q1730-36), [Q13(37, **114**)](#3rd-step-q1336-114) and four (4) **lagging** steps by 618: [Q7(**113**, 90)](#4th-step-q7113-89), [Q5(**89**, 29)](#5th-step-q589-29), [Q3(**28**, 19)](#6th-step-q328-19), [Q2(**18**, 10)](#7th-step-q218-10).
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
@@ -78,23 +78,23 @@ Now let's force 12 or Δ1 to the **prime 13**. See how those primes reacted to c
   loop(100) = π(100)-π(10)-1th = 25-4-2 = 19
   loop(1000) = π(1000) - π(100) - 10th = 168-25-29 = 114
 
-  --------------------+----+----+----+----+----+----+----+----+----+-----
-   True Prime Pairs Δ |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
-  ====================+====+====+====+====+====+====+====+====+====+=====
-   π(10) 19           |  2 |  3 |  5 |  7 |  - |  - |  - |  - |  - | 4th  4 x Root
-  --------------------+----+----+----+----+----+----+----+----+----+-----
-   π(20) 17           | 11 | 13 | 17 | 19 |  - |  - |  - |  - |  - | 8th  4 x Twin
-  --------------------+----+----+----+----+----+----+----+----+----+-----
+  ---------------------+----+----+----+----+----+----+----+----+----+-----
+   True Prime Pairs Δ  |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
+  =====================+====+====+====+====+====+====+====+====+====+=====
+   π(10) 19            |  2 |  3 |  5 |  7 |  - |  - |  - |  - |  - | 4th  4 x Root
+  ---------------------+----+----+----+----+----+----+----+----+----+-----
+   π(20) 17            | 11 | 13 | 17 | 19 |  - |  - |  - |  - |  - | 8th  4 x Twin
+  ---------------------+----+----+----+----+----+----+----+----+----+-----
    π(30) 13 → 12 (Δ1) | 23 | 29 |  - |  - |  - |  - |  - |  - |  - |10th
-  ====================+====+====+====+====+====+====+====+====+====+===== 1st Twin
-   π(42) 11           | 31 | 37 | 41 |  - |  - |  - |  - |  - |  - |13th
-  --------------------+----+----+----+----+----+----+----+----+----+----- 2nd Twin
+  =====================+====+====+====+====+====+====+====+====+====+===== 1st Twin
+   π(42) 11            | 31 | 37 | 41 |  - |  - |  - |  - |  - |  - |13th
+  ---------------------+----+----+----+----+----+----+----+----+----+----- 2nd Twin
    π(60) 7 → 19 (Δ12) | 43 | 47 | 53 | 59 |  - |  - |  - |  - |  - |17th
-  --------------------+----+----+----+----+----+----+----+----+----+----- 3rd Twin
+  ---------------------+----+----+----+----+----+----+----+----+----+----- 3rd Twin
    π(72) 5 → 18 (Δ13) | 61 | 67 | 71 |  - |  - |  - |  - |  - |  - |20th
-  ====================+====+====+====+====+====+====+====+====+====+===== 4th Twin
-         0 → 18+13+12 | 73 | 79 | 83 | 89 | 97 | 101| 103| 107| 109|29th 
-  ====================+====+====+====+====+====+====+====+====+====+=====
+  =====================+====+====+====+====+====+====+====+====+====+===== 4th Twin
+       3,2 → 18+13+12 | 73 | 79 | 83 | 89 | 97 | 101| 103| 107| 109|29th 
+  =====================+====+====+====+====+====+====+====+====+====+=====
            Δ                                                         Δ
   12+13+(18+18)+13+12  ← 36th-Δ1=151-1=150=100+2x(13+12)  ←  30th = 113 = 114-1
 ```
@@ -228,7 +228,7 @@ Besides it, there is also strong signal that this parser will have the correlati
 
 So here it goes **1 Million Primes**.
 
-### [4th Step: Q11(113, 90)](https://eq19.github.io/script)
+### [4th Step: Q7(113, 90)](https://eq19.github.io/script)
 
 Thus the primes are organized to generate another 1000 primes via an adjacent flow of π(89) to π(89²). This scheme can only be acheived via **bilateral 9 sums** of prime 43 to 89 by **modulo 90**. _(Credit: primesdemystified.com)_
 
@@ -237,11 +237,11 @@ Thus the primes are organized to generate another 1000 primes via an adjacent fl
 That what and why **18+13+12=43** located within **the last 9 cells** is standing for!
 
 ```
-  --------------------+----+----+----+----+----+----+----+----+----+-----
-   The last 9 cells   |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
-  ====================+====+====+====+====+====+====+====+====+====+=====
-    0 → 18+13+12 → 43 | 73 | 79 | 83 | 89 | 97 | 101| 103| 107| 109|29th → 13th
-  --------------------+----+----+----+----+----+----+----+----+----+-----
+  -----------------+----+----+----+----+----+----+----+----+----+-----
+  The last 9 cells |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
+  =================+====+====+====+====+====+====+====+====+====+=====
+  3,2→18+13+12→43 | 73 | 79 | 83 | 89 | 97 | 101| 103| 107| 109|29th →13th→ 2,3
+  -----------------+----+----+----+----+----+----+----+----+----+-----
 ```
 
 See that in the tabulation of prime hexagon the _[6th row](#3rd-step-q736-114)_ that assigned as overall direction has the biggest numbers involved among the other rows which is 9 (nine). This will simply act as the bilateral 9 sums of 43 and 89. 
@@ -264,7 +264,7 @@ Let's consider this flowchart of 168 as a lexer so the parser has to be designed
 
 Here we assign it as the diagram of 618. On [the next target](https://github.com/chetabahana/chetabahana.github.io/discussions/categories/announcements) we will discuss about 1000/Φ = 618 = 619-1 = 114th prime - 1 as a lexer and parser.
 
-### [5th Step: Q7(89, 29)](https://eq19.github.io/rating)
+### [5th Step: Q5(89, 29)](https://eq19.github.io/rating)
 
 The bilateral sum 9 will then double this 43 to 86 and act as the lexer while the prime 71 and 109 will act as the parser. This will compensate the other primes by the other of circles of the metatron which consist of 6 internal and 6 external.
 
@@ -428,23 +428,23 @@ So it will form back to the begining stage with different form of input but its 
 This step is about the algorithm of how the four (4) blocks of (102, 66, 329, 289) forms to the four (4) roots. See the 1st row marked by **Quantum** below.
 
 ```
-  --------------------+----+----+----+----+----+----+----+----+----+-----
-   True Prime Pairs Δ |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
-  ====================+====+====+====+====+====+====+====+====+====+=====
+  ---------------------+----+----+----+----+----+----+----+----+----+-----
+   True Prime Pairs Δ  |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
+  =====================+====+====+====+====+====+====+====+====+====+=====
    π(10) Quantum ← 19 |  2 |  3 |  5 |  7 |  - |  - |  - |  - |  - | 4th  4 x Root
-  --------------------+----+----+----+----+----+----+----+----+----+-----
-   π(20) 17           | 11 | 13 | 17 | 19 |  - |  - |  - |  - |  - | 8th  4 x Twin
-  --------------------+----+----+----+----+----+----+----+----+----+-----
-   π(30) 13 → 12      | 23 | 29 |  - |  - |  - |  - |  - |  - |  - |10th
-  ====================+====+====+====+====+====+====+====+====+====+===== 1st Twin
-   π(42) 11           | 31 | 37 | 41 |  - |  - |  - |  - |  - |  - |13th
-  --------------------+----+----+----+----+----+----+----+----+----+----- 2nd Twin
+  ---------------------+----+----+----+----+----+----+----+----+----+-----
+   π(20) 17            | 11 | 13 | 17 | 19 |  - |  - |  - |  - |  - | 8th  4 x Twin
+  ---------------------+----+----+----+----+----+----+----+----+----+-----
+   π(30) 13 → 12 (Δ1) | 23 | 29 |  - |  - |  - |  - |  - |  - |  - |10th
+  =====================+====+====+====+====+====+====+====+====+====+===== 1st Twin
+   π(42) 11 → 11 (Δ0) | 31 | 37 | 41 |  - |  - |  - |  - |  - |  - |13th
+  ---------------------+----+----+----+----+----+----+----+----+----+----- 2nd Twin
    π(60) 7 → 19 (Δ12) | 43 | 47 | 53 | 59 |  - |  - |  - |  - |  - |17th
-  --------------------+----+----+----+----+----+----+----+----+----+----- 3rd Twin
+  ---------------------+----+----+----+----+----+----+----+----+----+----- 3rd Twin
    π(72) 5 → 18 (Δ13) | 61 | 67 | 71 |  - |  - |  - |  - |  - |  - |20th
-  ====================+====+====+====+====+====+====+====+====+====+===== 4th Twin
-         0 → 43      | 73 | 79 | 83 | 89 | 97 | 101| 103| 107| 109|29th 
-  ====================+====+====+====+====+====+====+====+====+====+=====
+  =====================+====+====+====+====+====+====+====+====+====+===== 4th Twin
+       3,2 → Δ43      | 73 | 79 | 83 | 89 | 97 | 101| 103| 107| 109|29th 
+  =====================+====+====+====+====+====+====+====+====+====+=====
            Δ                                                         Δ
   12+13+(18+18)+13+12  ← 36th-Δ1=151-1=150=100+2x(13+12)  ←  30th = 113 = 114-1
 ```
@@ -512,7 +512,7 @@ You may use, copy, and distribute the concept. Please note that we are not imple
 
 On that case we consider _this statement_ called **eQ19 Quantum** need to be announced:
 
-> The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](#tabulate-prime-by-the-power-of-168) item [lies](#next-target-tabulate-prime-by-618) a [unified assignment](#1st-step-q1910-29) in [hexagonal form](#2nd-step-q1730-36) by _**six (6)** [corresponding sets](#3rd-step-q736-114)_ while [each sets](#4th-step-q11113-89) pick [a combination](#5th-step-q789-29) of _**six (6)** [routes](#6th-step-q328-19)_ with [a pairing](#7th-step-q218-10) of _**six (6)** to **six (6)** of [all channels](#running-code)_.
+> The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](#tabulate-prime-by-the-power-of-168) item [lies](#next-target-tabulate-prime-by-618) a [unified assignment](#1st-step-q1910-29) in [hexagonal form](#2nd-step-q1730-36) by _**six (6)** [corresponding sets](#3rd-step-q736-114)_ while [each sets](#4th-step-q7113-89) pick [a combination](#5th-step-q589-29) of _**six (6)** [routes](#6th-step-q328-19)_ with [a pairing](#7th-step-q218-10) of _**six (6)** to **six (6)** of [all channels](#running-code)_.
 
 Out of the formation, you are welcome to use whatever the items in this project.
 
