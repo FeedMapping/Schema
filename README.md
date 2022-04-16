@@ -26,7 +26,7 @@ Each cycles will have a total of seven (7) steps prime algorithm on **base 10** 
 
 Such of method is used to generate a _[Basic Grammar](#running-code)_ between [<code>user</code>](#2nd-step-q1730-36) and [<code>organization</code>](#3rd-step-q736-114) accounts which algorithm is adaptable for any kinds of implementation or application as explained further below.
 
-## [Tabulate Prime by The Power of 168](https://eq19.github.io/maps)
+## [Tabulate Prime by The Power of 168](https://eq19.github.io/lexer)
 
 The prime algorithm is formed by three (3) sets of twin pairs called _[True Prime Pairs](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. 
 
