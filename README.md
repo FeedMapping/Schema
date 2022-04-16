@@ -127,7 +127,7 @@ Take also a note that the next 10 number after 19 right before the 30 which are 
 
 See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on.
 
-### [3rd Step: Q13(37, 114)](https://github.com/parser)
+### [3rd Step: Q13(37, 114)](https://eq19.github.io/parser)
 
 Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on Δ6 & 19's! It means that we have to assign [the 6th repository](https://github.com/eq19/quantum) as **the overall direction**.
 
@@ -344,7 +344,7 @@ See that this configuration showing a kind of turbulences which leads to a gap o
 
 By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19's.
 
-### [6th Step: Q3(28, 19)](https://github.com/marketleader)
+### [6th Step: Q3(28, 19)](https://github.com/chetabahana)
 
 This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come to the detail of 168 and 618 as the 1st grammar when we come to the upper scheme. 
 
@@ -423,7 +423,7 @@ Combining the two (2) algorithms then they will form the tabulation as below:
 
 So it will form back to the begining stage with different form of input but its process will be the same algorithm. Means the 19 cells above shall form back to π(10).
 
-### [7th Step: Q2(18, 10)](https://github.com/chetabahana)
+### [7th Step: Q2(18, 10)](https://github.com/marketleader)
 
 This step is about the algorithm of how the four (4) blocks of (102, 66, 329, 289) forms to the four (4) roots. See the 1st row marked by **Quantum** below.
 
