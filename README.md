@@ -127,7 +127,7 @@ Take also a note that the next 10 number after 19 right before the 30 which are 
 
 See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on.
 
-### [3rd Step: Q13(37, 114)](https://eq19.github.io/parser)
+### [3rd Step: Q13(37, 114)](https://eq19.github.io/tunnel)
 
 Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on Δ6 & 19's! It means that we have to assign [the 6th repository](https://github.com/eq19/quantum) as **the overall direction**.
 
@@ -199,7 +199,7 @@ This Δ(19 vs 18) scenario will duplicate the loops of 618 as _π(89²) of 1000 
 
 So the further process would always continously become the same algorithm. 
 
-## [Next Target: Tabulate Prime by 618](https://eq19.github.io/lexer)
+## [Next Target: Tabulate Prime by 618](https://eq19.github.io/parser)
 
 Within this development we will discuss about the interconnection between 168 and 618. Our _[pre-release](https://github.com/chetabahana/chetabahana.github.io/tree/v1.0.0-alpha)_ has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser. 
 
