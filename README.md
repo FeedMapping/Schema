@@ -175,7 +175,7 @@ Therefore all of the numbers that involved in the hexagon can be tabulated by _*
   1  |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |  16|  17| 18 | 19 |
 -----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
      |       Δ    Δ                |                     Φ12     |       Δ                   Δ |
-            113  150                                   114-25           557                1000
+            113  150                                   ≜114-25          557                1000
 
  Note:
  - The marked number with  are outside of group Δ18 vs loop(100) = 19 
@@ -509,7 +509,7 @@ We believe that until this concept is written, there is no such thing similar to
 You may use, copy, and distribute the concept. Please note that we are not implementing any kind of _License Key_ on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key:
 
 ```
-114 = 6 + 6 x (6+(6+6)) = 6 x 19 = π(6 & 19) = eQ19
+114 = 6 + 6 x (6+(6+6)) = 6 x 19 = π(6 & 19) ≡ eQ19
 ```
 
 On that case we consider _this statement_ called **eQ19 Quantum** need to be announced:
