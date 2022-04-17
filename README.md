@@ -509,7 +509,7 @@ We believe that until this concept is written, there is no such thing similar to
 You may use, copy, and distribute the concept. Please note that we are not implementing any kind of _License Key_ on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key:
 
 ```
-114 = 6 + 6 x (6+(6+6)) = 6 x 19 = π(6 & 19) ≡ eQ19
+114 = 6 + 6 x (6+(6+6)) = 6 x 19 = π(619) ≡ eQ19
 ```
 
 On that case we consider _this statement_ called **eQ19 Quantum** need to be announced:
