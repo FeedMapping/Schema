@@ -344,7 +344,7 @@ See that this configuration showing a kind of turbulences which leads to a gap o
 
 By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19's.
 
-### [6th Step: Q3(28, 19)](https://github.com/chetabahana)
+### [6th Step: Q3(28, 19)](https://eq19.github.io/hexagon)
 
 This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come to the detail of 168 and 618 as the 1st grammar when we come to the upper scheme. 
 
