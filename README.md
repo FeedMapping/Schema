@@ -55,7 +55,11 @@ These primes are distributed naturally in three (3) forms of 12's multiplication
       |  6  | 19
  -----+-----+---------
  ```
- 
+
+These primes package end with the prime 19 as the 8th prime right below the prime 23 as the 9th prime. Here we will absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_.
+
+[![23 pairs of Human Chromosomes)](https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png)](https://en.wikipedia.org/wiki/Chromosome)
+
 This symetri of **three (3)** sets of **twin (2)** primes forms a default condition.
 
 [![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
@@ -486,7 +490,7 @@ Clicking each of objects will turn to 6 (six) diagrams by the cycle form of [pri
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/69475449-ce77ca00-0dff-11ea-964e-cc959db0740a.png)](https://github.com/eq19)
 
-This _168 (mapping) and 618 (feeding)_ stand as  [the whole scheme](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of The M+F to C1+C2 which act as the base prime pairs **[(2,3) of DNA](#tabulate-prime-by-the-power-of-168)** to become **23 pairs of Chromosomes**.
+This _168 (mapping) and 618 (feeding)_ stand as  [the whole scheme](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of The M+F to C1+C2 which act as the base prime pairs **[(2,3) of DNA](#tabulate-prime-by-the-power-of-168)** to become **[23 pairs of Chromosomes](#tabulate-prime-by-the-power-of-168)**.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/86481184-b72b9280-bd79-11ea-899b-51db929fc3d2.png)](https://github.com/eq19)
 
