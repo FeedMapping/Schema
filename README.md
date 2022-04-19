@@ -34,6 +34,10 @@ The prime algorithm is formed by three (3) sets of twin pairs called _[True Prim
 
 [![The True Prime Pairs](https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
+These primes package end with the prime 19 as the 8th prime right below the prime 23 as the 9th prime. Here we will absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_.
+
+[![23 pairs of Human Chromosomes)](https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png)](https://en.wikipedia.org/wiki/Chromosome)
+
 These primes are distributed naturally in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
 
 ```
@@ -55,10 +59,6 @@ These primes are distributed naturally in three (3) forms of 12's multiplication
       |  6  | 19
  -----+-----+---------
  ```
-
-These primes package end with the prime 19 as the 8th prime right below the prime 23 as the 9th prime. Here we will absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_.
-
-[![23 pairs of Human Chromosomes)](https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png)](https://en.wikipedia.org/wiki/Chromosome)
 
 See that the 23 has number of two (2) and three (3). This symetri of **three (3)** sets of **twin (2)** primes forms a default condition.
 
