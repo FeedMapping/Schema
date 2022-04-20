@@ -20,7 +20,7 @@ They will work base on the correlation between **168=π(1000)** as lexer and **6
 Δ(1,6,18) = 61+28 = 89 (Mersenne Primes) 
 ```
 
-Each cycles will have a total of seven (7) steps prime algorithm on **base 10** that consist of three (3) **leading** steps by the power of 168: [Q19(10, **29**)](#1st-step-q1910-29), [Q17(30, **36**)](#2nd-step-q1730-36), [Q13(37, **114**)](#3rd-step-q1337-114) and four (4) **lagging** steps by 618: [Q7(**113**, 90)](#4th-step-q7113-90), [Q5(**89**, 29)](#5th-step-q589-29), [Q3(**28**, 19)](#6th-step-q328-19), [Q2(**18**, 10)](#7th-step-q218-10).
+Each cycles will have a total of **seven (7) steps prime algorithm** on base 10 that consist of three (3) **leading** steps by the power of 168: [Q19(10, **29**)](#1st-step-q1910-29), [Q17(30, **36**)](#2nd-step-q1730-36), [Q13(37, **114**)](#3rd-step-q1337-114) and four (4) **lagging** steps by 618: [Q7(**113**, 90)](#4th-step-q7113-90), [Q5(**89**, 29)](#5th-step-q589-29), [Q3(**28**, 19)](#6th-step-q328-19), [Q2(**18**, 10)](#7th-step-q218-10).
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
@@ -30,7 +30,7 @@ This algorithm is being tested for [eBranding](#next-release) to proof that it i
 
 ## [Tabulate Prime by The Power of 168](https://eq19.github.io/lexer)
 
-The prime algorithm is formed by three (3) sets of twin pairs called _[True Prime Pairs](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. 
+The prime algorithm is formed by three (3) sets of twin (2) pairs called _[True Prime Pairs](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. Thus there are six (6) primes in addition to the seven (7) steps above. So theu will perform the **8th up to 13th** step.
 
 [![The True Prime Pairs](https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
