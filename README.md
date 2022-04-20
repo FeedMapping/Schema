@@ -34,7 +34,7 @@ The prime algorithm is formed by three (3) sets of twin (2) pairs called _[True 
 
 [![The True Prime Pairs](https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
-So they will perform the **8th up to 13th** step. Therefore these primes package end with the prime 19 as the 8th prime right below the **prime 23** as the 9th prime. Here we will absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_.
+So they will perform the **8th up to 13th step**. Therefore these primes package end with the prime 19 as the 8th prime right below the **prime 23** as the 9th prime. Here we will absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_.
 
 [![23 pairs of Human Chromosomes)](https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png)](https://en.wikipedia.org/wiki/Chromosome)
 
