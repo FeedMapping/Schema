@@ -60,7 +60,7 @@ In term of distribution, these primes are naturally laid in three (3) forms of 1
  -----+-----+---------
  ```
 
-See that the 23 has number of two (2) and three (3) which are the only primes under the first prime 5. This symetri of **three (3)** sets of **twin (2)** primes forms a default condition.
+See that the 23 has number of **two (2)** and **three (3)** which are the only primes under the first prime 5. This symetri of three (3) sets of twin (2) primes forms a default condition.
 
 [![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
