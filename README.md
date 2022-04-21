@@ -105,11 +105,17 @@ Now let's force 12 or Δ1 to the **prime 13**. See how those primes reacted to c
   12+13+(18+18)+13+12  ← 36th-Δ1=151-1=150=100+2x(13+12)  ←  30th = 113 = 114-1
 ```
 
-In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 primes (2,3,5,7) to π(100)=25 and π(1000)=168 and convert them to 10th prime=29 then to 29 primes up to of (10th)th=29th prime=109 as a flowchart diagram.
+See that this flows starting from π(10) and finalize by pairing of Δ12. Let's draw 12 of flow arrows in such a way where they have interconnection with 10 objects.
+
+So here we can get the idea of **10 number becoming 10 primes**.
+
+### [2nd Step: Q17(30, 36)](https://eq19.github.io/classes)
+
+In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 primes (2,3,5,7) to π(100)=25 and π(1000)=168.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/128732737-81762604-0ae0-4a90-b5a8-30921cf46efb.png)](https://github.com/eq19)
 
-See that this flows starting from π(10) and finalize by pairing of Δ12. Let's draw 12 of flow arrows in such a way where they have interconnection with 10 objects. So here we can get the idea of **10 number becoming 10 primes**.
+Then convert them to 10th prime=29 then to 29 primes up to of (10th)th=29th prime=109 as a flowchart diagram.
 
 [![Flowchart](https://user-images.githubusercontent.com/36441664/103138547-5799b880-4706-11eb-8820-f51cbd57d367.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
 
@@ -120,8 +126,6 @@ This flowchart is designed base on the behaviour of the primes number that flows
 Here you might see that the number of 10 is the same direction with 19 while 10+19=29=10th prime.
 
 By checking all of the loops there is nothing similar to this phenomena. It seems like all the numbers are actually set to let this term happen. So this chart is considered sufficient enought to be used to explain about the true power of this Δ1 flowing.
-
-### [2nd Step: Q17(30, 36)](https://eq19.github.io/classes)
 
 Let's start by get in touch with the (30, 36)th as the result of Δ1 shown on the above tabulation in more detail. Then take a look with the behaviour of prime flows within _The Prime Hexagon_ as shown below. 
 
