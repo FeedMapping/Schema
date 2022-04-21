@@ -50,7 +50,7 @@ Now we are going to see why this could be happen. Let's enter the journey of mak
 
 ### [1st Step: Q19(10, 29)](https://eq19.github.io/quantum)
 
-In term of distribution, these primes are naturally laid in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
+In term of distribution, _The True Prime Pairs_ are naturally laid in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
 
 ```
  $True Prime Pairs:
