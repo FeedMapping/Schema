@@ -26,6 +26,8 @@ Each cycles will have a total of **seven (7) steps prime algorithm** on base 10 
 
 By having the digital root of (five) 5 and two (2), the seven (7) steps of 168 and 618 above is initiated by the primes **23 and 11** respectively. So all together will finaly forms 10 primes with **10th prime = 29**.
 
+[![generate the prime](https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
+
 This algorithm is used to regenerate a _[Basic Grammar](#running-code)_ between [<code>user</code>](#6th-step-q328-19) and [<code>organization</code>](#7th-step-q218-10) accounts in GitHub. It is being tested for _[eBranding](#next-release)_ to proof that it is adaptable for every kinds of implementation or application as explained further below.
 
 ## [Tabulate Prime by The Power of 168](https://eq19.github.io/lexer)
@@ -263,8 +265,6 @@ Therefore the prime flow in the developed flowchart above should take a connecti
 [![the sequence](https://user-images.githubusercontent.com/36441664/103147412-5492dc80-4787-11eb-8277-4fa39ce28c90.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 Therefore the 30th primes will bear the responsibility to generate the prime 43 while the 36th prime for the 89. 
-
-[![generate the prime](https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 This should have a delta of Δ18 to the last number which is 168 where this 168 is exactly π(1000). So it would take place on the 150 and the scheme there will consequently be **the perfect square of 1000** or 1 Million.
 
