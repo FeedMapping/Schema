@@ -24,9 +24,9 @@ Each cycles will have a total of **seven (7) steps prime algorithm** on base 10 
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
-By having the digital root of (five) 5 and two (2), the seven (7) of 168 and 618 above is initiated by the prime **23 and 11** respectively. So all together will finaly forms 10 primes with **10th prime = 29**. It is used to regenerate a _[Basic Grammar](#running-code)_ between [<code>user</code>](#6th-step-q328-19) and [<code>organization</code>](#7th-step-q218-10) accounts in GitHub. 
+By having the digital root of (five) 5 and two (2), the seven (7) of 168 and 618 above is initiated by the prime **23 and 11** respectively. So all together will finaly forms 10 primes with **10th prime = 29**.
 
-This algorithm is being tested for _[eBranding](#next-release)_ to proof that it is adaptable for every kinds of implementation or application as explained further below.
+This algorithm is used to regenerate a _[Basic Grammar](#running-code)_ between [<code>user</code>](#6th-step-q328-19) and [<code>organization</code>](#7th-step-q218-10) accounts in GitHub. It is being tested for _[eBranding](#next-release)_ to proof that it is adaptable for every kinds of implementation or application as explained further below.
 
 ## [Tabulate Prime by The Power of 168](https://eq19.github.io/lexer)
 
