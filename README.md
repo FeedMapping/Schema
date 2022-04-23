@@ -76,7 +76,7 @@ So these prime algorithm is again formed by three (3) sets of twin (2) pairs. To
 
 Let's assign another pairs (5, 7, 11, 13, 17,19) in to a combination so it will turn in reverse (19, 17, 13, 11, 7, 5) lies on the center of default. 
 
-This 12 all toghether will form (12/2)th = 6th prime = 13 circles including the new one on the center. Thus there are **six (6) primes** in addition to the seven (7) steps above. So they will perform the **8th up to 13th step** of [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
+This 12 all toghether will form (12/2)th = 6th prime = 13 circles including the new one on the center. Thus there are **six (6) primes** in addition to _[the seven (7) steps](#introduction)_ above. So they will perform the **8th up to 13th step** of [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
 
 [![Metatron's Cube](https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png)](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch)
 
