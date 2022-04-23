@@ -48,11 +48,11 @@ Now we are going to see why this could be happen. Let's discuss in more detail a
 
 ### [1st Step: Q19(10, 29)](https://eq19.github.io/quantum)
 
-The prime algorithm is again formed by three (3) sets of twin (2) pairs called _[True Prime Pairs](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. Thus there are **six (6) primes** in addition to the seven (7) steps above. 
+In term of distribution, these six (6) primes are naturally laid in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
 
 [![The True Prime Pairs](https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
-In term of distribution, _The True Prime Pairs_ are naturally laid in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
+So these prime algorithm is again formed by three (3) sets of twin (2) pairs. To make live simpler let.s call them _[True Prime Pairs](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_.
 
 ```
  $True Prime Pairs:
@@ -76,7 +76,7 @@ In term of distribution, _The True Prime Pairs_ are naturally laid in three (3) 
 
 Let's assign another pairs (5, 7, 11, 13, 17,19) in to a combination so it will turn in reverse (19, 17, 13, 11, 7, 5) lies on the center of default. 
 
-This 12 all toghether will form (12/2)th = 6th prime = 13 circles including the new one on the center. So they will perform the **8th up to 13th step** of [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
+This 12 all toghether will form (12/2)th = 6th prime = 13 circles including the new one on the center. Thus there are **six (6) primes** in addition to the seven (7) steps above. So they will perform the **8th up to 13th step** of [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
 
 [![Metatron's Cube](https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png)](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch)
 
