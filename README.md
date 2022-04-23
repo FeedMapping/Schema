@@ -36,7 +36,7 @@ Therefore these primes package end with the prime 19 as the 8th prime right belo
 
 [![23 pairs of Human Chromosomes)](https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png)](https://en.wikipedia.org/wiki/Chromosome)
 
-See that the 23 has number of **two (2)** and **three (3)** which are the only two (2) primes under their sum of the prime 5. This primes symetri forms by their selves as a default condition. They will live trough all the system.
+See that the 23 has number of **two (2)** and **three (3)** which are the only two (2) primes under their sum of the prime five (5). These primes symetri forms by their selves as a default condition. Thus they will live trough all the system.
 
 [![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
@@ -44,11 +44,11 @@ See that the 23 has number of **two (2)** and **three (3)** which are the only t
 
 [![True Prime Pairs](https://user-images.githubusercontent.com/36441664/131957473-5a815492-a5f6-49be-9762-9a8921d95dc2.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#frame)
 
-Now we are going to see why this could be happen. Let's discuss in more detail about the said primes which are laid by two (2) times three (3) or six (6) primes: (5, 7, 11, 13, 17,19).
+Now we are going to see why this could be happen. Let's discuss in more detail about the said primes which are laid by two (2) times three (3) or **six (6) primes: (5, 7, 11, 13, 17,19)**.
 
 ### [1st Step: Q19(10, 29)](https://eq19.github.io/quantum)
 
-The prime algorithm is formed by three (3) sets of twin (2) pairs called _[True Prime Pairs](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. Thus there are **six (6) primes** in addition to the seven (7) steps above. 
+The prime algorithm is again formed by three (3) sets of twin (2) pairs called _[True Prime Pairs](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. Thus there are **six (6) primes** in addition to the seven (7) steps above. 
 
 [![The True Prime Pairs](https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
