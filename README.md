@@ -36,7 +36,7 @@ Therefore these primes package end with the prime 19 as the 8th prime right belo
 
 [![23 pairs of Human Chromosomes)](https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png)](https://en.wikipedia.org/wiki/Chromosome)
 
-See that 23 has the number **two (2)** and **three (3)**, both are the two (2) only primes under their sum of prime five (5). These primes symetri forms by their selves as a default condition. Thus they will be managed within three (3) layers trough all the system.
+See that 23 has the number **two (2)** and **three (3)**, both are the two (2) only primes under their sum of prime five (5). Thus these primes symetri forms by their selves as a default condition. They will be managed within three (3) layers trough all the system.
 
 [![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
