@@ -24,7 +24,7 @@ Each cycles will have a total of **seven (7) steps prime algorithm** on base 10 
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
-By having digital root of (five) 5 and two (2), the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[default frame](/base.html)_.
+By having digital root of (five) 5 and two (2), the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[base frame](/base.html)_.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
