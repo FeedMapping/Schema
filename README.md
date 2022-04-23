@@ -44,7 +44,7 @@ This symetri of three (3) sets of twin (2) primes forms a default condition.Cons
 
 [![True Prime Pairs](https://user-images.githubusercontent.com/36441664/131957473-5a815492-a5f6-49be-9762-9a8921d95dc2.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#frame)
 
-Now we are going to see why this could be happen. Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</sup> primes** by the Δ1 flowing within the prime pairs.
+Now we are going to see why this could be happen.
 
 ### [1st Step: Q19(10, 29)](https://eq19.github.io/quantum)
 
@@ -131,7 +131,7 @@ Here you might see that the number of 10 is the same direction with 19 while 10+
 
 By checking all of the loops there is nothing similar to this phenomena. It seems like all the numbers are actually set to let this term happen.
 
-So this chart is considered sufficient enought to be used to explain about the true power of this Δ1 flowing.
+So this chart is considered sufficient enought to be used to explain about the true power of this Δ1 flowing. Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</sup> primes** by the Δ1 flowing within the prime pairs.
 
 ### [3rd Step: Q13(37, 114)](https://eq19.github.io/tunnel)
 
