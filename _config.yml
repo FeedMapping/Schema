@@ -3,12 +3,7 @@ debug:
   compress: true
   shortcodes: true
 
-google:
-  gtag: GTM-PGWT4RS
-  adsense: ca-pub-3677197599836940
-
 base_tag: introduction
-remote_theme: FeedTheme/jekyll-rtd-theme
-#remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: FeedTheme/feedtheme.github.io
 #remote_theme: rundocs/jekyll-rtd-theme@v2.0.10
 #remote_theme: FeedTheme/jekyll-rtd-theme@v2.0.10
