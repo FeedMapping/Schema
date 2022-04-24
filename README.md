@@ -4,6 +4,11 @@ This's the partial of [the mapping scheme](http://translate.google.com/translate
 
 [![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](https://eq19.github.io/maps)
 
+```note
+Recombination involves the breaking and rejoining of two chromosomes (M and F) to produce two rearranged chromosomes (C1 and C2).
+ _(Source: [Wikipedia](https://en.wikipedia.org/wiki/DNA#Genetic_recombination))_.
+```
+
 The _**M+F**_ symbol will stand as: [Project Maps (M)](https://github.com/eq19/maps) + [Project Feed (F)](https://github.com/eq19/feed) while<br>
 _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 
