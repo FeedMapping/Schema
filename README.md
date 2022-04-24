@@ -388,7 +388,9 @@ Let's take the end number each of the three (3) pairs in to an adjacent [polygon
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/83051968-e2cfa480-a078-11ea-8ff2-316a809a8fad.jpg)](https://schoolbag.info/mathematics/numbers/38.html)
 
-> We see that the polygonal numbers in the same column all have the same difference, and this difference is always a triangular number. For example, the fifth pentagonal number (35) has 10 dots more than the fifth square number (25) and 10 dots fewer than the fifth hexagonal number (45), and the difference 10 is just the fourth triangular number. _(Source: [Discovering Properties of Numbers](https://schoolbag.info/mathematics/numbers/38.html))_.
+```note
+We see that the polygonal numbers in the same column all have the same difference, and this difference is always a triangular number. For example, the fifth pentagonal number (35) has 10 dots more than the fifth square number (25) and 10 dots fewer than the fifth hexagonal number (45), and the difference 10 is just the fourth triangular number. _(Source: [Discovering Properties of Numbers](https://schoolbag.info/mathematics/numbers/38.html))_.
+```
 
 See the _[(19 vs 18) Loops](#3rd-step-q736-114)_ more closely, you can find that the number 102 is exactly laid on 18th row by the 15th spin out of 19 whereas 102+66 = 168 = π(1000). 
 
@@ -478,7 +480,9 @@ Root Generation:
 
 This 10143 will comprise of lexer and parser similar with 168 & 618. Since the 168 algorithm is set 102 by 66 then its ratio is 102/168=60% by 66/168=40% or approx 10143x60%=6200 of lexers by 10143x40%=3900 of parsers.
 
-> Mapping the quantum way within a huge of primes objects (5 to 19) by parsering (11) each of **untouched** feed (7) and tunneling (13) in to definitive classes (17).
+```tip
+Mapping the quantum way within a huge of primes objects (5 to 19) by parsering (11) each of **untouched** feed (7) and tunneling (13) in to definitive classes (17).
+```
 
 The development of this **6200 by 3900** took its base place in this repository and is considered final. It is the most complex thing among the other steps where we have to involve so many items to verify about how far this development is adoptable. 
 
