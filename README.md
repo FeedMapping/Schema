@@ -490,7 +490,7 @@ The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of
 
 ## [Running Code](#2nd-step-q1730-36)
 
-The codes is built mainly with the algorithm of 66 from the numbers of **30 and 36** as been described above. The 30 is originated from 29 as 10th prime using _[Jekyll/Liquid Pages](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
+The codes is built mainly with the algorithm of 66 out of the sum of numbers of **30 and 36** as been described above. The 30 it self is originated from the algorithm of 29 as 10th prime using _[Jekyll/Liquid Pages](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
 
 ![frame](https://user-images.githubusercontent.com/36441664/67816683-560e3980-fadd-11e9-8a30-36901cbceaad.png)
 
