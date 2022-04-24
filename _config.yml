@@ -1,8 +1,3 @@
-debug:
-  dist: true
-  compress: true
-  shortcodes: true
-
 base_tag: introduction
 remote_theme: FeedTheme/feedtheme.github.io
 #remote_theme: rundocs/jekyll-rtd-theme@v2.0.10
