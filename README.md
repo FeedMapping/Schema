@@ -225,7 +225,9 @@ By sourcing and studying of many [references](https://github-com.translate.goog/
 
 [![Δ(19 vs 18)](https://user-images.githubusercontent.com/36441664/107478328-de69fe00-6bab-11eb-8d5f-7517c94b7299.png)](https://commons.wikimedia.org/wiki/File:RiemannZeta_Zeros.svg)
 
-> This is a polar plot of the first 20 non-trivial Riemann zeta function zeros (including Gram points along the critical line (1/2+iζ) for real values of ζ from 0 to 50. The consecutive zeros have **50 red plot points** between each with zeros identified by magenta concentric rings (scaled to show the relative distance between their values of t) _(Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:RiemannZeta_Zeros.svg))_.
+```note
+This is a polar plot of the first 20 non-trivial Riemann zeta function zeros (including Gram points along the critical line (1/2+iζ) for real values of ζ from 0 to 50. The consecutive zeros have **50 red plot points** between each with zeros identified by magenta concentric rings (scaled to show the relative distance between their values of t) _(Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:RiemannZeta_Zeros.svg))_.
+```
 
 Now let's discuss first if this 50 plots has something to do with the prime algorithms.
 
