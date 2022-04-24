@@ -9,7 +9,7 @@ Recombination involves the breaking and rejoining of two chromosomes (M and F) t
  _(Source: [Wikipedia](https://en.wikipedia.org/wiki/DNA#Genetic_recombination))_.
 ```
 
-The _**M+F**_ symbol will stand as: [Project Maps (M)](https://github.com/eq19/maps) + [Project Feed (F)](https://github.com/eq19/feed) while<br>
+The _**M+F**_ symbol will stand as: [Project Maps (M)](maps) + [Project Feed (F)](/feed) while<br>
 _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 
 This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using two (2) kinds of cyclic algorithm that act as [Lexer and Parser](https://stackoverflow.com/questions/2842809/lexers-vs-parsers).
