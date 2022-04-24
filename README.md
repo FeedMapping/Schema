@@ -490,13 +490,13 @@ The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of
 
 ## [Running Code](#2nd-step-q1730-36)
 
-The codes is built mainly with the algorithm of 66 from the numbers of **30 and 36** as been described above. The 30 is originated from 29 as 10th prime using _Jekyll/Liquid Pages_.
+The codes is built mainly with the algorithm of 66 from the numbers of **30 and 36** as been described above. The 30 is originated from 29 as 10th prime using _[Jekyll/Liquid Pages](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
 
 ![frame](https://user-images.githubusercontent.com/36441664/67816683-560e3980-fadd-11e9-8a30-36901cbceaad.png)
 
-All of their layout are managed with a _remote theme_ originated by the number of 66 which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6**.
+All of their layout are managed with a _[remote theme](https://feedtheme.github.io/)_ originated by the number of 66 which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6**.
 
-![remote layout](https://camo.githubusercontent.com/dc89cc4d5c11a81766b261b369d59f544c5712683528936499ac89749adfb5a6/68747470733a2f2f7777772e6a656b796c6c2e636f6d2e636e2f696d672f6a656b796c6c6c61796f7574636f6e636570742e706e67)
+[![remote layout](https://camo.githubusercontent.com/dc89cc4d5c11a81766b261b369d59f544c5712683528936499ac89749adfb5a6/68747470733a2f2f7777772e6a656b796c6c2e636f6d2e636e2f696d672f6a656b796c6c6c61796f7574636f6e636570742e706e67)](https://feedtheme.github.io/)
 
 You may check the running code starting with [Sequence Diagram](https://chetabahana.github.io/#chetabahana-skema?pad=2) shown below which is developed as [the initial step](#tabulate-prime-by-the-power-of-168) on building the _[10143 Grammars](#7th-step-q218-10)_.
 
