@@ -49,7 +49,11 @@ See that 23 has the number **two (2)** and **three (3)**, both are the two (2) o
 
 [![True Prime Pairs](https://user-images.githubusercontent.com/36441664/131957473-5a815492-a5f6-49be-9762-9a8921d95dc2.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#frame)
 
-Now we are going to see why this could be happen. Let's discuss in more detail about the said primes which are laid by two (2) times three (3) or **six (6) primes: (5, 7, 11, 13, 17,19)**.
+```note
+Hydrogen bonds are formed between hydrogen attached to an electronegative atom and an electronegative atom of a different molecules. _(Source: [Quora](https://www.quora.com/Why-are-there-two-hydrogen-bonds-between-adenine-and-thymine-but-three-hydrogen-bonds-between-cytosine-and-guanine/answer/Rucious-Heang))_.
+``` 
+ 
+ Now we are going to see why this could be happen. Let's discuss in more detail about the said primes which are laid by two (2) times three (3) or **six (6) primes: (5, 7, 11, 13, 17,19)**.
 
 ### [1st Step: Q19(10, 29)](https://eq19.github.io/quantum)
 
