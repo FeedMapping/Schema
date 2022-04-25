@@ -426,10 +426,6 @@ This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come 
  -----+-----+---------
  ```
 
-```tip
-Mapping the quantum way within a huge of primes objects (5 to 19) by parsering (11) each of **untouched** feed (7) and tunneling (13) in to definitive classes (17).
-```
-
 Let's take the end number each of the three (3) pairs in to an adjacent [polygonal numbers](https://en.wikipedia.org/wiki/Polygonal_number) then by the same different of 15 they will end to the number of 66:
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/83051968-e2cfa480-a078-11ea-8ff2-316a809a8fad.jpg)](https://schoolbag.info/mathematics/numbers/38.html)
@@ -592,7 +588,11 @@ Now let's assume that each of the number above is a set of 6 (six) repositories 
 
 ### [Our Lisence](#3rd-step-q1337-114)
 
-We believe that until this concept is written, there is no such thing similar to our concept of the power 168 vs 618 recombination.
+We believe that until this concept is written, there is no such thing similar to our concept of the power 168 vs 618 recombination using the _True Prime Pairs_.
+
+```tip
+Mapping the quantum way within a huge of primes objects (5 to 19) by parsering (11) each of **untouched** feed (7) and tunneling (13) in to definitive classes (17).
+```
 
 You may use, copy, and distribute the concept. Please note that we are not implementing any kind of _License Key_ on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key:
 
