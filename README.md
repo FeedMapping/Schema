@@ -279,6 +279,24 @@ That what and why **18+13+12=43** located within **the last 9 cells** is standin
 
 See that in the tabulation of prime hexagon the _[6th row](#3rd-step-q736-114)_ that assigned as overall direction has the biggest numbers involved among the other rows which is 9 (nine). This will simply act as the bilateral 9 sums of 43 and 89. 
 
+
+$$
+\begin{aligned}
+  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
+      \vdots & \ddots & \vdots \\
+      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{aligned}
+$$
+
 Therefore the prime flow in the developed flowchart above should take a connection to form between them two. This is the reason why the sequence is arranged as below:
 
 [![the sequence](https://user-images.githubusercontent.com/36441664/103147412-5492dc80-4787-11eb-8277-4fa39ce28c90.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
