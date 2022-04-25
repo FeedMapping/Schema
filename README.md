@@ -538,7 +538,7 @@ The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of
 
 ## [Basic Grammar](#2nd-step-q1730-36)
 
-The codes is built mainly with the algorithm of 66 out of the sum of the numbers **30 and 36**. The 30 it self is originated from the algorithm of 29 as 10th prime as been described above.
+The codes is built mainly with the algorithm of 66 out of the sum of the numbers **30 and 36**. The 30 it self is originated from the 29 as 10th prime as been described above.
 
 [![remote theme](https://user-images.githubusercontent.com/36441664/67816683-560e3980-fadd-11e9-8a30-36901cbceaad.png)](/theme)
 
