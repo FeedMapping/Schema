@@ -368,6 +368,15 @@ See that this configuration showing a kind of turbulences which leads to a gap o
 
 [![DNA generation from RNA](https://user-images.githubusercontent.com/36441664/100724943-01cb3c80-33f6-11eb-8564-c5a9ced2b668.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
+```tip
+The chemical structure of RNA is very similar to that of DNA, but differs in three primary ways:
+
+* Unlike double-stranded DNA, RNA is usually a single-stranded molecule (ssRNA)[1] in many of its biological roles and consists of much shorter chains of nucleotides.[2] However, double-stranded RNA (dsRNA) can form and (moreover) a single RNA molecule can, by complementary base pairing, form intrastrand double helixes, as in tRNA.
+* While the sugar-phosphate "backbone" of DNA contains deoxyribose, RNA contains ribose instead.[3] Ribose has a hydroxyl group attached to the pentose ring in the 2' position, whereas deoxyribose does not. The hydroxyl groups in the ribose backbone make RNA more chemically labile than DNA by lowering the activation energy of hydrolysis.
+* The complementary base to adenine in DNA is thymine, whereas in RNA, it is uracil, which is an unmethylated form of thymine.[4]
+
+_(Source: [Wikipedia](https://en.wikipedia.org/wiki/RNA#Comparison_with_DNA))_
+```
 
 By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19's.
 
