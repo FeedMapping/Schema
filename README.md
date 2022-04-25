@@ -538,7 +538,7 @@ The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of
 
 ## [Basic Grammar](#2nd-step-q1730-36)
 
-All of the layouts are managed with a _[remote theme](/theme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6**.
+The codes is built mainly with the algorithm of 66 out of the sum of the numbers **30 and 36**. The 30 it self is originated from the algorithm of 29 as 10th prime as been described above.
 
 [![remote theme](https://user-images.githubusercontent.com/36441664/67816683-560e3980-fadd-11e9-8a30-36901cbceaad.png)](/theme)
 
@@ -592,7 +592,7 @@ Although the _[The Pre-release 168](#next-target-tabulate-prime-by-618)_ is alre
 
 ![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
 
-The codes is built mainly with the algorithm of 66 out of the sum of the numbers **30 and 36** as been described above. The 30 it self is originated from the algorithm of 29 as 10th prime using _[Jekyll/Liquid Pages](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
+All of the layouts are managed with a _[remote theme](/theme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6** using _[Jekyll/Liquid Pages](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
 
 [![remote layout](https://camo.githubusercontent.com/dc89cc4d5c11a81766b261b369d59f544c5712683528936499ac89749adfb5a6/68747470733a2f2f7777772e6a656b796c6c2e636f6d2e636e2f696d672f6a656b796c6c6c61796f7574636f6e636570742e706e67)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)
 
