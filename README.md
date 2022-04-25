@@ -524,6 +524,10 @@ The codes is built mainly with the algorithm of 66 out of the sum of the numbers
 
 [![remote layout](https://camo.githubusercontent.com/dc89cc4d5c11a81766b261b369d59f544c5712683528936499ac89749adfb5a6/68747470733a2f2f7777772e6a656b796c6c2e636f6d2e636e2f696d672f6a656b796c6c6c61796f7574636f6e636570742e706e67)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)
 
+```note
+In this example, the content from a Markdown document `document.md` that specifies `layout: docs` gets pushed into the `{{ content }}` tag of the layout file `docs.html`. Because the docs layout itself specifies layout: page, the content from `docs.html` gets pushed into the `{{ content }}` tag in the layout file `page.html`. Finally because the page layout specifies `layout: default`, the content from page.html gets pushed into the `{{ content }}` tag of the layout file `default.html`. (Source: [Jekyll Tutorial](https://jekyllrb.com/tutorials/convert-site-to-jekyll/))
+```
+
 All of their layout are managed with a _[remote theme](/theme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6**.
 
 [![remote theme](https://user-images.githubusercontent.com/36441664/67816683-560e3980-fadd-11e9-8a30-36901cbceaad.png)](/theme)
