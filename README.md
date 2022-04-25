@@ -371,9 +371,9 @@ See that this configuration showing a kind of turbulences which leads to a gap o
 ```note
 The chemical structure of RNA is very similar to that of DNA, but differs in three primary ways:
 
-* Unlike double-stranded DNA, RNA is usually a single-stranded molecule (ssRNA)[1] in many of its biological roles and consists of much shorter chains of nucleotides.[2] However, double-stranded RNA (dsRNA) can form and (moreover) a single RNA molecule can, by complementary base pairing, form intrastrand double helixes, as in tRNA.
-* While the sugar-phosphate "backbone" of DNA contains deoxyribose, RNA contains ribose instead.[3] Ribose has a hydroxyl group attached to the pentose ring in the 2' position, whereas deoxyribose does not. The hydroxyl groups in the ribose backbone make RNA more chemically labile than DNA by lowering the activation energy of hydrolysis.
-* The complementary base to adenine in DNA is thymine, whereas in RNA, it is uracil, which is an unmethylated form of thymine.[4]
+* Unlike double-stranded DNA, RNA is usually **a single-stranded molecule ssRNA** in many of its biological roles and consists of much shorter chains of nucleotides. However, double-stranded RNA (dsRNA) can form and (moreover) a single RNA molecule can, by complementary base pairing, form intrastrand double helixes, as in tRNA.
+* While the sugar-phosphate "backbone" of DNA contains deoxyribose, RNA contains ribose instead. Ribose has a hydroxyl group attached to the pentose ring in the 2' position, whereas deoxyribose does not. The hydroxyl groups in the ribose backbone make RNA more chemically labile than DNA by lowering the activation energy of hydrolysis.
+* The complementary base to adenine in DNA is thymine, whereas in RNA, it is uracil, which is an unmethylated form of thymine.
 
 _(Source: [Wikipedia](https://en.wikipedia.org/wiki/RNA#Comparison_with_DNA))_
 ```
