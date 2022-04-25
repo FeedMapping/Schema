@@ -560,9 +560,9 @@ They will be managed within three (3) layers trough all the system.
 
 ```tip
 Now let's calculate how many numbers are duplicates per layers:
-* layer-1 has 6, multiplied by 6 to 36 there will be 6 - 1 or 5 duplicates
-* layer-2 has 36, multiplied by 6 to 216 there will be 36 - 6 or 30 duplicates
-* layer-3 has 72, multiplied 6x to 432 there will be 72 - 36 - 6 or 30 duplicates
+* layer-1 has 6, multiplied by 6 to 36 there will be 6 - 1 or **5** duplicates
+* layer-2 has 36, multiplied by 6 to 216 there will be 36 - 6 or **30** duplicates
+* layer-3 has 72, multiplied by 6 to 432 there will be 72 - 36 - 6 or **30** duplicates
 ```
 
 Thus, the total multiplication minus the duplicate will return to a unique number where the scheme and formation is exactly back to the beginning, namely 114 earlier:
