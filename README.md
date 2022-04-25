@@ -243,6 +243,8 @@ This is a polar plot of the first 20 non-trivial Riemann zeta function zeros (in
 
 Now let's discuss first if this 50 plots has something to do with the prime algorithms.
 
+![50 plots](https://user-images.githubusercontent.com/36441664/74591945-2b75cb80-504f-11ea-85dd-14d0a803ee6b.png)
+
 One of the major case is that we will start with the lagging steps. The basic algorithm is Synthesis of leading and lagging strands of DNA.
 
 ![twisting trifoil of DNA](https://user-images.githubusercontent.com/36441664/88384290-54f10b00-cdd6-11ea-878d-c687cc1afbea.gif)
