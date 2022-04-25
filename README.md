@@ -136,9 +136,9 @@ This flowchart is designed base on the behaviour of the primes number that flows
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/105412087-d0892300-5c66-11eb-9c3e-19d8652b478c.png)](https://github.com/eq19)
 
-Here you might see that the number of 10 is the same direction with 19 while 10+19=29=10th prime.
-
-By checking all of the loops there is nothing similar to this phenomena. It seems like all the numbers are actually set to let this term happen.
+```tip
+Here you might see that the number of 10 is the same direction with 19 while 10+19=29=10th prime. By checking all of the loops there is nothing similar to this phenomena. It seems like all the numbers are actually set to let this term happen.
+```
 
 So this chart is considered sufficient enought to be used to explain about the true power of this Δ1 flowing. Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</sup> primes** by the Δ1 flowing within the prime pairs.
 
