@@ -438,7 +438,7 @@ See the _[(19 vs 18) Loops](#3rd-step-q736-114)_ more closely, you can find that
 
 [![the next target](https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
-Combining the two (2) algorithms then they will form the tabulation as below:
+The lexer will specify a sequence of digits correspond to a spin, while a parser will specify its sequence. Combining the two (2) then they will form the tabulation as below:
 
 ```
  Scheme:
