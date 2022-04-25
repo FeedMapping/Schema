@@ -138,8 +138,6 @@ Then convert them to 10th prime=29 then to 29 primes up to of (10th)th=29th prim
 
 Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</sup> primes** by the Δ1 flowing within the prime pairs.
 
-### [3rd Step: Q13(37, 114)](https://eq19.github.io/tunnel)
-
 Let's start by get in touch with the (30, 36)th as the result of Δ1 shown on the above tabulation in more detail. Then take a look with the behaviour of prime flows within _The Prime Hexagon_ as shown below. 
 
 [![Prime Hexagon](https://user-images.githubusercontent.com/36441664/74550123-6dd1d680-4f83-11ea-8810-3b8f4f50a9c0.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
@@ -149,6 +147,8 @@ You may see that it is clearly showing the 30th Prime of 113=114-1 is routed to 
 Take also a note that the next 10 number after 19 right before the 30 which are 20 up to 29 is in laid on the second rows of 17 while _[17's Cell](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/17)_ has 35+65=100=10².
 
 See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on.
+
+### [3rd Step: Q13(37, 114)](https://eq19.github.io/tunnel)
 
 Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on Δ6 & 19's! It means that we have to assign [the 6th repository](https://github.com/eq19/quantum) as **the overall direction**.
 
