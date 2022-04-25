@@ -211,7 +211,10 @@ Therefore all of the numbers that involved in the hexagon can be tabulated by _*
   https://www.hexspin.com/defining-the-prime-hexagon/
 ```
 
-See that out of 19 the number 89 is located precissely at the of Δ11 within the end of 12's that goes to 13's Cell. So this is related to the Metratron's Cube. This configuration leads to a **Cyclic in the Loops** as followings:
+See that out of 19 the number 89 is located precissely at the of Δ11 within the end of 12's that goes to 13's Cell. So this is related to the Metratron's Cube. 
+
+```tip
+This configuration leads to a **Cyclic in the Loops** as followings:
 
 - Injection goes by 114-π(100)=89 on  Δ11 from 102 to 114-1 or 113
 - The 113 is 30th prime where 30, 36 and 102 are laid in the end of rows
@@ -219,6 +222,7 @@ See that out of 19 the number 89 is located precissely at the of Δ11 within the
 - The 36th prime which is 151, is reinjected by 151-1 or 150. This 150 is carrying a delta of Δ18 with 168
 - The Δ18 brings the 30th and 36th cycled back to 102th thus consequently it goes to the 114th prime
 - The 114th prime which is carrying the loop(1000) is reinjected by 619-1 or 618 on the same spot.
+```
 
 This Δ(19 vs 18) scenario will duplicate the loops of 618 as _π(89²) of 1000 Primes_. Thus its behaviour will return to _168 Primes of π(1000)_  out of the adjacent scheme. 
 
