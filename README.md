@@ -611,7 +611,7 @@ Out of the formation, you are welcome to use whatever the items in this project.
 
 ### [Next Release](#next-target-tabulate-prime-by-618)
 
-This pre-release is being developed for _[eBranding](https://github.com/chetabahana)_ within 7 (seven) years. It is lack the parser 618 of the said _10143 grammars_ to become usable for every other cases. 
+This pre-release is being developed for _[eBranding](https://github.com/chetabahana)_ within 7 (seven) years. It is lack the parser 618 of the said _[10143 grammars](#7th-step-q218-10)_ to become usable for every other cases. 
 
 ![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
 
@@ -639,7 +639,7 @@ Therefore we are going to use _[TensorFlow](http://translate.google.com/translat
 
 [![Machine Learning](https://user-images.githubusercontent.com/36441664/123424569-377e7f80-d5eb-11eb-9c85-1f5d72f14eed.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)
 
-Base on the 19 Cells of _[168 vs 618 tabulation](#6th-step-q328-19)_ then for the 618 it might need 19 minus 7 or another 12 (twelve) years to develope those grammars to become 1st Release.
+Base on the 19 Cells of _[168 vs 618 tabulation](#6th-step-q328-19)_ then for the 618 it might need 19 minus 7 or another 12 (twelve) years to develope those _10143 grammars_ to become 1st Release.
 
 _So If You're Aware of What This Is All About:_<br>
 _Just Be Patient and Stay Tuned!_
