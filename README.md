@@ -635,11 +635,11 @@ Although the _[The Pre-release 168](#next-target-tabulate-prime-by-618)_ is alre
 
 [![lexer and parser](https://user-images.githubusercontent.com/36441664/71659208-5515b480-2d79-11ea-859f-a20dea0cf680.jpg)](https://github.com/eq19/maps)
 
-Here we are going to use _[TensorFlow](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)_ to connect the pre grammars on [Github API](https://docs.github.com/en/github-ae@latest/admin/overview/about-the-github-enterprise-api) to [Google API](https://en.wikipedia.org/wiki/Google_APIs) to fetch real life data through their machine learning such as _[Big Query](https://en.wikipedia.org/wiki/BigQuery)_.
+Therefore we are going to use _[TensorFlow](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)_ to connect the pre grammars on [Github API](https://docs.github.com/en/github-ae@latest/admin/overview/about-the-github-enterprise-api) to [Google API](https://en.wikipedia.org/wiki/Google_APIs) to fetch real life data through their machine learning such as _[Big Query](https://en.wikipedia.org/wiki/BigQuery)_.
 
 [![Machine Learning](https://user-images.githubusercontent.com/36441664/123424569-377e7f80-d5eb-11eb-9c85-1f5d72f14eed.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)
 
-Base on the _[19 Cells](#6th-step-q328-19)_ of 168 vs 618 tabulation then for the 618 it might need 19 minus 7 or another 12 (twelve) years to develope those grammars to become 1st Release.
+Base on the 19 Cells of _[168 vs 618 tabulation](#6th-step-q328-19)_ then for the 618 it might need 19 minus 7 or another 12 (twelve) years to develope those grammars to become 1st Release.
 
 So If You're Aware of What This Is All About:<br>
 Just Be Patient and Stay Tuned!
