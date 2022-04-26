@@ -1,6 +1,6 @@
 ## [Introduction](https://eq19.github.io/)
  
-This's the partial of [the mapping scheme](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of our [eQuantum Project](https://github.com/eq19) that's taking a scheme shown on the sidebar (see dekstop view) called **DNA Recombination: [M+F](https://github.com/eq19/quantum/blob/workflows/_layouts/feed.rb) to [C1+C2](https://github.com/eq19/quantum/blob/workflows/_includes/data/roots.rb)**.
+This's the partial of [the mapping scheme](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of our [eQuantum Project](https://github.com/eq19) that's taking a scheme shown on the sidebar (see dekstop view) called **[DNA Recombination](https://en.wikipedia.org/wiki/DNA#Genetic_recombination): [M+F](https://github.com/eq19/quantum/blob/workflows/_layouts/feed.rb) to [C1+C2](https://github.com/eq19/quantum/blob/workflows/_includes/data/roots.rb)**.
 
 [![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](base)
 
