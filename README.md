@@ -7,7 +7,7 @@ Recombination involves the breaking and rejoining of two chromosomes (M and F) t
  _(Source: [Wikipedia](https://en.wikipedia.org/wiki/DNA#Genetic_recombination))_.
 ```
 
-[![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](theme)
+[![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](/theme)
 
 ```tip
 By Our Project these Symbols are managed as below:
