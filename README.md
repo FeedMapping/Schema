@@ -2,15 +2,17 @@
  
 This's the partial of [the mapping scheme](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of our [eQuantum Project](https://github.com/eq19) that's taking a scheme shown on the sidebar (see dekstop view) called **[DNA Recombination](https://en.wikipedia.org/wiki/DNA#Genetic_recombination): [M+F](https://github.com/eq19/quantum/blob/workflows/_layouts/feed.rb) to [C1+C2](https://github.com/eq19/quantum/blob/workflows/_includes/data/roots.rb)**.
 
-[![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](base)
-
 ```note
 Recombination involves the breaking and rejoining of two chromosomes (M and F) to produce two rearranged chromosomes (C1 and C2).
  _(Source: [Wikipedia](https://en.wikipedia.org/wiki/DNA#Genetic_recombination))_.
 ```
 
+[![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](base)
+
+```tip
 The _**M+F**_ symbol will stand as: [Project Maps (M)](maps) + [Project Feed (F)](/feed) while<br>
 _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
+```
 
 This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using two (2) kinds of cyclic algorithm that act as _[Lexer and Parser](https://www.javacodegeeks.com/2017/09/guide-parsing-algorithms-terminology.html)_.
 
