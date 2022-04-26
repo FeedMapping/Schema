@@ -11,7 +11,7 @@ Recombination involves the breaking and rejoining of two chromosomes (M and F) t
 
 ```tip
 By Our Project these Symbols are managed as below:
-* The _**M+F**_ symbol will stand as: [Project Maps (M)](maps) + [Project Feed (F)](/feed) while
+* The _**M+F**_ symbol will stand as: [Project Maps (M)](https://eq19.github.io/maps) + [Project Feed (F)](https://eq19.github.io/feed) while
 * _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 ```
 
@@ -34,7 +34,7 @@ Each cycles will have a total of **seven (7) steps prime algorithm** on base 10 
 
 By having digital root of (five) 5 and two (2), the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[base frame](base)_.
 
-[![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](base)
+[![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://eq19.github.io/base)
 
 This algorithm is used to regenerate a _[Basic Grammar](#basic-grammar)_ between [<code>user</code>](#6th-step-q328-19) and [<code>organization</code>](#7th-step-q218-10) accounts in GitHub. It is being tested for _[eBranding](#next-release)_ to proof that it is adaptable for every kinds of implementation or application as explained further below.
 
@@ -283,7 +283,7 @@ That what and why **18+13+12=43** located within **the last 9 cells** is standin
 
 See that in the tabulation of prime hexagon the _[6th row](#3rd-step-q736-114)_ that assigned as overall direction has the biggest numbers involved among the other rows which is 9 (nine). This will simply act as the bilateral 9 sums of 43 and 89. 
 
-[![overall direction](https://user-images.githubusercontent.com/36441664/67816683-560e3980-fadd-11e9-8a30-36901cbceaad.png)](/theme)
+[![overall direction](https://user-images.githubusercontent.com/36441664/67816683-560e3980-fadd-11e9-8a30-36901cbceaad.png)](https://eq19.github.io/theme)
 
 Therefore the prime flow in the developed flowchart above should take a connection to form between them two. This is the reason why the sequence is arranged as below:
 
@@ -618,7 +618,7 @@ This pre-release is being developed for _[eBranding](https://github.com/chetabah
 
 ![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
 
-All of the layouts are managed with a _[remote theme](/theme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6** using _[Jekyll/Liquid Pages](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
+All of the layouts are managed with a _[remote theme](https://eq19.github.io/theme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6** using _[Jekyll/Liquid Pages](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
 
 [![remote layout](https://camo.githubusercontent.com/dc89cc4d5c11a81766b261b369d59f544c5712683528936499ac89749adfb5a6/68747470733a2f2f7777772e6a656b796c6c2e636f6d2e636e2f696d672f6a656b796c6c6c61796f7574636f6e636570742e706e67)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)
 
