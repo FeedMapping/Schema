@@ -1,6 +1,7 @@
 ---
-title: Our Program
+sort: 3
 layout: program
+title: Our Program
 layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/program.html
 permalink: /program
 pagelink: http://eq19.github.io/program

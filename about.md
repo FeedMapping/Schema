@@ -1,6 +1,7 @@
 ---
-title: About Us
+sort: 5
 layout: about
+title: About Us
 layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/about.html
 permalink: /about
 pagelink: http://eq19.github.io/about
