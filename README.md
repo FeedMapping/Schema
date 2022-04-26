@@ -10,8 +10,9 @@ Recombination involves the breaking and rejoining of two chromosomes (M and F) t
 [![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](base)
 
 ```tip
-The _**M+F**_ symbol will stand as: [Project Maps (M)](maps) + [Project Feed (F)](/feed) while<br>
-_**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
+By Our Project these Symbols are arraged as below:<br>
+* The _**M+F**_ symbol will stand as: [Project Maps (M)](maps) + [Project Feed (F)](/feed) while
+* _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 ```
 
 This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using two (2) kinds of cyclic algorithm that act as _[Lexer and Parser](https://www.javacodegeeks.com/2017/09/guide-parsing-algorithms-terminology.html)_.
