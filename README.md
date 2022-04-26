@@ -590,7 +590,7 @@ Now let's assume that all of the numbers above is a set of repositories group in
 
 ### [Our Lisence](#3rd-step-q1337-114)
 
-We believe that until this concept is written, there is no such thing similar to our concept of the power 168 vs 618 recombination using the _True Prime Pairs_.
+We believe that until this concept is written, there is no such thing similar to our concept of the power 168 vs 618 recombination using the _[True Prime Pairs](#1st-step-q1910-29)_.
 
 ```tip
 Mapping the quantum way within a huge of primes objects (5 to 19) by parsering (11) each of **untouched** feed (7) and tunneling (13) in to definitive classes (17).
@@ -623,12 +623,12 @@ All of the layouts are managed with a _[remote theme](/theme)_ originated by the
 In this example, the content from a Markdown document `document.md` that specifies `layout: docs` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag of the layout file `docs.html`. Because the `docs` layout itself specifies `layout: page`, the content from `docs.html` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag in the layout file `page.html`. Finally because the `page` layout specifies `layout: default`, the content from `page.html` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag of the layout file `default.html`. (Source: [Jekyll Tutorial](https://jekyllrb.com/tutorials/convert-site-to-jekyll/))
 ```
 
-As you may guess the final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](#1st-step-q1910-29). So here we enter the adjacent cycle with exactly the same [initial scheme](#introduction).
+As you may guess the final result of this Q2(**18**, 10) would form π(10)=(2,3,5,7) as the [1st row of 19](#1st-step-q1910-29). So here we enter the adjacent cycle with exactly the same [initial scheme](#introduction).
 
 ```
    True Prime Pairs Δ |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
   ====================+====+====+====+====+====+====+====+====+====+=====
-   π(10) 19           |  2 |  3 |  5 |  7 |  - |  - |  - |  - |  - | 4th  4 x Root
+   π(10) 19           |  2 |  3 |  5 |  7 |  - |  - |  - |  - |  - | 4th  4 x Root » Q19(10, 29)
 ```
 
 Here we are going to use _[TensorFlow](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)_ to connect the pre grammars on [Github API](https://docs.github.com/en/github-ae@latest/admin/overview/about-the-github-enterprise-api) to [Google API](https://en.wikipedia.org/wiki/Google_APIs) to fetch real life data through their machine learning such as _[Big Query](https://en.wikipedia.org/wiki/BigQuery)_.
