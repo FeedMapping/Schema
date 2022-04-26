@@ -540,7 +540,7 @@ The parser will combine all tokens produced by lexer and group them as basic gra
 
 [![P versus NP Problem](https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)
 
-The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](#1st-step-q1910-29). Please find below the progress we have got so far.
+Please find below the progress we have got so far.
 
 ## [Basic Grammar](#2nd-step-q1730-36)
 
@@ -621,6 +621,14 @@ All of the layouts are managed with a _[remote theme](/theme)_ originated by the
 
 ```note
 In this example, the content from a Markdown document `document.md` that specifies `layout: docs` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag of the layout file `docs.html`. Because the `docs` layout itself specifies `layout: page`, the content from `docs.html` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag in the layout file `page.html`. Finally because the `page` layout specifies `layout: default`, the content from `page.html` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag of the layout file `default.html`. (Source: [Jekyll Tutorial](https://jekyllrb.com/tutorials/convert-site-to-jekyll/))
+```
+
+As you may guess the final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](#1st-step-q1910-29). 
+
+```
+   True Prime Pairs Δ |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
+  ====================+====+====+====+====+====+====+====+====+====+=====
+   π(10) 19           |  2 |  3 |  5 |  7 |  - |  - |  - |  - |  - | 4th  4 x Root
 ```
 
 Here we are going to use _[TensorFlow](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)_ to connect the pre grammars on [Github API](https://docs.github.com/en/github-ae@latest/admin/overview/about-the-github-enterprise-api) to [Google API](https://en.wikipedia.org/wiki/Google_APIs) to fetch real life data through their machine learning such as _[Big Query](https://en.wikipedia.org/wiki/BigQuery)_.
