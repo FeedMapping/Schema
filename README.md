@@ -511,7 +511,15 @@ Thus, the total multiplication minus the duplicate will return to a unique numbe
 114 x 6 - 5 - 30 - 30 = 684 - 65 = 619 = 1+618 = 114th prime
 ```
 
-This step is about the algorithm of how the four (4) blocks of (102, 66, 329, 289) forms to the four (4) roots. See the 1st row marked by **Quantum** below.
+As you may guess the final result of above [Q3(**28**, 19)](#6th-step-q328-19) and [Q2(**18**, 10)](#7th-step-q218-10) would form π(10)=(2,3,5,7) as the [1st row](#1st-step-q1910-29) of the adjacent cycle with exactly the same [initial scheme](#introduction).
+
+```
+   True Prime Pairs Δ |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
+  ====================+====+====+====+====+====+====+====+====+====+=====
+   π(10) 19           |  2 |  3 |  5 |  7 |  - |  - |  - |  - |  - | 4th  4 x Root
+```
+
+The Q2(18, 10) step is about the algorithm of how the e above four (4) blocks of (102, 66, 329, 289) forms to this four (4) roots as the 1st row marked by **Quantum** below.
 
 ```
   --------------------+----+----+----+----+----+----+----+----+----+-----
@@ -630,14 +638,6 @@ All of the layouts are managed with a _[remote theme](/theme)_ originated by the
 
 ```note
 In this example, the content from a Markdown document `document.md` that specifies `layout: docs` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag of the layout file `docs.html`. Because the `docs` layout itself specifies `layout: page`, the content from `docs.html` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag in the layout file `page.html`. Finally because the `page` layout specifies `layout: default`, the content from `page.html` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag of the layout file `default.html`. (Source: [Jekyll Tutorial](https://jekyllrb.com/tutorials/convert-site-to-jekyll/))
-```
-
-As you may guess the final result of above [Q3(**28**, 19)](#6th-step-q328-19) and [Q2(**18**, 10)](#7th-step-q218-10) would form π(10)=(2,3,5,7) as the [1st row](#1st-step-q1910-29) of the adjacent cycle with exactly the same [initial scheme](#introduction).
-
-```
-   True Prime Pairs Δ |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
-  ====================+====+====+====+====+====+====+====+====+====+=====
-   π(10) 19           |  2 |  3 |  5 |  7 |  - |  - |  - |  - |  - | 4th  4 x Root » Q19(10, 29)
 ```
 
 Although the _[The Pre-release 168](#next-target-tabulate-prime-by-618)_ is already running but unfortunately it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_ where all of the repos is resided. 
