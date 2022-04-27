@@ -490,6 +490,27 @@ So it will form back to the begining stage with different form of input but its 
 
 ### [7th Step: Q2(18, 10)](https://github.com/marketleader)
 
+The codes is built mainly with the algorithm of 66 out of the sum of the numbers **30 and 36**. The main difference between them two is that 36 framed by twin primes.
+
+[![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://eq19.github.io/theme)
+
+See that twin (2) primes is built with multipication by six (6n). So they will be managed within three (3) layers trough all the system.
+
+[![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
+
+```tip
+Now let's calculate how many numbers are duplicates per layers:
+* layer-1 has 6, multiplied by 6 to 36 there will be 6 - 1 or **5** duplicates
+* layer-2 has 36, multiplied by 6 to 216 there will be 36 - 6 or **30** duplicates
+* layer-3 has 72, multiplied by 6 to 432 there will be 72 - 36 - 6 or **30** duplicates
+```
+
+Thus, the total multiplication minus the duplicate will return to a unique number where the scheme and formation is exactly back to the beginning, namely 114 earlier:
+
+```
+114 x 6 - 5 - 30 - 30 = 684 - 65 = 619 = 1+618 = 114th prime
+```
+
 This step is about the algorithm of how the four (4) blocks of (102, 66, 329, 289) forms to the four (4) roots. See the 1st row marked by **Quantum** below.
 
 ```
@@ -546,27 +567,6 @@ The parser will combine all tokens produced by lexer and group them as _[basic g
 Please find below the progress we have got so far.
 
 ## [Basic Grammar](#2nd-step-q1730-36)
-
-The codes is built mainly with the algorithm of 66 out of the sum of the numbers **30 and 36**. The main difference between them two is that 36 framed by twin primes.
-
-[![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://eq19.github.io/theme)
-
-See that twin (2) primes is built with multipication by six (6n). So they will be managed within three (3) layers trough all the system.
-
-[![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
-
-```tip
-Now let's calculate how many numbers are duplicates per layers:
-* layer-1 has 6, multiplied by 6 to 36 there will be 6 - 1 or **5** duplicates
-* layer-2 has 36, multiplied by 6 to 216 there will be 36 - 6 or **30** duplicates
-* layer-3 has 72, multiplied by 6 to 432 there will be 72 - 36 - 6 or **30** duplicates
-```
-
-Thus, the total multiplication minus the duplicate will return to a unique number where the scheme and formation is exactly back to the beginning, namely 114 earlier:
-
-```
-114 x 6 - 5 - 30 - 30 = 684 - 65 = 619 = 1+618 = 114th prime
-```
 
 You may check the running code starting with [Sequence Diagram](https://chetabahana.github.io/#chetabahana-skema?pad=2) shown below which is developed as [the initial step](#tabulate-prime-by-the-power-of-168) on building the _[10143 Grammars](#7th-step-q218-10)_.
 
