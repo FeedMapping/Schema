@@ -511,7 +511,7 @@ Thus, the total multiplication minus the duplicate will return to a unique numbe
 114 x 6 - 5 - 30 - 30 = 684 - 65 = 619 = 1+618 = 114th prime
 ```
 
-As you may guess the final result of above [Q3(**28**, 19)](#6th-step-q328-19) and [Q2(**18**, 10)](#7th-step-q218-10) would form π(5)=(2,3,5) so combined with the seven (7) steps of adjacent cycle they will form π(10)=(2,3,5,7) of the [1st row](#1st-step-q1910-29) with exactly the same [initial scheme](#introduction).
+As you may guess the prime index of final result of above [Q3(**28**, 19)](#6th-step-q328-19) and [Q2(**18**, 10)](#7th-step-q218-10) would form π(5)=(2,3,5). So combined with the seven (7) steps of adjacent cycle they will form π(10)=(2,3,5,7) of the [1st row](#1st-step-q1910-29) with exactly the same [initial scheme](#introduction).
 
 ```
    True Prime Pairs Δ |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
