@@ -494,7 +494,7 @@ The codes is built mainly with the algorithm of 66 out of the sum of the numbers
 
 [![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://eq19.github.io/theme)
 
-See that twin (2) primes is built with multipication by six (6n). So they will be managed within three (3) layers trough all the system by means of a _[remote theme](/theme)_.
+See that twin (2) primes is built with multipication by six (6). So they will be managed within three (3) layers trough all the system by means of a _[remote theme](/theme)_ to **(6n+1)** and **(6n+5)**.
 
 [![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
