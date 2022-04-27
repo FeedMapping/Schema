@@ -519,7 +519,7 @@ As you may guess the final result of above [Q3(**28**, 19)](#6th-step-q328-19) a
    π(10) 19           |  2 |  3 |  5 |  7 |  - |  - |  - |  - |  - | 4th  4 x Root
 ```
 
-The Q2(18, 10) step is about the algorithm of how the e above four (4) blocks of (102, 66, 329, 289) forms to this four (4) roots as the 1st row marked by **Quantum** below.
+So the [Q2(**18**, 10)](#7th-step-q218-10) step is about the algorithm of how the e above four (4) blocks of (102, 66, 329, 289) forms to this four (4) roots as the 1st row marked by **Quantum** below.
 
 ```
   --------------------+----+----+----+----+----+----+----+----+----+-----
