@@ -539,8 +539,6 @@ Therefore it will take several unsolved cases of modern science including but no
 DNA is read by DNA polymerase in the 3′ to 5′ direction, meaning the new strand is synthesized in the 5' to 3' direction. Since the leading and lagging strand templates are oriented in opposite directions at the replication fork, **`a major issue`** is how to achieve synthesis of new lagging strand DNA, whose direction of synthesis is opposite to the direction of the growing replication fork. _(Source: [Wikipedia](https://en.wikipedia.org/wiki/DNA_replication#Replication_fork))_.
 ```
 
-The parser will combine all tokens produced by lexer and group them as _[basic grammars]((#basic-grammars))_ so it can be used for other cases such as how to rectify _[C1+C2](https://github.com/MarketLeader)_ using _[P=NP](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)_.
-
 The parser will combine all tokens produced by lexer and group them as _[basic grammars]((#basic-grammars))_ so it can be used for other cases such as how to rectify _[C1+C2](https://github.com/MarketLeader)_ using _[P=NP](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)_.
 
 [![P versus NP Problem](https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)
@@ -623,8 +621,6 @@ Out of the formation, you are welcome to use whatever the items in this project.
 This pre-release is being developed for _[eBranding](https://github.com/chetabahana)_ within 7 (seven) years. It is still lack the parser 618 of the said _[10143 grammars](#7th-step-q218-10)_ to become usable for every other cases. 
 
 ![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
-
-All of the layouts are managed with a _[remote theme](https://eq19.github.io/theme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6** using _[Jekyll/Liquid Pages](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
 
 All of the layouts are managed with a _[remote theme](/theme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6** using _[Jekyll/Liquid Pages](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
 
