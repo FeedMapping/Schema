@@ -539,13 +539,15 @@ Therefore it will take several unsolved cases of modern science including but no
 DNA is read by DNA polymerase in the 3′ to 5′ direction, meaning the new strand is synthesized in the 5' to 3' direction. Since the leading and lagging strand templates are oriented in opposite directions at the replication fork, **`a major issue`** is how to achieve synthesis of new lagging strand DNA, whose direction of synthesis is opposite to the direction of the growing replication fork. _(Source: [Wikipedia](https://en.wikipedia.org/wiki/DNA_replication#Replication_fork))_.
 ```
 
-The parser will combine all tokens produced by lexer and group them as basic grammars so it can be used for other cases such as how to rectify _[C1+C2](https://github.com/MarketLeader)_ using _[P=NP](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)_.
+The parser will combine all tokens produced by lexer and group them as _[basic grammars]((#2nd-step-q1730-36))_ so it can be used for other cases such as how to rectify _[C1+C2](https://github.com/MarketLeader)_ using _[P=NP](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)_.
 
 [![P versus NP Problem](https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)
 
 Please find below the progress we have got so far.
 
 ## [Basic Grammar](#2nd-step-q1730-36)
+
+[![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://eq19.github.io/theme)
 
 The codes is built mainly with the algorithm of 66 out of the sum of the numbers **30 and 36**. They will be managed within three (3) layers trough all the system.
 
