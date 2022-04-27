@@ -507,7 +507,7 @@ Now let's calculate how many numbers are duplicates per layers:
 By Metraton the Δ1 flows in to the center so the sequence will reverse to **(Δ1,30,30,5)**
 ```
 
-Thus, the total multiplication minus the duplicate will return to a unique number where the scheme and formation is exactly back to the beginning, namely 114 earlier:
+Thus, the total multiplication minus the duplicate will return to a unique number where the scheme and formation of Δ1 is exactly back to the beginning, namely 114 earlier:
 
 ```
 114 x 6 - 5 - 30 - 30 = 684 - 65 = 619 = 1+618 = 114th prime
