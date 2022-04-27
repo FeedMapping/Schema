@@ -448,7 +448,7 @@ Now let's calculate how many numbers are duplicates per layers:
 By Metraton the Δ1 flows in to the center so the sequence will reverse to **(Δ1,30,30,5)**
 ```
 
-Let's take the end number each of the three (3) pairs in to an adjacent [polygonal numbers](https://en.wikipedia.org/wiki/Polygonal_number) then by the same different of 15 they will end to the number of 66:
+Let's take the end number each of the three (3) layers: (7,13,19) in to an adjacent [polygonal numbers](https://en.wikipedia.org/wiki/Polygonal_number) then by the same different of 15 they will end to the number of 66:
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/83051968-e2cfa480-a078-11ea-8ff2-316a809a8fad.jpg)](https://schoolbag.info/mathematics/numbers/38.html)
 
