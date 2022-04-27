@@ -519,7 +519,7 @@ As you may guess the prime index of final result of the above [Q3(**28**, 19)](#
    π(10) 19           |  2 |  3 |  5 |  7 |  - |  - |  - |  - |  - | 4th  4 x Root
 ```
 
-So the [Q2(**18**, 10)](#7th-step-q218-10) step is about the algorithm of how the above four (4) blocks of (102, 66, 329, 289) forms to this four (4) roots. Means the 19 cells above shall form back to π(10) as the 1st row marked by **Quantum** below.
+So the [Q2(**18**, 10)](#7th-step-q218-10) step is about the algorithm of how the above four (4) blocks of (102, 66, 329, 289) forms to this four (4) roots. Means the above π(10) shall form back to 19 cells as the 1st row marked by **Quantum** below.
 
 ```
   --------------------+----+----+----+----+----+----+----+----+----+-----
