@@ -599,7 +599,7 @@ We believe that until this concept is written, there is no such thing similar to
 
 ```
 
-So here we can define a meaning by the algorrithm of _Trur Prime Pairs_ in words.
+Let's take a look in general by the algorithm of _True Prime Pairs_ from the beginning of this page. Here we can define a logical meaning in words as its grammar.
 
 ```tip
 Mapping the quantum way within a huge of primes objects (5 to 19) by parsering (11) each of **untouched** feed (7) and tunneling (13) in to definitive classes (17).
