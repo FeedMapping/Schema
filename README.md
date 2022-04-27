@@ -486,7 +486,7 @@ The lexer will specify a sequence of digits correspond to a spin, while a parser
  168 + 618 = 168 + 329 + 289 = (7x24) + (7x47) + (8+9)² = (7x71) + (17x17)
 ```
 
-So it will form back to the begining stage with different form of input but its process will be the same algorithm. Means the 19 cells above shall form back to π(10).
+So it will form back to the begining stage with different form of input but its process will be the same algorithm trough all the system.
 
 ### [7th Step: Q2(18, 10)](https://github.com/marketleader)
 
@@ -494,7 +494,7 @@ The codes is built mainly with the algorithm of 66 out of the sum of the numbers
 
 [![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://eq19.github.io/theme)
 
-See that twin (2) primes is built with multipication by six (6). So they will be managed within three (3) layers trough all the system by means of a _[remote theme](/theme)_ to **(6n+1)** and **(6n+5)**.
+See that twin (2) primes is built with multipication by six (6). So they will be managed within three (3) layers by means of a _[remote theme](/theme)_ to **(6n+1)** and **(6n+5)**.
 
 [![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
@@ -519,7 +519,7 @@ As you may guess the final result of above [Q3(**28**, 19)](#6th-step-q328-19) a
    π(10) 19           |  2 |  3 |  5 |  7 |  - |  - |  - |  - |  - | 4th  4 x Root
 ```
 
-So the [Q2(**18**, 10)](#7th-step-q218-10) step is about the algorithm of how the e above four (4) blocks of (102, 66, 329, 289) forms to this four (4) roots as the 1st row marked by **Quantum** below.
+So the [Q2(**18**, 10)](#7th-step-q218-10) step is about the algorithm of how the e above four (4) blocks of (102, 66, 329, 289) forms to this four (4) roots. Means the 19 cells above shall form back to π(10) as the 1st row marked by **Quantum** below.
 
 ```
   --------------------+----+----+----+----+----+----+----+----+----+-----
