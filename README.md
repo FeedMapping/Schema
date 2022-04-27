@@ -1,6 +1,6 @@
 ## [Introduction](https://eq19.github.io/)
  
-This's the partial of [the mapping scheme](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of our [eQuantum Project](https://github.com/eq19) that's taking a scheme shown on the sidebar (see dekstop view) called **[DNA Recombination](https://en.wikipedia.org/wiki/DNA#Genetic_recombination): [M+F](https://github.com/eq19/quantum/blob/workflows/_layouts/feed.rb) to [C1+C2](https://github.com/eq19/quantum/blob/workflows/_includes/data/roots.rb)**.
+This's the partial of [the mapping scheme](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of our [eQuantum Project](https://github.com/eq19) that's taking a scheme shown on the sidebar (see dekstop view) called **[DNA Recombination](https://en.wikipedia.org/wiki/DNA#Genetic_recombination): [M+F](https://github.com/eq19/quantum/blob/workflows/_layouts/feed.rb) to [C1+C2](https://github.com/eq19/quantum/blob/workflows/_includes/data/roots.rb)**.
 
 ```note
 Recombination involves the breaking and rejoining of two chromosomes (M and F) to produce two rearranged chromosomes (C1 and C2).
@@ -30,7 +30,7 @@ They will work base on the correlation between **168=π(1000)** as lexer and **6
 
 Each cycles will have a total of **seven (7) steps prime algorithm** on base 10 that consist of three (3) **leading** steps by the power of 168: [Q19(10, **29**)](#1st-step-q1910-29), [Q17(30, **36**)](#2nd-step-q1730-36), [Q13(37, **114**)](#3rd-step-q1337-114) and four (4) **lagging** steps by 618: [Q7(**113**, 90)](#4th-step-q7113-90), [Q5(**89**, 29)](#5th-step-q589-29), [Q3(**28**, 19)](#6th-step-q328-19), [Q2(**18**, 10)](#7th-step-q218-10).
 
-[![generate the prime](https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
+[![generate the prime](https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 By having digital root of (five) 5 and two (2), the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[base frame](base)_.
 
@@ -46,7 +46,7 @@ Therefore these primes package end with the prime 19 as the 8th prime right belo
 
 See that 23 has the number **two (2)** and **three (3)**, both are the two (2) only primes under their sum of prime five (5). Thus these primes symetri forms by their selves as a default as they even exist in a single unit of _[DNA](https://en.wikipedia.org/wiki/DNA)_.
 
-[![Single DNA](https://user-images.githubusercontent.com/36441664/131957473-5a815492-a5f6-49be-9762-9a8921d95dc2.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#frame)
+[![Single DNA](https://user-images.githubusercontent.com/36441664/131957473-5a815492-a5f6-49be-9762-9a8921d95dc2.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#frame)
 
 ```tip
 Hydrogen bonds are formed between hydrogen attached to an electronegative atom and an electronegative atom of a different molecules. _(Source: [Quora](https://www.quora.com/Why-are-there-two-hydrogen-bonds-between-adenine-and-thymine-but-three-hydrogen-bonds-between-cytosine-and-guanine/answer/Rucious-Heang))_.
@@ -66,9 +66,9 @@ Let's discuss in more detail about the said primes.
 
 In term of distribution, these six (6) primes are naturally laid in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
 
-[![The True Prime Pairs](https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
+[![The True Prime Pairs](https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
-So these prime algorithm is again formed by three (3) sets of twin (2) pairs. To make live simpler let.s call them _[True Prime Pairs](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_.
+So these prime algorithm is again formed by three (3) sets of twin (2) pairs. To make live simpler let.s call them _[True Prime Pairs](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_.
 
 ```
  $True Prime Pairs:
@@ -146,9 +146,9 @@ Let's start by get in touch with the (30, 36)th as the result of Δ1 shown on th
 [![Prime Hexagon](https://user-images.githubusercontent.com/36441664/74550123-6dd1d680-4f83-11ea-8810-3b8f4f50a9c0.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
 
 ```tip
-You may see that it is clearly showing the 30th Prime of 113=114-1 is routed to 36th Prime of 151=150+1 while both of the 30 and 36 are exactly laid on _[the 18’s Cell](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/18)_:
+You may see that it is clearly showing the 30th Prime of 113=114-1 is routed to 36th Prime of 151=150+1 while both of the 30 and 36 are exactly laid on _[the 18’s Cell](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/18)_:
 
-Take also a note that the next 10 number after 19 right before the 30 which are 20 up to 29 is in laid on the second rows of 17 while _[17's Cell](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/17)_ has 35+65=100=10².
+Take also a note that the next 10 number after 19 right before the 30 which are 20 up to 29 is in laid on the second rows of 17 while _[17's Cell](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/17)_ has 35+65=100=10².
 ```
 
 See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on.
@@ -287,7 +287,7 @@ See that in the tabulation of prime hexagon the _[6th row](#3rd-step-q736-114)_ 
 
 Therefore the prime flow in the developed flowchart above should take a connection to form between them two. This is the reason why the sequence is arranged as below:
 
-[![the sequence](https://user-images.githubusercontent.com/36441664/103147412-5492dc80-4787-11eb-8277-4fa39ce28c90.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
+[![the sequence](https://user-images.githubusercontent.com/36441664/103147412-5492dc80-4787-11eb-8277-4fa39ce28c90.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 Therefore the 30th primes will bear the responsibility to generate the prime 43 while the 36th prime for the 89. 
 
@@ -310,11 +310,11 @@ $$
 
 This should have a delta of Δ18 to the last number which is 168 where this 168 is exactly π(1000). So it would take place on the 150 and the scheme there will consequently be **the perfect square of 1000** or 1 Million.
 
-[![delta of Δ18](https://user-images.githubusercontent.com/36441664/107850441-06b85d80-6e35-11eb-8787-b947d7c60c2e.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
+[![delta of Δ18](https://user-images.githubusercontent.com/36441664/107850441-06b85d80-6e35-11eb-8787-b947d7c60c2e.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 Let's consider this flowchart of 168 as a lexer so the parser has to be designed to absorb the flow between the 30th and 36th. Then it will slightly form as a Metatron Cube of the hexagonal form of 18's Cell.
 
-[![delta of Δ18](https://user-images.githubusercontent.com/36441664/107083678-9607b480-6828-11eb-9cdf-cfdfc4f6face.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
+[![delta of Δ18](https://user-images.githubusercontent.com/36441664/107083678-9607b480-6828-11eb-9cdf-cfdfc4f6face.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 Here we assign it as the diagram of 618. On [the next target](https://github.com/chetabahana/chetabahana.github.io/discussions/categories/announcements) we will discuss about 1000/Φ = 618 = 619-1 = 114th prime - 1 as a lexer and parser.
 
@@ -393,7 +393,7 @@ True Prime Vektors ζ(s):
 
 See that this configuration showing a kind of turbulences which leads to a gap of Δ19 in the central of _[Metatron](#1st-step-q1910-29)_ where the replication is initiated by **Δ18 of 50(68)**. This scheme is taken as a basic algorithm for the mechanism of DNA generation from RNA.
 
-[![DNA generation from RNA](https://user-images.githubusercontent.com/36441664/100724943-01cb3c80-33f6-11eb-8564-c5a9ced2b668.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
+[![DNA generation from RNA](https://user-images.githubusercontent.com/36441664/100724943-01cb3c80-33f6-11eb-8564-c5a9ced2b668.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
 ```note
 The chemical structure of RNA is very similar to that of DNA, but differs in three primary ways:
@@ -441,7 +441,7 @@ We see that the polygonal numbers in the same column all have the same differenc
 
 See the _[(19 vs 18) Loops](#3rd-step-q736-114)_ more closely, you can find that the number 102 is exactly laid on 18th row by the 15th spin out of 19 whereas 102+66 = 168 = π(1000). 
 
-[![the next target](https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
+[![the next target](https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
 The lexer will specify a sequence of digits correspond to a spin, while a parser will specify its sequence. Combining the two (2) then they will form the tabulation as below:
 
@@ -531,17 +531,21 @@ This 10143 will comprise of lexer and parser similar with 168 & 618. Since the 1
 The development of this **6200 by 3900** took its base place in this repository and is considered final. It is the most complex thing among the other steps where we have to involve so many items to verify about how far this development is adoptable. 
 ```
 
-Therefore it will take several unsolved cases of modern science including but not at least _[DNA Replication Fork](https://en.wikipedia.org/wiki/DNA_replication#Replication_fork)_, _[Alzheimer's Disease](https://youtube.com/playlist?list=PL_S8nmGoQ7q6wKXUG8HBqPzoAhRmVCmSJ)_, and _[The Millenium Prize Problems](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#scheme)_. 
+Therefore it will take several unsolved cases of modern science including but not at least _[DNA Replication Fork](https://en.wikipedia.org/wiki/DNA_replication#Replication_fork)_, _[Alzheimer's Disease](https://youtube.com/playlist?list=PL_S8nmGoQ7q6wKXUG8HBqPzoAhRmVCmSJ)_, and _[The Millenium Prize Problems](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#scheme)_. 
 
-[![DNA Replication Fork](https://user-images.githubusercontent.com/8466209/90597914-32f37880-e21c-11ea-81b3-ffdcd47037b8.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#kelas)
+[![DNA Replication Fork](https://user-images.githubusercontent.com/8466209/90597914-32f37880-e21c-11ea-81b3-ffdcd47037b8.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#kelas)
 
 ```note
 DNA is read by DNA polymerase in the 3′ to 5′ direction, meaning the new strand is synthesized in the 5' to 3' direction. Since the leading and lagging strand templates are oriented in opposite directions at the replication fork, **`a major issue`** is how to achieve synthesis of new lagging strand DNA, whose direction of synthesis is opposite to the direction of the growing replication fork. _(Source: [Wikipedia](https://en.wikipedia.org/wiki/DNA_replication#Replication_fork))_.
 ```
 
+<<<<<<< Updated upstream
 The parser will combine all tokens produced by lexer and group them as _[basic grammars]((#2nd-step-q1730-36))_ so it can be used for other cases such as how to rectify _[C1+C2](https://github.com/MarketLeader)_ using _[P=NP](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)_.
+=======
+The parser will combine all tokens produced by lexer and group them as basic grammars so it can be used for other cases such as how to rectify _[C1+C2](https://github.com/MarketLeader)_ using _[P=NP](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)_.
+>>>>>>> Stashed changes
 
-[![P versus NP Problem](https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)
+[![P versus NP Problem](https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)
 
 Please find below the progress we have got so far.
 
@@ -551,7 +555,7 @@ Please find below the progress we have got so far.
 
 The codes is built mainly with the algorithm of 66 out of the sum of the numbers **30 and 36**. They will be managed within three (3) layers trough all the system.
 
-[![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
+[![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
 ```tip
 Now let's calculate how many numbers are duplicates per layers:
@@ -574,7 +578,7 @@ Clicking each of objects will turn to 6 (six) diagrams by the cycle form of [pri
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/69475449-ce77ca00-0dff-11ea-964e-cc959db0740a.png)](https://github.com/eq19)
 
-This _168 (mapping) and 618 (feeding)_ stand as  [the whole scheme](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of The M+F to C1+C2 which act as the base prime pairs **[(2,3) of DNA](#tabulate-prime-by-the-power-of-168)** to become **[23 pairs of Chromosomes](#tabulate-prime-by-the-power-of-168)**.
+This _168 (mapping) and 618 (feeding)_ stand as  [the whole scheme](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of The M+F to C1+C2 which act as the base prime pairs **[(2,3) of DNA](#tabulate-prime-by-the-power-of-168)** to become **[23 pairs of Chromosomes](#tabulate-prime-by-the-power-of-168)**.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/86481184-b72b9280-bd79-11ea-899b-51db929fc3d2.png)](https://github.com/eq19)
 
@@ -620,9 +624,13 @@ This pre-release is being developed for _[eBranding](https://github.com/chetabah
 
 ![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
 
+<<<<<<< Updated upstream
 All of the layouts are managed with a _[remote theme](https://eq19.github.io/theme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6** using _[Jekyll/Liquid Pages](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
+=======
+All of the layouts are managed with a _[remote theme](/theme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6** using _[Jekyll/Liquid Pages](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
+>>>>>>> Stashed changes
 
-[![remote layout](https://camo.githubusercontent.com/dc89cc4d5c11a81766b261b369d59f544c5712683528936499ac89749adfb5a6/68747470733a2f2f7777772e6a656b796c6c2e636f6d2e636e2f696d672f6a656b796c6c6c61796f7574636f6e636570742e706e67)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)
+[![remote layout](https://camo.githubusercontent.com/dc89cc4d5c11a81766b261b369d59f544c5712683528936499ac89749adfb5a6/68747470733a2f2f7777772e6a656b796c6c2e636f6d2e636e2f696d672f6a656b796c6c6c61796f7574636f6e636570742e706e67)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)
 
 ```note
 In this example, the content from a Markdown document `document.md` that specifies `layout: docs` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag of the layout file `docs.html`. Because the `docs` layout itself specifies `layout: page`, the content from `docs.html` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag in the layout file `page.html`. Finally because the `page` layout specifies `layout: default`, the content from `page.html` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag of the layout file `default.html`. (Source: [Jekyll Tutorial](https://jekyllrb.com/tutorials/convert-site-to-jekyll/))
@@ -640,9 +648,9 @@ Although the _[The Pre-release 168](#next-target-tabulate-prime-by-618)_ is alre
 
 [![lexer and parser](https://user-images.githubusercontent.com/36441664/71659208-5515b480-2d79-11ea-859f-a20dea0cf680.jpg)](https://github.com/eq19/maps)
 
-Therefore we are going to use _[TensorFlow](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)_ to connect the pre grammars on [Github API](https://docs.github.com/en/github-ae@latest/admin/overview/about-the-github-enterprise-api) to [Google API](https://en.wikipedia.org/wiki/Google_APIs) to fetch real life data through their machine learning such as _[Big Query](https://en.wikipedia.org/wiki/BigQuery)_.
+Therefore we are going to use _[TensorFlow](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)_ to connect the pre grammars on [Github API](https://docs.github.com/en/github-ae@latest/admin/overview/about-the-github-enterprise-api) to [Google API](https://en.wikipedia.org/wiki/Google_APIs) to fetch real life data through their machine learning such as _[Big Query](https://en.wikipedia.org/wiki/BigQuery)_.
 
-[![Machine Learning](https://user-images.githubusercontent.com/36441664/123424569-377e7f80-d5eb-11eb-9c85-1f5d72f14eed.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)
+[![Machine Learning](https://user-images.githubusercontent.com/36441664/123424569-377e7f80-d5eb-11eb-9c85-1f5d72f14eed.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)
 
 Base on the 19 Cells of _[168 vs 618 tabulation](#6th-step-q328-19)_ then for the 618 it might need 19 minus 7 or another 12 (twelve) years to develope those _10143 grammars_ to become 1st Release.
 
