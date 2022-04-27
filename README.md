@@ -539,11 +539,9 @@ Therefore it will take several unsolved cases of modern science including but no
 DNA is read by DNA polymerase in the 3′ to 5′ direction, meaning the new strand is synthesized in the 5' to 3' direction. Since the leading and lagging strand templates are oriented in opposite directions at the replication fork, **`a major issue`** is how to achieve synthesis of new lagging strand DNA, whose direction of synthesis is opposite to the direction of the growing replication fork. _(Source: [Wikipedia](https://en.wikipedia.org/wiki/DNA_replication#Replication_fork))_.
 ```
 
-<<<<<<< Updated upstream
-The parser will combine all tokens produced by lexer and group them as _[basic grammars]((#2nd-step-q1730-36))_ so it can be used for other cases such as how to rectify _[C1+C2](https://github.com/MarketLeader)_ using _[P=NP](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)_.
-=======
-The parser will combine all tokens produced by lexer and group them as basic grammars so it can be used for other cases such as how to rectify _[C1+C2](https://github.com/MarketLeader)_ using _[P=NP](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)_.
->>>>>>> Stashed changes
+The parser will combine all tokens produced by lexer and group them as _[basic grammars]((#basic-grammars))_ so it can be used for other cases such as how to rectify _[C1+C2](https://github.com/MarketLeader)_ using _[P=NP](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)_.
+
+The parser will combine all tokens produced by lexer and group them as _[basic grammars]((#basic-grammars))_ so it can be used for other cases such as how to rectify _[C1+C2](https://github.com/MarketLeader)_ using _[P=NP](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)_.
 
 [![P versus NP Problem](https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)
 
@@ -626,11 +624,9 @@ This pre-release is being developed for _[eBranding](https://github.com/chetabah
 
 ![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
 
-<<<<<<< Updated upstream
 All of the layouts are managed with a _[remote theme](https://eq19.github.io/theme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6** using _[Jekyll/Liquid Pages](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
-=======
+
 All of the layouts are managed with a _[remote theme](/theme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6** using _[Jekyll/Liquid Pages](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
->>>>>>> Stashed changes
 
 [![remote layout](https://camo.githubusercontent.com/dc89cc4d5c11a81766b261b369d59f544c5712683528936499ac89749adfb5a6/68747470733a2f2f7777772e6a656b796c6c2e636f6d2e636e2f696d672f6a656b796c6c6c61796f7574636f6e636570742e706e67)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)
 
