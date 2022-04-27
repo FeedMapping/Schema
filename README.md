@@ -431,6 +431,23 @@ This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come 
  -----+-----+---------
  ```
 
+The codes is built mainly with the algorithm of 66 out of the sum of the numbers **[30 and 36](#3rd-step-q1337-114)**. The main difference between them two is that 36 framed by twin primes.
+
+[![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://eq19.github.io/theme)
+
+See that twin (2) primes is built with multipication by six (6). So they will be managed within three (3) layers by means of a _[remote theme](/theme)_ to **(6n+1)** and **(6n+5)**.
+
+[![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
+
+```tip
+Now let's calculate how many numbers are duplicates per layers:
+* layer-1 has 6, multiplied by 6 to 36 there will be 6 - 1 or **5** duplicates
+* layer-2 has 36, multiplied by 6 to 216 there will be 36 - 6 or **30** duplicates
+* layer-3 has 72, multiplied by 6 to 432 there will be 72 - 36 - 6 or **30** duplicates
+
+By Metraton the Δ1 flows in to the center so the sequence will reverse to **(Δ1,30,30,5)**
+```
+
 Let's take the end number each of the three (3) pairs in to an adjacent [polygonal numbers](https://en.wikipedia.org/wiki/Polygonal_number) then by the same different of 15 they will end to the number of 66:
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/83051968-e2cfa480-a078-11ea-8ff2-316a809a8fad.jpg)](https://schoolbag.info/mathematics/numbers/38.html)
@@ -489,23 +506,6 @@ The lexer will specify a sequence of digits correspond to a spin, while a parser
 So it will form back to the begining stage with different form of input but its process will be the same algorithm trough all the system.
 
 ### [7th Step: Q2(18, 10)](https://github.com/marketleader)
-
-The codes is built mainly with the algorithm of 66 out of the sum of the numbers **30 and 36**. The main difference between them two is that 36 framed by twin primes.
-
-[![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://eq19.github.io/theme)
-
-See that twin (2) primes is built with multipication by six (6). So they will be managed within three (3) layers by means of a _[remote theme](/theme)_ to **(6n+1)** and **(6n+5)**.
-
-[![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
-
-```tip
-Now let's calculate how many numbers are duplicates per layers:
-* layer-1 has 6, multiplied by 6 to 36 there will be 6 - 1 or **5** duplicates
-* layer-2 has 36, multiplied by 6 to 216 there will be 36 - 6 or **30** duplicates
-* layer-3 has 72, multiplied by 6 to 432 there will be 72 - 36 - 6 or **30** duplicates
-
-By Metraton the Δ1 flows in to the center so the sequence will reverse to **(Δ1,30,30,5)**
-```
 
 Thus, the total multiplication minus the duplicate will return to a unique number where the scheme and formation of Δ1 is exactly back to the beginning, namely 114 earlier:
 
