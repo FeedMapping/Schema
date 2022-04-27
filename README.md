@@ -435,6 +435,14 @@ The codes is built mainly with the algorithm of 66 out of the sum of the numbers
 
 [![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://eq19.github.io/theme)
 
+Let's take the end number each of the three (3) layers: (7,13,19) in to an adjacent [polygonal numbers](https://en.wikipedia.org/wiki/Polygonal_number) then by the same different of 15 they will end to the number of 66:
+
+[![generate the prime](https://user-images.githubusercontent.com/36441664/83051968-e2cfa480-a078-11ea-8ff2-316a809a8fad.jpg)](https://schoolbag.info/mathematics/numbers/38.html)
+
+```note
+We see that the polygonal numbers in the same column all have the same difference, and this difference is always a triangular number. For example, the fifth pentagonal number (35) has 10 dots more than the fifth square number (25) and 10 dots fewer than the fifth hexagonal number (45), and the difference 10 is just the fourth triangular number. _(Source: [Discovering Properties of Numbers](https://schoolbag.info/mathematics/numbers/38.html))_.
+```
+
 See that twin (2) primes is built with multipication by six (6). So they will be managed within three (3) layers by means of a _[remote theme](/theme)_ to **(6n+1)** and **(6n+5)**.
 
 [![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
@@ -446,14 +454,6 @@ Now let's calculate how many numbers are duplicates per layers:
 * layer-3 has 72, multiplied by 6 to 432 there will be 72 - 36 - 6 or **30** duplicates
 
 By Metraton the Δ1 flows in to the center so the sequence will reverse to **(Δ1,30,30,5)**
-```
-
-Let's take the end number each of the three (3) layers: (7,13,19) in to an adjacent [polygonal numbers](https://en.wikipedia.org/wiki/Polygonal_number) then by the same different of 15 they will end to the number of 66:
-
-[![generate the prime](https://user-images.githubusercontent.com/36441664/83051968-e2cfa480-a078-11ea-8ff2-316a809a8fad.jpg)](https://schoolbag.info/mathematics/numbers/38.html)
-
-```note
-We see that the polygonal numbers in the same column all have the same difference, and this difference is always a triangular number. For example, the fifth pentagonal number (35) has 10 dots more than the fifth square number (25) and 10 dots fewer than the fifth hexagonal number (45), and the difference 10 is just the fourth triangular number. _(Source: [Discovering Properties of Numbers](https://schoolbag.info/mathematics/numbers/38.html))_.
 ```
 
 See the _[(19 vs 18) Loops](#3rd-step-q736-114)_ more closely, you can find that the number 102 is exactly laid on 18th row by the 15th spin out of 19 whereas 102+66 = 168 = π(1000). 
