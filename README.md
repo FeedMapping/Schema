@@ -503,7 +503,8 @@ Now let's calculate how many numbers are duplicates per layers:
 * layer-1 has 6, multiplied by 6 to 36 there will be 6 - 1 or **5** duplicates
 * layer-2 has 36, multiplied by 6 to 216 there will be 36 - 6 or **30** duplicates
 * layer-3 has 72, multiplied by 6 to 432 there will be 72 - 36 - 6 or **30** duplicates
-By Metraton the cycle of Δ1 flows in to the center so the sequence will be **(Δ1,30,30,5)**
+
+By Metraton the Δ1 flows in to the center so the sequence will be **(Δ1,30,30,5)**
 ```
 
 Thus, the total multiplication minus the duplicate will return to a unique number where the scheme and formation is exactly back to the beginning, namely 114 earlier:
