@@ -435,7 +435,7 @@ The codes is built mainly with the algorithm of 66 out of the sum of the numbers
 
 [![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://eq19.github.io/theme)
 
-Let's take the end number each of the three (3) layers: (7,13,19) in to an adjacent [polygonal numbers](https://en.wikipedia.org/wiki/Polygonal_number) then by the same different of 15 they will end to the number of 66:
+Let's take the end number each of the three (3) layers: (7,13,19) in an adjacent [polygonal numbers](https://en.wikipedia.org/wiki/Polygonal_number) then by the same different of 15 they will end to the number of 66:
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/83051968-e2cfa480-a078-11ea-8ff2-316a809a8fad.jpg)](https://schoolbag.info/mathematics/numbers/38.html)
 
