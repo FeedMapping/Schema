@@ -443,8 +443,6 @@ Let's take the end number each of the three (3) layers: (7,13,19) in an adjacent
 We see that the polygonal numbers in the same column all have the same difference, and this difference is always a triangular number. For example, the fifth pentagonal number (35) has 10 dots more than the fifth square number (25) and 10 dots fewer than the fifth hexagonal number (45), and the difference 10 is just the fourth triangular number. _(Source: [Discovering Properties of Numbers](https://schoolbag.info/mathematics/numbers/38.html))_.
 ```
 
-![Euleur Identity](https://user-images.githubusercontent.com/36441664/74366957-992db780-4e03-11ea-8f26-cca32bd26003.png)
-
 See that twin (2) primes is built with multipication by six (6). So they will be managed within three (3) layers by means of a _[remote theme](/theme)_ to **(6n+1)** and **(6n+5)**.
 
 [![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
@@ -462,7 +460,11 @@ See the _[(19 vs 18) Loops](#3rd-step-q736-114)_ more closely, you can find that
 
 [![the next target](https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
-The lexer will specify a sequence of digits correspond to a spin, while a parser will specify its sequence. Combining the two (2) then they will form the tabulation as below:
+The lexer will specify a sequence of digits correspond to a spin, while a parser will specify its sequence. 
+
+![Euleur Identity](https://user-images.githubusercontent.com/36441664/74366957-992db780-4e03-11ea-8f26-cca32bd26003.png)
+
+Combining the two (2) then they will form the tabulation as below:
 
 ```
  Scheme:
