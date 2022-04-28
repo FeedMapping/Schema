@@ -125,13 +125,13 @@ Now let's force 12 or Δ1 to the **prime 13**. See how those primes reacted to c
   12+13+(18+18)+13+12  ← 36th-Δ1=151-1=150=100+2x(13+12)  ←  30th = 113 = 114-1
 ```
 
+### [2nd Step: Q17(30, 36)](https://eq19.github.io/classes)
+
 See that this flows starting from π(10) and finalize by pairing of Δ12. Let's draw 12 of flow arrows in such a way where they have interconnection with 10 objects.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/128732737-81762604-0ae0-4a90-b5a8-30921cf46efb.png)](https://github.com/eq19)
 
 So here we can get the idea of **10 number becoming 10 primes**.
-
-### [2nd Step: Q17(30, 36)](https://eq19.github.io/classes)
 
 In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 primes (2,3,5,7) to π(100)=25 and π(1000)=168.
 
