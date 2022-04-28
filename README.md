@@ -141,6 +141,8 @@ Then convert them to 10th prime=29 then to 29 primes up to of (10th)th=29th prim
 
 Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</sup> primes** by the Δ1 flowing within the prime pairs.
 
+### [3rd Step: Q13(37, 114)](https://eq19.github.io/tunnel)
+
 Let's start by get in touch with the (30, 36)th as the result of Δ1 shown on the above tabulation in more detail. Then take a look with the behaviour of prime flows within _The Prime Hexagon_ as shown below. 
 
 [![Prime Hexagon](https://user-images.githubusercontent.com/36441664/74550123-6dd1d680-4f83-11ea-8810-3b8f4f50a9c0.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
@@ -152,9 +154,6 @@ Take also a note that the next 10 number after 19 right before the 30 which are 
 ```
 
 See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on.
-
-
-### [3rd Step: Q13(37, 114)](https://eq19.github.io/tunnel)
 
 Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on Δ6 & 19's! It means that we have to assign [the 6th repository](https://github.com/eq19/quantum) as **the overall direction**.
 
@@ -245,8 +244,6 @@ This is a polar plot of the first 20 non-trivial Riemann zeta function zeros (in
 ```
 
 Now let's discuss first if this 50 plots has something to do with the prime algorithms.
-
-![50 plots](https://user-images.githubusercontent.com/36441664/74591945-2b75cb80-504f-11ea-85dd-14d0a803ee6b.png)
 
 One of the major case is that we will start with the lagging steps. The basic algorithm is Synthesis of leading and lagging strands of DNA.
 
@@ -465,6 +462,8 @@ The lexer will specify a sequence of digits correspond to a spin, while a parser
 ![Euleur Identity](https://user-images.githubusercontent.com/36441664/74366957-992db780-4e03-11ea-8f26-cca32bd26003.png)
 
 Combining the two (2) then they will form the tabulation as below:
+
+![50 plots](https://user-images.githubusercontent.com/36441664/74591945-2b75cb80-504f-11ea-85dd-14d0a803ee6b.png)
 
 ```
  Scheme:
