@@ -437,13 +437,13 @@ The codes is built mainly with the algorithm of 66 out of the sum of the numbers
 
 Let's take the end number each of the three (3) layers: (7,13,19) in an adjacent [polygonal numbers](https://en.wikipedia.org/wiki/Polygonal_number) then by the same different of 15 they will end to the number of 66:
 
-![Euleur Identity](https://user-images.githubusercontent.com/36441664/74366957-992db780-4e03-11ea-8f26-cca32bd26003.png)
-
 [![generate the prime](https://user-images.githubusercontent.com/36441664/83051968-e2cfa480-a078-11ea-8ff2-316a809a8fad.jpg)](https://schoolbag.info/mathematics/numbers/38.html)
 
 ```note
 We see that the polygonal numbers in the same column all have the same difference, and this difference is always a triangular number. For example, the fifth pentagonal number (35) has 10 dots more than the fifth square number (25) and 10 dots fewer than the fifth hexagonal number (45), and the difference 10 is just the fourth triangular number. _(Source: [Discovering Properties of Numbers](https://schoolbag.info/mathematics/numbers/38.html))_.
 ```
+
+![Euleur Identity](https://user-images.githubusercontent.com/36441664/74366957-992db780-4e03-11ea-8f26-cca32bd26003.png)
 
 See that twin (2) primes is built with multipication by six (6). So they will be managed within three (3) layers by means of a _[remote theme](/theme)_ to **(6n+1)** and **(6n+5)**.
 
