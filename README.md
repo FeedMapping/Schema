@@ -7,10 +7,10 @@ Recombination involves the breaking and rejoining of two chromosomes (M and F) t
  _(Source: [Wikipedia](https://en.wikipedia.org/wiki/DNA#Genetic_recombination))_.
 ```
 
-[![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](https://eq19.github.io/theme)
+[![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](https://eq19.github.io/scheme)
 
 ```tip
-By Our Project this **Sheme** runs as _[remote theme](https://eq19.github.io/theme)_ where the **Symbols** are:
+By Our Project this **Sheme** runs as _[remote theme](https://eq19.github.io/scheme)_ where the **Symbols** are:
 * The _**M+F**_ symbol will stand as: [Project Maps (M)](https://eq19.github.io/maps) + [Project Feed (F)](https://eq19.github.io/feed) while
 * _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 ```
@@ -278,7 +278,7 @@ This scheme can only be acheived via **bilateral 9 sums** of prime 43 to 89 by *
 
 See that in the tabulation of prime hexagon the _[6th row](#3rd-step-q736-114)_ that assigned as overall direction has the biggest numbers involved among the other rows which is 9 (nine). This will simply act as the bilateral 9 sums of 43 and 89. 
 
-[![overall direction](https://user-images.githubusercontent.com/36441664/67816683-560e3980-fadd-11e9-8a30-36901cbceaad.png)](https://eq19.github.io/theme)
+[![overall direction](https://user-images.githubusercontent.com/36441664/67816683-560e3980-fadd-11e9-8a30-36901cbceaad.png)](https://eq19.github.io/scheme)
 
 Therefore the prime flow in the developed flowchart above should take a connection to form between them two. This is the reason why the sequence is arranged as below:
 
@@ -428,7 +428,7 @@ This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come 
 
 The codes is built mainly with the algorithm of 66 out of the sum of the numbers **[30 and 36](#3rd-step-q1337-114)**. The main difference between them two is that 36 framed by twin primes.
 
-[![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://eq19.github.io/theme)
+[![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://eq19.github.io/scheme)
 
 Let's take the end number each of the three (3) layers: (7,13,19) in an adjacent [polygonal numbers](https://en.wikipedia.org/wiki/Polygonal_number) then by the same different of 15 they will end to the number of 66:
 
@@ -438,7 +438,7 @@ Let's take the end number each of the three (3) layers: (7,13,19) in an adjacent
 We see that the polygonal numbers in the same column all have the same difference, and this difference is always a triangular number. For example, the fifth pentagonal number (35) has 10 dots more than the fifth square number (25) and 10 dots fewer than the fifth hexagonal number (45), and the difference 10 is just the fourth triangular number. _(Source: [Discovering Properties of Numbers](https://schoolbag.info/mathematics/numbers/38.html))_.
 ```
 
-See that twin (2) primes is built with multipication by six (6). So they will be managed within three (3) layers by means of a _[remote theme](/theme)_ to **(6n+1)** and **(6n+5)**.
+See that twin (2) primes is built with multipication by six (6). So they will be managed within three (3) layers by means of a _[remote theme](/scheme)_ to **(6n+1)** and **(6n+5)**.
 
 [![generate the primes (2,3)](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
@@ -635,7 +635,7 @@ This pre-release is being developed for _[eBranding](https://github.com/chetabah
 
 ![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
 
-All of the layouts are managed with a _[remote theme](/theme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6** using _[Jekyll/Liquid Pages](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
+All of the layouts are managed with a _[remote theme](/scheme)_ originated by the number of sixty six (66) which is converted to **6 + 6** out of the difference of Δ12 between the primes **23 and 11** using the algorithm of 36 as the perfect square from **6 by 6** using _[Jekyll/Liquid Pages](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)_.
 
 [![remote layout](https://camo.githubusercontent.com/dc89cc4d5c11a81766b261b369d59f544c5712683528936499ac89749adfb5a6/68747470733a2f2f7777772e6a656b796c6c2e636f6d2e636e2f696d672f6a656b796c6c6c61796f7574636f6e636570742e706e67)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)
 
