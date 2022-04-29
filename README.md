@@ -260,8 +260,6 @@ The leading strand is synthesized continuously in the direction of replication f
 {:title="Leading and lagging"}
 ```
 
-Besides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of [<code>init</code>](https://eq19.github.io/maps) as the road map to π(1000x1000).
-
 Thus the primes are organized to generate another 1000 primes via an adjacent flow of π(89) to π(89²). _(Credit: primesdemystified.com)_
 
 [![collective bilateral 9 sum symmetry](https://user-images.githubusercontent.com/36441664/76146565-6f944300-60c6-11ea-829d-16f98dc94163.png)](https://primesdemystified.com/)
@@ -399,6 +397,8 @@ The chemical structure of RNA is very similar to that of DNA, but differs in thr
 
 _(Source: [Wikipedia](https://en.wikipedia.org/wiki/RNA#Comparison_with_DNA))_
 ```
+
+Besides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of [<code>init</code>](https://eq19.github.io/maps) as the road map to π(1000x1000).
 
 ### [6th Step: Q3(28, 19)](https://eq19.github.io/hexagon)
 
