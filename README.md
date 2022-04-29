@@ -455,9 +455,11 @@ See the _[(19 vs 18) Loops](#3rd-step-q736-114)_ more closely, you can find that
 
 [![the next target](https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
-The lexer will specify a sequence of digits correspond to a spin, while a parser will specify its sequence. Combining the two (2) then they will form the tabulation as below:
+The parser defined as the analysis of an input to organize the data according to the rule of a grammar while the lexer transforms a sequence of characters in a sequence of tokens. Here the lexer will specify a token correspond to a spin and the parser will specify its sequence.
 
 ![50 plots](https://user-images.githubusercontent.com/36441664/74591945-2b75cb80-504f-11ea-85dd-14d0a803ee6b.png)
+
+Combining the two (2) then they will form the tabulation as below:
 
 ```
  Scheme:
