@@ -262,11 +262,11 @@ The leading strand is synthesized continuously in the direction of replication f
 
 Besides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of [<code>init</code>](https://eq19.github.io/maps) as the road map to π(1000x1000).
 
-Thus the primes are organized to generate another 1000 primes via an adjacent flow of π(89) to π(89²). This scheme can only be acheived via **bilateral 9 sums** of prime 43 to 89 by **modulo 90**. _(Credit: primesdemystified.com)_
+Thus the primes are organized to generate another 1000 primes via an adjacent flow of π(89) to π(89²). _(Credit: primesdemystified.com)_
 
 [![collective bilateral 9 sum symmetry](https://user-images.githubusercontent.com/36441664/76146565-6f944300-60c6-11ea-829d-16f98dc94163.png)](https://primesdemystified.com/)
 
-That what and why **18+13+12=43** located within **the last 9 cells** is standing for!
+This scheme can only be acheived via **bilateral 9 sums** of prime 43 to 89 by **modulo 90**. That what and why **18+13+12=43** located within **the last 9 cells** is standing for!
 
 ```
   -----------------+----+----+----+----+----+----+----+----+----+-----
