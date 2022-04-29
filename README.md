@@ -30,12 +30,9 @@ They will work base on the correlation between **168=π(1000)** as lexer and **6
 
 Each cycles will have a total of **seven (7) steps prime algorithm** on base 10 that consist of three (3) **leading** steps by the power of 168: [Q19(10, **29**)](#1st-step-q1910-29), [Q17(30, **36**)](#2nd-step-q1730-36), [Q13(37, **114**)](#3rd-step-q1337-114) and four (4) **lagging** steps by 618: [Q7(**113**, 90)](#4th-step-q7113-90), [Q5(**89**, 29)](#5th-step-q589-29), [Q3(**28**, 19)](#6th-step-q328-19), [Q2(**18**, 10)](#7th-step-q218-10).
 
-[![generate the prime](https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
-
-By having digital root of (five) 5 and two (2), the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. 
 ![Euleur Identity](https://user-images.githubusercontent.com/36441664/74366957-992db780-4e03-11ea-8f26-cca32bd26003.png)
 
-So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[base frame](base)_.
+By having digital root of (five) 5 and two (2), the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[base frame](base)_.
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://eq19.github.io/base)
 
@@ -130,13 +127,13 @@ Now let's force 12 or Δ1 to the **prime 13**. See how those primes reacted to c
 
 ### [2nd Step: Q17(30, 36)](https://eq19.github.io/classes)
 
-See that this flows starting from π(10) and finalize by pairing of Δ12. Let's draw 12 of flow arrows in such a way where they have interconnection with 10 objects.
+See that this flows starting from π(10) and finalize by pairing of Δ12. Let's draw 12 of flow arrows in such a way where they have interconnection with 10 objects. So here we can get the idea of **10 number becoming 10 primes**.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/128732737-81762604-0ae0-4a90-b5a8-30921cf46efb.png)](https://github.com/eq19)
 
-So here we can get the idea of **10 number becoming 10 primes**.
-
 In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 primes (2,3,5,7) to π(100)=25 and π(1000)=168.
+
+[![generate the prime](https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
 Then convert them to 10th prime=29 then to 29 primes up to of (10th)th=29th prime=109 as a flowchart diagram.
 
