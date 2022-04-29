@@ -32,7 +32,10 @@ Each cycles will have a total of **seven (7) steps prime algorithm** on base 10 
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
-By having digital root of (five) 5 and two (2), the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[base frame](base)_.
+By having digital root of (five) 5 and two (2), the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. 
+![Euleur Identity](https://user-images.githubusercontent.com/36441664/74366957-992db780-4e03-11ea-8f26-cca32bd26003.png)
+
+So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[base frame](base)_.
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://eq19.github.io/base)
 
@@ -457,11 +460,7 @@ See the _[(19 vs 18) Loops](#3rd-step-q736-114)_ more closely, you can find that
 
 [![the next target](https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
-The lexer will specify a sequence of digits correspond to a spin, while a parser will specify its sequence. 
-
-![Euleur Identity](https://user-images.githubusercontent.com/36441664/74366957-992db780-4e03-11ea-8f26-cca32bd26003.png)
-
-Combining the two (2) then they will form the tabulation as below:
+The lexer will specify a sequence of digits correspond to a spin, while a parser will specify its sequence.Combining the two (2) then they will form the tabulation as below:
 
 ![50 plots](https://user-images.githubusercontent.com/36441664/74591945-2b75cb80-504f-11ea-85dd-14d0a803ee6b.png)
 
