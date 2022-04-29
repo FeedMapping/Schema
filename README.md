@@ -400,8 +400,6 @@ The chemical structure of RNA is very similar to that of DNA, but differs in thr
 _(Source: [Wikipedia](https://en.wikipedia.org/wiki/RNA#Comparison_with_DNA))_
 ```
 
-By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19's.
-
 ### [6th Step: Q3(28, 19)](https://eq19.github.io/hexagon)
 
 This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come to the detail of 168 and 618 as the 1st grammar when we come to the upper scheme. 
@@ -586,6 +584,8 @@ Clicking each of objects will turn to 6 (six) diagrams by the cycle form of [pri
 This _168 (mapping) and 618 (feeding)_ stand as  [the whole scheme](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of The M+F to C1+C2 which act as the base prime pairs **[(2,3) of DNA](#tabulate-prime-by-the-power-of-168)** to become **[23 pairs of Chromosomes](#tabulate-prime-by-the-power-of-168)**.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/86481184-b72b9280-bd79-11ea-899b-51db929fc3d2.png)](https://github.com/eq19)
+
+By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19's.
 
 ### [Our Lisence](#3rd-step-q1337-114)
 
