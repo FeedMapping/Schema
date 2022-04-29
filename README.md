@@ -233,11 +233,15 @@ So the further process would always continously become the same algorithm.
 
 ## [Next Target: Tabulate Prime by 618](https://eq19.github.io/parser)
 
-Within this development we will discuss about the interconnection between 168 and 618. Our _[pre-release](https://github.com/chetabahana/chetabahana.github.io/tree/v1.0.0-alpha)_ has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser. 
+Within this development we will discuss about the interconnection between 168 and 618. Hete we will discuss mote detail about the sequence in the [DNA Recombination](#introduction).
+
+[![Remote Theme](https://user-images.githubusercontent.com/36441664/87265280-9b985880-c4ec-11ea-8af1-403fe5648fc5.gif)](https://eq19.github.io/scheme)
+
+This topic will be related with our _[pre-release](https://github.com/chetabahana/chetabahana.github.io/tree/v1.0.0-alpha)_ has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser. 
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/84902333-e6ce6f80-b0d6-11ea-8289-aac5e1961cd6.gif)](https://github.com/eq19)
 
-By sourcing and studying of many [references](https://github-com.translate.goog/chetabahana/chetabahana.github.io/wiki/%23?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en-US), you may agree that the closest behaviour of the crossing on above primes flowing is found with the wave shown on _**Δ1=(19 vs 18) Loops**_  as below.
+By sourcing and studying of many [references](https://github-com.translate.goog/chetabahana/chetabahana.github.io/wiki/%23?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en-US) the closest behaviour of the crossing on above primes flowing is found with the wave shown on _**Δ1=(19 vs 18) Loops**_  as below.
 
 [![Δ(19 vs 18)](https://user-images.githubusercontent.com/36441664/107478328-de69fe00-6bab-11eb-8d5f-7517c94b7299.png)](https://commons.wikimedia.org/wiki/File:RiemannZeta_Zeros.svg)
 
