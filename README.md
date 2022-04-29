@@ -457,7 +457,7 @@ See the _[(19 vs 18) Loops](#3rd-step-q736-114)_ more closely, you can find that
 
 [![the next target](https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
-The lexer will specify a sequence of digits correspond to a spin, while a parser will specify its sequence.Combining the two (2) then they will form the tabulation as below:
+The lexer will specify a sequence of digits correspond to a spin, while a parser will specify its sequence. Combining the two (2) then they will form the tabulation as below:
 
 ![50 plots](https://user-images.githubusercontent.com/36441664/74591945-2b75cb80-504f-11ea-85dd-14d0a803ee6b.png)
 
@@ -558,7 +558,7 @@ Root Generation:
 This 10143 will comprise of lexer and parser similar with 168 & 618. Since the 168 algorithm is set 102 by 66 then its ratio is 102/168=60% by 66/168=40% or approx 10143x60%=6200 of lexers by 10143x40%=3900 of parsers.
 
 ```tip
-The development of this **6200 by 3900** took its base place in this repository and is even thus considered final. It is the most complex thing among the other steps where we have to involve so many items to verify about how far this development is adoptable. 
+The development of this **6200 by 3900** is even thus considered final. That's the reason why it is the most complex thing among the other steps where we have to involve so many items to verify about how far this development is adoptable. 
 ```
 
 Therefore it will take several unsolved cases of modern science including but not at least _[DNA Replication Fork](https://en.wikipedia.org/wiki/DNA_replication#Replication_fork)_, _[Alzheimer's Disease](https://youtube.com/playlist?list=PL_S8nmGoQ7q6wKXUG8HBqPzoAhRmVCmSJ)_, and _[The Millenium Prize Problems](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#scheme)_. 
