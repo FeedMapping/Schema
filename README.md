@@ -60,8 +60,6 @@ Now we are going to see why this could be happen. Here you might see that the nu
 
 By checking all of the loops there is nothing similar to this phenomena. It seems like all the numbers are actually set to let this term happen.
 
-Let's discuss in more detail about the said primes.
-
 ### [1st Step: Q19(10, 29)](https://eq19.github.io/quantum)
 
 In term of distribution, these six (6) primes are naturally laid in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
@@ -124,6 +122,8 @@ Now let's force 12 or Δ1 to the **prime 13**. See how those primes reacted to c
            Δ                                                         Δ
   12+13+(18+18)+13+12  ← 36th-Δ1=151-1=150=100+2x(13+12)  ←  30th = 113 = 114-1
 ```
+
+Let's discuss in more detail about the said primes.
 
 ### [2nd Step: Q17(30, 36)](https://eq19.github.io/classes)
 
