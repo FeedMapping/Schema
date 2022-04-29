@@ -245,6 +245,8 @@ This is a polar plot of the first 20 non-trivial Riemann zeta function zeros (in
 
 Now let's discuss first if this 50 plots has something to do with the prime algorithms.
 
+### [4th Step: Q7(113, 90)](https://eq19.github.io/feed)
+
 One of the major case is that we will start with the lagging steps. The basic algorithm is Synthesis of leading and lagging strands of DNA.
 
 ![twisting trifoil of DNA](https://user-images.githubusercontent.com/36441664/88384290-54f10b00-cdd6-11ea-878d-c687cc1afbea.gif)
@@ -261,8 +263,6 @@ The leading strand is synthesized continuously in the direction of replication f
 Besides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of [<code>init</code>](https://eq19.github.io/maps) as the road map to π(1000x1000).
 
 So here it goes **1 Million Primes**.
-
-### [4th Step: Q7(113, 90)](https://eq19.github.io/feed)
 
 Thus the primes are organized to generate another 1000 primes via an adjacent flow of π(89) to π(89²). This scheme can only be acheived via **bilateral 9 sums** of prime 43 to 89 by **modulo 90**. _(Credit: primesdemystified.com)_
 
