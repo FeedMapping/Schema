@@ -262,8 +262,6 @@ The leading strand is synthesized continuously in the direction of replication f
 
 Besides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of [<code>init</code>](https://eq19.github.io/maps) as the road map to π(1000x1000).
 
-So here it goes **1 Million Primes**.
-
 Thus the primes are organized to generate another 1000 primes via an adjacent flow of π(89) to π(89²). This scheme can only be acheived via **bilateral 9 sums** of prime 43 to 89 by **modulo 90**. _(Credit: primesdemystified.com)_
 
 [![collective bilateral 9 sum symmetry](https://user-images.githubusercontent.com/36441664/76146565-6f944300-60c6-11ea-829d-16f98dc94163.png)](https://primesdemystified.com/)
@@ -305,7 +303,7 @@ $$
 \end{aligned}
 $$
 
-This should have a delta of Δ18 to the last number which is 168 where this 168 is exactly π(1000). So it would take place on the 150 and the scheme there will consequently be **the perfect square of 1000** or 1 Million.
+This should have a delta of Δ18 to the last number which is 168 where this 168 is exactly π(1000). So it would take place on the 150 and the scheme there will consequently be **the perfect square of 1000** or 1 Million. So here it goes **1 Million Primes**.
 
 [![delta of Δ18](https://user-images.githubusercontent.com/36441664/107850441-06b85d80-6e35-11eb-8787-b947d7c60c2e.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
