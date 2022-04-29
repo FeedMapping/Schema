@@ -233,7 +233,7 @@ So the further process would always continously become the same algorithm.
 
 ## [Next Target: Tabulate Prime by 618](https://eq19.github.io/parser)
 
-Within this development we will discuss about the interconnection between 168 and 618. Hete we will discuss mote detail about the sequence in the [DNA Recombination](#introduction).
+Within this development we will discuss about the interconnection between 168 and 618. Hereafter we will discuss mote detail about the sequence in the [DNA Recombination](#introduction).
 
 [![Remote Theme](https://user-images.githubusercontent.com/36441664/87265280-9b985880-c4ec-11ea-8af1-403fe5648fc5.gif)](https://eq19.github.io/scheme)
 
