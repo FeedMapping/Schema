@@ -151,7 +151,7 @@ Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</su
 
 Let's start by get in touch with the (30, 36)th as the result of Δ1 shown on the above tabulation in more detail. Then take a look with the behaviour of prime flows within _The Prime Hexagon_ as shown below. 
 
-[![Prime Hexagon](https://user-images.githubusercontent.com/36441664/79077925-0213ac00-7d2f-11ea-8de8-926dad33caf0.png)](https://eq19.github.io/hexagon)
+[![Prime Hexagon](https://user-images.githubusercontent.com/36441664/74550123-6dd1d680-4f83-11ea-8810-3b8f4f50a9c0.png)](https://eq19.github.io/hexagon)
 
 ```tip
 You may see that it is clearly showing the 30th Prime of 113=114-1 is routed to 36th Prime of 151=150+1 while both of the 30 and 36 are exactly laid on _[the 18’s Cell](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/18)_:
