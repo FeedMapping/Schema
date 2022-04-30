@@ -34,7 +34,7 @@ Each cycles will have a total of **seven (7) steps prime algorithm** on base 30 
 
 By having digital root of **(five) 5 and two (2)**, the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. 
 
-<img width=100% src=https://user-images.githubusercontent.com/36441664/93651539-fcd42f00-fa3b-11ea-9a03-7d59dd1403fe.jpeg>
+![Prime 23](https://user-images.githubusercontent.com/36441664/93651539-fcd42f00-fa3b-11ea-9a03-7d59dd1403fe.jpeg)
 
 So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[base frame](base)_.
 
