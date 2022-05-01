@@ -510,7 +510,7 @@ Here the lexer specify a token correspond to a spin and the parser will specify 
  168 + 618 = 168 + 329 + 289 = (7x24) + (7x47) + (8+9)² = (7x71) + (17x17)
 ```
 
-So it will form back to the begining stage with different form of input but its process will be the same algorithm trough all the system.
+So it will form back to the begining stage with different form of input but its process will be the same algorithm through all the system.
 
 ### [7th Step: Q2(18, 10)](https://github.com/marketleader)
 
@@ -598,6 +598,8 @@ This _168 (mapping) and 618 (feeding)_ stand as  [the whole scheme](https://tran
 [![generate the prime](https://user-images.githubusercontent.com/36441664/86481184-b72b9280-bd79-11ea-899b-51db929fc3d2.png)](https://github.com/eq19)
 
 By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19's.
+
+Means that it consequenly be able to be recycled with no limit!
 
 ### [Our Lisence](#3rd-step-q1337-114)
 
@@ -698,7 +700,7 @@ All of the layouts are managed with a _[remote theme](/scheme)_ originated by th
 
 [![remote layout](https://camo.githubusercontent.com/dc89cc4d5c11a81766b261b369d59f544c5712683528936499ac89749adfb5a6/68747470733a2f2f7777772e6a656b796c6c2e636f6d2e636e2f696d672f6a656b796c6c6c61796f7574636f6e636570742e706e67)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Jekyll-Liquid)
 
-This method is considered sufficient enough to recycle all of the grammars on this page up to an unlimited levels just in case you need further explanation in more detail.
+This method is considered sufficient enough to recycle all of the grammars on this page up to an [unlimited level](#6th-step-q328-19) just in case you need further explanation in more detail.
 
 ```note
 In this example, the content from a Markdown document `document.md` that specifies `layout: docs` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag of the layout file `docs.html`. Because the `docs` layout itself specifies `layout: page`, the content from `docs.html` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag in the layout file `page.html`. Finally because the `page` layout specifies `layout: default`, the content from `page.html` gets pushed into the {% raw %}`{{ content }}`{% endraw %} tag of the layout file `default.html`. (Source: [Jekyll Tutorial](https://jekyllrb.com/tutorials/convert-site-to-jekyll/))
