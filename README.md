@@ -671,6 +671,8 @@ layer| 1st |       2nd       |                3rd                |∑(2,3)
 
 Now let's assume that all of the numbers above is a set of repositories group in GitHub. Thus that is the whole function of _[eQ19](https://github.com/eq19)_.
 
+[![eq19 Scheme](https://user-images.githubusercontent.com/36441664/166161369-aec4d34a-5572-49af-aa61-f36a6f695299.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi)
+
 You may use, copy, and distribute the concept. Please note that we are not implementing any kind of _License Key_ on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key:
 
 ```
