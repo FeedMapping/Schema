@@ -630,8 +630,8 @@ True Prime Pairs:
 
 Description
 ===========
-Mapping the quantum way within a huge of primes objects (5 to 19) by parsering 
-(11) each of untouched feed (7) and tunneling (13) in to definitive classes (17).
+Mapping the quantum way within a huge of primes objects (5 to 19) by parsering (11) 
+each of untouched feed (7) and tunneling (13) in to definitive classes (17).
 
 Compositions
 ============
