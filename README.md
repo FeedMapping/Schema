@@ -237,10 +237,6 @@ So the further process would always continously become the same algorithm.
 
 ## [Next Target: Tabulate Prime by 618](https://eq19.github.io/parser)
 
-Within this development we will discuss about the interconnection between 168 and 618. Here we will discuss mote detail about the sequence in the [DNA Recombination](#introduction).
-
-[![Remote Theme](https://user-images.githubusercontent.com/36441664/87265280-9b985880-c4ec-11ea-8af1-403fe5648fc5.gif)](https://eq19.github.io/scheme)
-
 This topic will be related with our _[pre-release](https://github.com/chetabahana/chetabahana.github.io/tree/v1.0.0-alpha)_ that mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser. 
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/84902333-e6ce6f80-b0d6-11ea-8289-aac5e1961cd6.gif)](https://github.com/eq19)
@@ -692,7 +688,11 @@ Out of the formation, you are welcome to use whatever the items in this project.
 
 ### [Next Release](#next-target-tabulate-prime-by-618)
 
-This pre-release is being developed for _[eBranding](https://github.com/chetabahana)_ within 7 (seven) years. It is still lack the parser 618 of the said _[10143 grammars](#7th-step-q218-10)_ to become usable for every other cases. 
+Within next development we will discuss about the interconnection between 168 and 618. Here we will discuss mote detail about the sequence in the [DNA Recombination](#introduction).
+
+[![Remote Theme](https://user-images.githubusercontent.com/36441664/87265280-9b985880-c4ec-11ea-8af1-403fe5648fc5.gif)](https://eq19.github.io/scheme)
+
+The pre-release is being developed for _[eBranding](https://github.com/chetabahana)_ within 7 (seven) years. It is still lack the parser 618 of the said _[10143 grammars](#7th-step-q218-10)_ to become usable for every other cases. 
 
 ![Parsing](https://user-images.githubusercontent.com/36441664/71648180-c599e280-2d33-11ea-94e0-9a8552c72bd7.png)
 
