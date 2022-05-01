@@ -714,7 +714,7 @@ Therefore we are going to use _[TensorFlow](https://translate.google.com/transla
 
 Base on the 19 Cells of _[168 vs 618 tabulation](#6th-step-q328-19)_ then for the 618 it might need 19 minus 7 or another 12 (twelve) years to develope those _10143 grammars_ to become 1st Release.
 
-_So If You're Aware of What This Is All About:_<br>
+_So If You're Aware of What This is All About:_<br>
 _Just Be Patient and Stay Tuned!_
 
 © [eQuantum Project](https://github.com/eq19)  
