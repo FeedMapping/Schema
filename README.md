@@ -241,6 +241,10 @@ This topic will be related with our _[pre-release](https://github.com/chetabahan
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/84902333-e6ce6f80-b0d6-11ea-8289-aac5e1961cd6.gif)](https://github.com/eq19)
 
+One of the major case that related to the topic is the _[basic algorithm](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#realisasi)_ of leading and lagging strands of DNA.
+
+![twisting trifoil of DNA](https://user-images.githubusercontent.com/36441664/88384290-54f10b00-cdd6-11ea-878d-c687cc1afbea.gif)
+
 By sourcing and studying of many [references](https://github-com.translate.goog/chetabahana/chetabahana.github.io/wiki/%23?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en-US) the closest behaviour of the crossing on above primes flowing is found with the wave shown on _**Δ1=(19 vs 18) Loops**_  as below.
 
 [![Δ(19 vs 18)](https://user-images.githubusercontent.com/36441664/107478328-de69fe00-6bab-11eb-8d5f-7517c94b7299.png)](https://commons.wikimedia.org/wiki/File:RiemannZeta_Zeros.svg)
@@ -252,10 +256,6 @@ This is a polar plot of the first 20 non-trivial Riemann zeta function zeros (in
 Now let's discuss first if this 50 plots has something to do with the prime algorithms.
 
 ### [4th Step: Q7(113, 90)](https://eq19.github.io/feed)
-
-One of the major case is that we will start with the lagging steps. The _[basic algorithm](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#realisasi)_ is Synthesis of leading and lagging strands of DNA.
-
-![twisting trifoil of DNA](https://user-images.githubusercontent.com/36441664/88384290-54f10b00-cdd6-11ea-878d-c687cc1afbea.gif)
 
 This twisting shall able to be made vise versa and to be done continuosly otherwise there is no gap arised for further development. 
 
