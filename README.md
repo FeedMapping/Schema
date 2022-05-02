@@ -604,7 +604,7 @@ We believe that until this concept is written, there is no such thing similar to
 ```
 114 = 6+(6x6) + 6x(6+6) = 6x(6+6) + 6+(6x6)
          Δ         Δ         Δ         Δ
-         42        72        72        42
+         42   +    72   =    72   +    42    = 43-Δ1 + Δ1+71 = 6x19 = π(619)
          M         F         C1        C2
       leading   lagging    leading   lagging
                         |
