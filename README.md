@@ -10,9 +10,11 @@ Recombination involves the breaking and rejoining of two chromosomes (M and F) t
 [![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](https://eq19.github.io/scheme)
 
 ```tip
-By Our Project this **Sheme** runs as _[remote theme](https://eq19.github.io/scheme)_ where the **Symbols** are:
+This **Sheme** runs as _[remote theme](https://eq19.github.io/scheme)_ where the **Symbols** are:
 * The _**M+F**_ symbol will stand as: [Project Maps (M)](https://eq19.github.io/maps) + [Project Feed (F)](https://eq19.github.io/feed) while
 * _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
+
+By Our Project we are using two (2) domain that act as _[Double Strand](#tabulate-prime-by-the-power-of-168)_ of DNA.
 ```
 
 This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using two (2) kinds of cyclic algorithm that act as _[Lexer and Parser](https://www.javacodegeeks.com/2017/09/guide-parsing-algorithms-terminology.html)_.
@@ -47,6 +49,10 @@ This algorithm is applied to regenerate a _[Basic Grammar](#basic-grammar)_ betw
 Therefore these primes package end with the prime 19 as the 8th prime right below the **prime 23** as the 9th prime. Here we absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_.
 
 [![23 pairs of Human Chromosomes)](https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png)](https://en.wikipedia.org/wiki/Chromosome)
+
+```note
+Double-stranded DNA consists of two polynucleotide chains whose nitrogenous bases are connected by **hydrogen bonds**. Within this arrangement, each strand mirrors the other as a result of the anti-parallel orientation of the sugar-phosphate backbones, as well as the complementary nature of the A-T and C-G base pairing (Source: [Nature](https://www.nature.com/scitable/content/double-stranded-dna-6834149/)).
+```
 
 See that 23 has the number **two (2)** and **three (3)**, both are the two (2) only primes under their sum of prime five (5). Thus these primes symetri forms by their selves as a default as they even exist in a single unit of _[DNA](https://en.wikipedia.org/wiki/DNA)_.
 
