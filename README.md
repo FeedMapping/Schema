@@ -44,9 +44,11 @@ So all together will finaly form as 10 primes in sequent that initiated with **1
 
 This algorithm is applied to regenerate a _[Basic Grammar](#basic-grammar)_ between [<code>user</code>](#6th-step-q328-19) and [<code>organization</code>](#7th-step-q218-10) accounts in GitHub. It is being tested for _[eBranding](#next-release)_ to proof that it is adaptable for every kinds of implementation or application as explained further below.
 
+Here we absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_.
+
 ## [Tabulate Prime by The Power of 168](https://eq19.github.io/lexer)
 
-Here we absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_. See that the number of 23 is a prime that consist of **prime (2,3)** where both are the only primes under their sum of **prime five (5)**.
+See that the number of 23 is a prime that consist of the numbers of **two (2) and three (3)** where both are the only primes under their sum of **five (5)** which is also a prime.
 
 [![23 pairs of Human Chromosomes)](https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png)](https://en.wikipedia.org/wiki/Chromosome)
 
@@ -58,7 +60,7 @@ Double-stranded DNA consists of two polynucleotide chains whose nitrogenous base
 
 ![Unit DNA](https://user-images.githubusercontent.com/36441664/101109773-3c0d2780-360a-11eb-9f21-57e2707c7d1e.jpg)
 
-Have you ever notice that the said hydrogen bonds are built with both of the number two (2) and (3). They are even exist in a single unit of _[DNA](https://en.wikipedia.org/wiki/DNA)_.
+Have you ever notice that the said hydrogen bonds are built with both of the number two (2) and three (3). They are even exist in a single unit of _[DNA](https://en.wikipedia.org/wiki/DNA)_.
 
 [![Single DNA](https://user-images.githubusercontent.com/36441664/131957473-5a815492-a5f6-49be-9762-9a8921d95dc2.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#frame)
 
