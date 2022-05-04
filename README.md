@@ -74,11 +74,11 @@ Now we are going to see what they are going to do with the power of 168 vs 618.
 
 ### [1st Step: Q19(10, 29)](https://eq19.github.io/quantum)
 
-In term of distribution, these six (6) primes are naturally laid in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
+So these prime algorithm is again formed by three (3) sets of twin (2) pairs. To make live simpler let.s call them _[True Prime Pairs](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_.
 
 [![The True Prime Pairs](https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
-So these prime algorithm is again formed by three (3) sets of twin (2) pairs. To make live simpler let.s call them _[True Prime Pairs](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_.
+In term of distribution, these six (6) primes are naturally laid in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
 
 ```
  $True Prime Pairs:
