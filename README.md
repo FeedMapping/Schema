@@ -34,7 +34,7 @@ Each cycles will have a total of **seven (7) steps prime algorithm** on base 30 
 
 ![Euleur Identity](https://user-images.githubusercontent.com/36441664/74366957-992db780-4e03-11ea-8f26-cca32bd26003.png)
 
-By having digital root of **(five) 5 and two (2)**, the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. 
+By having digital root of **(five) 5 and two (2)**, the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. Therefore these primes package end with the prime 19 as the 8th prime right below the **prime 23** as the 9th prime. 
 
 ![Prime 23](https://user-images.githubusercontent.com/36441664/166119509-96a6d1e9-bc53-4e13-bed1-b7eda28b9ad9.jpg)
 
@@ -46,11 +46,11 @@ This algorithm is applied to regenerate a _[Basic Grammar](#basic-grammar)_ betw
 
 ## [Tabulate Prime by The Power of 168](https://eq19.github.io/lexer)
 
-Here we absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_. Therefore these primes package end with the prime 19 as the 8th prime right below the **prime 23** as the 9th prime. 
+Here we absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_. See that 23 has the number **two (2)** and **three (3)**, both are the two (2) only primes under their sum of prime five (5). 
 
 [![23 pairs of Human Chromosomes)](https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png)](https://en.wikipedia.org/wiki/Chromosome)
 
-See that 23 has the number **two (2)** and **three (3)**, both are the two (2) only primes under their sum of prime five (5). Now let's take a look in to the Double-stranded DNA.
+Now let's take a look in to the Double-stranded DNA.
 
 ```note
 Double-stranded DNA consists of two polynucleotide chains whose nitrogenous bases are connected by **hydrogen bonds**. Within this arrangement, each strand mirrors the other as a result of the anti-parallel orientation of the sugar-phosphate backbones, as well as the complementary nature of the A-T and C-G base pairing (Source: [Nature](https://www.nature.com/scitable/content/double-stranded-dna-6834149/)).
