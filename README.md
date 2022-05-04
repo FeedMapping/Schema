@@ -46,7 +46,7 @@ This algorithm is applied to regenerate a _[Basic Grammar](#basic-grammar)_ betw
 
 ## [Tabulate Prime by The Power of 168](https://eq19.github.io/lexer)
 
-Here we absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_. See that 23 has the number **two (2)** and **three (3)**, both are the two (2) only primes under their sum of prime five (5). 
+Here we absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_. See that the number 23 has **two (2)** and **three (3)**, both are the two (2) only primes under their sum of prime five (5). 
 
 [![23 pairs of Human Chromosomes)](https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png)](https://en.wikipedia.org/wiki/Chromosome)
 
