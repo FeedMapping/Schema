@@ -50,11 +50,15 @@ Therefore these primes package end with the prime 19 as the 8th prime right belo
 
 [![23 pairs of Human Chromosomes)](https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png)](https://en.wikipedia.org/wiki/Chromosome)
 
+See that 23 has the number **two (2)** and **three (3)**, both are the two (2) only primes under their sum of prime five (5).
+
 ```note
 Double-stranded DNA consists of two polynucleotide chains whose nitrogenous bases are connected by **hydrogen bonds**. Within this arrangement, each strand mirrors the other as a result of the anti-parallel orientation of the sugar-phosphate backbones, as well as the complementary nature of the A-T and C-G base pairing (Source: [Nature](https://www.nature.com/scitable/content/double-stranded-dna-6834149/)).
 ```
 
-See that 23 has the number **two (2)** and **three (3)**, both are the two (2) only primes under their sum of prime five (5). Thus these primes symetri forms by their selves as a default as they even exist in a single unit of _[DNA](https://en.wikipedia.org/wiki/DNA)_.
+![Unit DNA](https://user-images.githubusercontent.com/36441664/101109773-3c0d2780-360a-11eb-9f21-57e2707c7d1e.jpg)
+
+Thus these primes symetri forms by their selves as a default. Have you ever notice that the said hydrogen bonds are built with both of the number two (2) and (3) even exist in a single unit of _[DNA](https://en.wikipedia.org/wiki/DNA)_.
 
 [![Single DNA](https://user-images.githubusercontent.com/36441664/131957473-5a815492-a5f6-49be-9762-9a8921d95dc2.png)](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Untouched-Intelligences#frame)
 
