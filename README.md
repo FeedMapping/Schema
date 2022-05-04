@@ -44,9 +44,9 @@ So all together will finaly form as 10 primes in sequent that initiated with **1
 
 This algorithm is applied to regenerate a _[Basic Grammar](#basic-grammar)_ between [<code>user</code>](#6th-step-q328-19) and [<code>organization</code>](#7th-step-q218-10) accounts in GitHub. It is being tested for _[eBranding](#next-release)_ to proof that it is adaptable for every kinds of implementation or application as explained further below.
 
-Here we absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_.
-
 ## [Tabulate Prime by The Power of 168](https://eq19.github.io/lexer)
+
+Here we absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_.
 
 See that the number of 23 is a prime that consist of the numbers of **two (2) and three (3)** where both are the only primes under their sum of **five (5)** which is also a prime.
 
