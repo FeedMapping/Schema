@@ -155,7 +155,8 @@ Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</su
 
 ### [3rd Step: Q13(37, 114)](https://eq19.github.io/tunnel)
 
-Let's start by get in touch with the (30, 36)th as the result of Δ1 shown on the above tabulation in more detail. Then take a look with the behaviour of prime that flow uniformly within an hexagon chart called [The Prime Hexagon](https://www.hexspin.com/defining-the-prime-hexagon/) _(Credit: hexspin.com)_.  
+Let's start by get in touch with the (30, 36)th as the result of Δ1 shown on the above tabulation in more detail. Then take a look with the behaviour of prime that flow uniformly within an hexagon chart called [The Prime Hexagon](https://www.hexspin.com/defining-the-prime-hexagon/) _(Credit: hexspin.com)_.
+
 [![generate the prime](https://user-images.githubusercontent.com/36441664/105412087-d0892300-5c66-11eb-9c3e-19d8652b478c.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
 
 Here you might see that the number of 10 is the same direction with 19 while 10+19=29=10th prime. By checking all of the loops there is nothing similar to this phenomena. It seems like all the numbers are actually set to let this term happen.
