@@ -14,7 +14,7 @@ This **Sheme** runs as _[remote theme](https://eq19.github.io/scheme)_ where the
 * The _**M+F**_ symbol will stand as: [Project Maps (M)](https://eq19.github.io/maps) + [Project Feed (F)](https://eq19.github.io/feed) while
 * _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 
-By Our Project we are using two (2) domain that act as _[Double Strand](#tabulate-prime-by-the-power-of-168)_ of DNA.
+By our implementation we are using _[two (2) domains](https://youtube.com/playlist?list=PL_S8nmGoQ7q5Ag4K_o9reeCupBYYnua_L)_ acting as **[Double Strand](#tabulate-prime-by-the-power-of-168)** of DNA.
 ```
 
 This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using two (2) kinds of cyclic algorithm that act as _[Lexer and Parser](https://www.javacodegeeks.com/2017/09/guide-parsing-algorithms-terminology.html)_.
