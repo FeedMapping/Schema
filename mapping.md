@@ -1,5 +1,4 @@
 ---
-sort: 4
 layout: mapping
 title: Our Mapping
 layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/mapping.html
