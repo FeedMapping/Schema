@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 2
 layout: concept
 title: Our Concept
 layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/concept.html
