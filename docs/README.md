@@ -38,9 +38,9 @@ By having digital root of **(five) 5 and two (2)**, the above seven (7) steps of
 
 ![Prime 23](https://user-images.githubusercontent.com/36441664/166119509-96a6d1e9-bc53-4e13-bed1-b7eda28b9ad9.jpg)
 
-So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[base frame](base)_.
+So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[base frame](/../../../)_.
 
-[![₠Quantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](/../../../base)
+[![₠Quantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](/../../../)
 
 This algorithm is applied to regenerate a _[Basic Grammar](#basic-grammar)_ between [<code>user</code>](#6th-step-q328-19) and [<code>organization</code>](#7th-step-q218-10) accounts in GitHub. It is being tested for _[eBranding](#next-release)_ to proof that it is adaptable for every kinds of implementation or application as explained further below.
 
