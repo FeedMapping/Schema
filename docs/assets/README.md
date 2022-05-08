@@ -1,5 +1,6 @@
 ---
 sort: 1
+title: Test Documentation
 ---
 
 # Test Documentation
