@@ -1,5 +1,5 @@
 ---
-weight: 1
+sort: 1
 ---
 {%- comment -%}
 *  True Prime Pairs:
