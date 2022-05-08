@@ -1,6 +1,7 @@
 ---
 sort: 1
 title: Test Documentation
+permalink: /test/
 ---
 
 # Test Documentation
