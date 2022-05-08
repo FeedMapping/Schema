@@ -2,7 +2,7 @@
 title: About Us
 layout: about
 layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/about.html
-permalink: /about
+permalink: /about/
 pagelink: http://eq19.github.io/about
 ---
 # Typography 
