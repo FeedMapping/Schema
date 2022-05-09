@@ -1,5 +1,5 @@
 ---
-title: overall
+title: employment
 category: project mapping
 layout: pages
 tags:
@@ -7,7 +7,7 @@ tags:
   - software
   - encryption
   - resources
-permalink: /maps/overall
-pagelink: http://eq19.github.io/maps/overall
+permalink: /map/employment
+pagelink: http://eq19.github.io/map/employment
 ---
 Horem ipsum dolor sit amettetur ing elit. 

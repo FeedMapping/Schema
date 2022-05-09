@@ -1,5 +1,5 @@
 ---
-title: routine
+title: spreading
 category: project mapping
 layout: pages
 tags:
@@ -7,7 +7,7 @@ tags:
   - software
   - encryption
   - resources
-permalink: /maps/routine
-pagelink: http://eq19.github.io/maps/routine
+permalink: /map/spreading
+pagelink: http://eq19.github.io/map/spreading
 ---
 Horem ipsum dolor sit amettetur ing elit. 

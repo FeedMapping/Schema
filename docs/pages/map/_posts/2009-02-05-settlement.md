@@ -7,7 +7,7 @@ tags:
   - software
   - encryption
   - resources
-permalink: /maps/settlement
-pagelink: http://eq19.github.io/maps/settlement
+permalink: /map/settlement
+pagelink: http://eq19.github.io/map/settlement
 ---
 Horem ipsum dolor sit amettetur ing elit. 

@@ -2,8 +2,8 @@
 title: Project Mapping
 layout: method
 layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/method.html
-permalink: /maps
-pagelink: http://eq19.github.io/maps/
+permalink: /map
+pagelink: http://eq19.github.io/map/
 ---
 # Typography 
 

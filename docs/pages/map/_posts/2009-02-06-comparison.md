@@ -1,5 +1,5 @@
 ---
-title: spreading
+title: comparison
 category: project mapping
 layout: pages
 tags:
@@ -7,7 +7,7 @@ tags:
   - software
   - encryption
   - resources
-permalink: /maps/spreading
-pagelink: http://eq19.github.io/maps/spreading
+permalink: /map/comparison
+pagelink: http://eq19.github.io/map/comparison
 ---
 Horem ipsum dolor sit amettetur ing elit. 
