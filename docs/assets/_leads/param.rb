@@ -62,7 +62,7 @@ weight: 6
 *  - This page childs are assigned to collumn 7 by taking Δ50 span 569~618 as id: 737 to id: 786.
 *  
 *  Thus combining all the schemes will turn a new layer of 168 started with id (40+50+10+50)=150:
-* - See the scheme of layer on https://chetabahana.github.io/feed.json
+* - See the scheme of layer on https://eq19.github.io/feed.json
 *
 *  Note:
 *  Documentation is currently available only in bahasa:
