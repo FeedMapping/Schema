@@ -1,9 +1,7 @@
 ---
 layout: concept
 title: Our Concept
-layout-source: https://github.com/eq19/eq19.github.io/blob/master/_layouts/concept.html
 permalink: /concept
-pagelink: http://eq19.github.io/concept
 ---
 # Typography 
 

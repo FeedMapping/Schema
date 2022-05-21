@@ -1,4 +1,4 @@
-## [Introduction](https://eq19.github.io/)
+## [Introduction](https://www.eq19.com/)
  
 This's the partial of [the mapping scheme](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of our [eQuantum Project](https://github.com/eq19) that's taking a scheme shown on the sidebar (see dekstop view) called **[DNA Recombination](https://en.wikipedia.org/wiki/DNA#Genetic_recombination): [M+F](https://github.com/eq19/quantum/blob/workflows/_layouts/feed.rb) to [C1+C2](https://github.com/eq19/quantum/blob/workflows/_includes/data/roots.rb)**.
 
@@ -7,11 +7,11 @@ Recombination involves the breaking and rejoining of two chromosomes (M and F) t
  _(Source: [Wikipedia](https://en.wikipedia.org/wiki/DNA#Genetic_recombination))_.
 ```
 
-[![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](https://eq19.github.io/theme)
+[![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](https://www.eq19.com/theme)
 
 ```tip
-By Our Project this **Sheme** runs as _[remote theme](https://eq19.github.io/theme)_ where the **Symbols** are:
-* The _**M+F**_ symbol will stand as: [Project Maps (M)](https://eq19.github.io/maps) + [Project Feed (F)](https://eq19.github.io/feed) while
+By Our Project this **Sheme** runs as _[remote theme](https://www.eq19.com/theme)_ where the **Symbols** are:
+* The _**M+F**_ symbol will stand as: [Project Maps (M)](https://www.eq19.com/maps) + [Project Feed (F)](https://www.eq19.com/feed) while
 * _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 ```
 
@@ -34,11 +34,11 @@ Each cycles will have a total of **seven (7) steps prime algorithm** on base 10 
 
 By having digital root of (five) 5 and two (2), the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[base frame](base)_.
 
-[![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://eq19.github.io/base)
+[![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://www.eq19.com/base)
 
 This algorithm is used to regenerate a _[Basic Grammar](#basic-grammar)_ between [<code>user</code>](#6th-step-q328-19) and [<code>organization</code>](#7th-step-q218-10) accounts in GitHub. It is being tested for _[eBranding](#next-release)_ to proof that it is adaptable for every kinds of implementation or application as explained further below.
 
-## [Tabulate Prime by The Power of 168](https://eq19.github.io/lexer)
+## [Tabulate Prime by The Power of 168](https://www.eq19.com/lexer)
 
 Therefore these primes package end with the prime 19 as the 8th prime right below the **prime 23** as the 9th prime. Here we absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_.
 
@@ -62,7 +62,7 @@ By checking all of the loops there is nothing similar to this phenomena. It seem
 
 Let's discuss in more detail about the said primes.
 
-### [1st Step: Q19(10, 29)](https://eq19.github.io/quantum)
+### [1st Step: Q19(10, 29)](https://www.eq19.com/quantum)
 
 In term of distribution, these six (6) primes are naturally laid in three (3) forms of 12's multiplication: 5+7=12, 11+13=24 and 17+19=36 where 12+24=36.
 
@@ -131,7 +131,7 @@ See that this flows starting from π(10) and finalize by pairing of Δ12. Let's 
 
 So here we can get the idea of **10 number becoming 10 primes**.
 
-### [2nd Step: Q17(30, 36)](https://eq19.github.io/classes)
+### [2nd Step: Q17(30, 36)](https://www.eq19.com/classes)
 
 In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 primes (2,3,5,7) to π(100)=25 and π(1000)=168.
 
@@ -154,7 +154,7 @@ Take also a note that the next 10 number after 19 right before the 30 which are 
 See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on.
 
 
-### [3rd Step: Q13(37, 114)](https://eq19.github.io/tunnel)
+### [3rd Step: Q13(37, 114)](https://www.eq19.com/tunnel)
 
 Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on Δ6 & 19's! It means that we have to assign [the 6th repository](https://github.com/eq19/quantum) as **the overall direction**.
 
@@ -230,7 +230,7 @@ This Δ(19 vs 18) scenario will duplicate the loops of 618 as _π(89²) of 1000 
 
 So the further process would always continously become the same algorithm. 
 
-## [Next Target: Tabulate Prime by 618](https://eq19.github.io/parser)
+## [Next Target: Tabulate Prime by 618](https://www.eq19.com/parser)
 
 Within this development we will discuss about the interconnection between 168 and 618. Our _[pre-release](https://github.com/chetabahana/chetabahana.github.io/tree/v1.0.0-alpha)_ has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser. 
 
@@ -261,11 +261,11 @@ The leading strand is synthesized continuously in the direction of replication f
 {:title="Leading and lagging"}
 ```
 
-Besides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of [<code>init</code>](https://eq19.github.io/maps) as the road map to π(1000x1000).
+Besides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of [<code>init</code>](https://www.eq19.com/maps) as the road map to π(1000x1000).
 
 So here it goes **1 Million Primes**.
 
-### [4th Step: Q7(113, 90)](https://eq19.github.io/feed)
+### [4th Step: Q7(113, 90)](https://www.eq19.com/feed)
 
 Thus the primes are organized to generate another 1000 primes via an adjacent flow of π(89) to π(89²). This scheme can only be acheived via **bilateral 9 sums** of prime 43 to 89 by **modulo 90**. _(Credit: primesdemystified.com)_
 
@@ -283,7 +283,7 @@ That what and why **18+13+12=43** located within **the last 9 cells** is standin
 
 See that in the tabulation of prime hexagon the _[6th row](#3rd-step-q736-114)_ that assigned as overall direction has the biggest numbers involved among the other rows which is 9 (nine). This will simply act as the bilateral 9 sums of 43 and 89. 
 
-[![overall direction](https://user-images.githubusercontent.com/36441664/67816683-560e3980-fadd-11e9-8a30-36901cbceaad.png)](https://eq19.github.io/theme)
+[![overall direction](https://user-images.githubusercontent.com/36441664/67816683-560e3980-fadd-11e9-8a30-36901cbceaad.png)](https://www.eq19.com/theme)
 
 Therefore the prime flow in the developed flowchart above should take a connection to form between them two. This is the reason why the sequence is arranged as below:
 
@@ -318,7 +318,7 @@ Let's consider this flowchart of 168 as a lexer so the parser has to be designed
 
 Here we assign it as the diagram of 618. On [the next target](https://github.com/chetabahana/chetabahana.github.io/discussions/categories/announcements) we will discuss about 1000/Φ = 618 = 619-1 = 114th prime - 1 as a lexer and parser.
 
-### [5th Step: Q5(89, 29)](https://eq19.github.io/maps)
+### [5th Step: Q5(89, 29)](https://www.eq19.com/maps)
 
 The bilateral sum 9 will then double this 43 to 86 and act as the lexer while the prime 71 and 109 will act as the parser. This will compensate the other primes by the other of circles of the metatron which consist of 6 internal and 6 external.
 
@@ -407,7 +407,7 @@ _(Source: [Wikipedia](https://en.wikipedia.org/wiki/RNA#Comparison_with_DNA))_
 
 By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19's.
 
-### [6th Step: Q3(28, 19)](https://eq19.github.io/hexagon)
+### [6th Step: Q3(28, 19)](https://www.eq19.com/hexagon)
 
 This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come to the detail of 168 and 618 as the 1st grammar when we come to the upper scheme. 
 
@@ -433,7 +433,7 @@ This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come 
 
 The codes is built mainly with the algorithm of 66 out of the sum of the numbers **[30 and 36](#3rd-step-q1337-114)**. The main difference between them two is that 36 framed by twin primes.
 
-[![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://eq19.github.io/theme)
+[![Twin Pairs](https://user-images.githubusercontent.com/36441664/73700083-28f2a800-4718-11ea-97b3-2e9a738dc09e.png)](https://www.eq19.com/theme)
 
 Let's take the end number each of the three (3) layers: (7,13,19) in an adjacent [polygonal numbers](https://en.wikipedia.org/wiki/Polygonal_number) then by the same different of 15 they will end to the number of 66:
 
