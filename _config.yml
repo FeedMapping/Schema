@@ -71,7 +71,7 @@ encoding: utf-8
 livereload: true
 limit_posts: 1000
 timezone: Asia/Jakarta
-remote_theme: eQ19/scheme
+remote_theme: eQ19/theme
 collections_dir: docs/assets
 excerpt_separator: <!--end_excerpt-->
 
