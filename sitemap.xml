@@ -153,7 +153,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/project/</loc>
+  <loc>http://www.eq19.com/classes/project/</loc>
   <priority>0.80</priority>
 </url>
 <url>
@@ -161,15 +161,15 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/script/</loc>
+  <loc>http://www.eq19.com/maps/tunnel/</loc>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/work/</loc>
+  <loc>http://www.eq19.com/feed/work/</loc>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/social/</loc>
+  <loc>http://www.eq19.com/tunnel/social/</loc>
   <priority>0.80</priority>
 </url>
 <url>
@@ -185,7 +185,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/</loc>
+  <loc>http://www.eq19.com/classes/</loc>
   <priority>0.80</priority>
 </url>
 <url>
@@ -193,11 +193,11 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/</loc>
+  <loc>http://www.eq19.com/maps/</loc>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/</loc>
+  <loc>http://www.eq19.com/feed/</loc>
   <priority>0.80</priority>
 </url>
 <url>
@@ -205,79 +205,79 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/basics/caching/</loc>
+  <loc>http://www.eq19.com/classes/basics/caching/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/basics/versioning/</loc>
+  <loc>http://www.eq19.com/classes/basics/versioning/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/basics/codeondemand/</loc>
+  <loc>http://www.eq19.com/classes/basics/codeondemand/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/diagram/json/</loc>
+  <loc>http://www.eq19.com/classes/diagram/json/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/diagram/hateoas/</loc>
+  <loc>http://www.eq19.com/classes/diagram/hateoas/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/diagram/pagination/</loc>
+  <loc>http://www.eq19.com/classes/diagram/pagination/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/diagram/acceptlanguage/</loc>
+  <loc>http://www.eq19.com/classes/diagram/acceptlanguage/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/methods/options/</loc>
+  <loc>http://www.eq19.com/classes/methods/options/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/methods/loggingin/</loc>
+  <loc>http://www.eq19.com/classes/methods/loggingin/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/methods/put-vs-post/</loc>
+  <loc>http://www.eq19.com/classes/methods/put-vs-post/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/methods/patch/</loc>
+  <loc>http://www.eq19.com/classes/methods/patch/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/methods/idempotency/</loc>
+  <loc>http://www.eq19.com/classes/methods/idempotency/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/methods/400-vs-500/</loc>
+  <loc>http://www.eq19.com/classes/methods/400-vs-500/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/resources/richardsonmaturitymodel/</loc>
+  <loc>http://www.eq19.com/classes/resources/richardsonmaturitymodel/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/resources/rest-and-http/</loc>
+  <loc>http://www.eq19.com/classes/resources/rest-and-http/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/resources/using-custom-content-types/</loc>
+  <loc>http://www.eq19.com/classes/resources/using-custom-content-types/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/resources/link-types/</loc>
+  <loc>http://www.eq19.com/classes/resources/link-types/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/resources/asynchroneous-operations/</loc>
+  <loc>http://www.eq19.com/classes/resources/asynchroneous-operations/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/resources/rest-presentations/</loc>
+  <loc>http://www.eq19.com/classes/resources/rest-presentations/</loc>
   <priority>0.64</priority>
 </url>
 <url>
@@ -357,231 +357,231 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/basics/loggingin/</loc>
+  <loc>http://www.eq19.com/maps/basics/loggingin/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/basics/caching/</loc>
+  <loc>http://www.eq19.com/maps/basics/caching/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/basics/versioning/</loc>
+  <loc>http://www.eq19.com/maps/basics/versioning/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/basics/hateoas/</loc>
+  <loc>http://www.eq19.com/maps/basics/hateoas/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/basics/codeondemand/</loc>
+  <loc>http://www.eq19.com/maps/basics/codeondemand/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/headers/acceptlanguage/</loc>
+  <loc>http://www.eq19.com/maps/headers/acceptlanguage/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/mediatypes/json/</loc>
+  <loc>http://www.eq19.com/maps/mediatypes/json/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/methods/options/</loc>
+  <loc>http://www.eq19.com/maps/methods/options/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/methods/put-vs-post/</loc>
+  <loc>http://www.eq19.com/maps/methods/put-vs-post/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/methods/patch/</loc>
+  <loc>http://www.eq19.com/maps/methods/patch/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/methods/idempotency/</loc>
+  <loc>http://www.eq19.com/maps/methods/idempotency/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/methods/400-vs-500/</loc>
+  <loc>http://www.eq19.com/maps/methods/400-vs-500/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/miscellaneous/richardsonmaturitymodel/</loc>
+  <loc>http://www.eq19.com/maps/miscellaneous/richardsonmaturitymodel/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/miscellaneous/rest-and-http/</loc>
+  <loc>http://www.eq19.com/maps/miscellaneous/rest-and-http/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/miscellaneous/rest-presentations/</loc>
+  <loc>http://www.eq19.com/maps/miscellaneous/rest-presentations/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/resources/using-custom-content-types/</loc>
+  <loc>http://www.eq19.com/maps/resources/using-custom-content-types/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/resources/pagination/</loc>
+  <loc>http://www.eq19.com/maps/resources/pagination/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/resources/link-types/</loc>
+  <loc>http://www.eq19.com/maps/resources/link-types/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/monitor/resources/asynchroneous-operations/</loc>
+  <loc>http://www.eq19.com/maps/resources/asynchroneous-operations/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/basics/loggingin/</loc>
+  <loc>http://www.eq19.com/feed/basics/loggingin/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/basics/caching/</loc>
+  <loc>http://www.eq19.com/feed/basics/caching/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/basics/versioning/</loc>
+  <loc>http://www.eq19.com/feed/basics/versioning/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/basics/hateoas/</loc>
+  <loc>http://www.eq19.com/feed/basics/hateoas/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/basics/codeondemand/</loc>
+  <loc>http://www.eq19.com/feed/basics/codeondemand/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/headers/acceptlanguage/</loc>
+  <loc>http://www.eq19.com/feed/headers/acceptlanguage/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/mediatypes/json/</loc>
+  <loc>http://www.eq19.com/feed/mediatypes/json/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/methods/options/</loc>
+  <loc>http://www.eq19.com/feed/methods/options/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/methods/put-vs-post/</loc>
+  <loc>http://www.eq19.com/feed/methods/put-vs-post/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/methods/patch/</loc>
+  <loc>http://www.eq19.com/feed/methods/patch/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/methods/idempotency/</loc>
+  <loc>http://www.eq19.com/feed/methods/idempotency/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/methods/400-vs-500/</loc>
+  <loc>http://www.eq19.com/feed/methods/400-vs-500/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/miscellaneous/richardsonmaturitymodel/</loc>
+  <loc>http://www.eq19.com/feed/miscellaneous/richardsonmaturitymodel/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/miscellaneous/rest-and-http/</loc>
+  <loc>http://www.eq19.com/feed/miscellaneous/rest-and-http/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/miscellaneous/rest-presentations/</loc>
+  <loc>http://www.eq19.com/feed/miscellaneous/rest-presentations/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/resources/using-custom-content-types/</loc>
+  <loc>http://www.eq19.com/feed/resources/using-custom-content-types/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/resources/pagination/</loc>
+  <loc>http://www.eq19.com/feed/resources/pagination/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/resources/link-types/</loc>
+  <loc>http://www.eq19.com/feed/resources/link-types/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/resources/asynchroneous-operations/</loc>
+  <loc>http://www.eq19.com/feed/resources/asynchroneous-operations/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/basics/loggingin/</loc>
+  <loc>http://www.eq19.com/tunnel/basics/loggingin/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/basics/caching/</loc>
+  <loc>http://www.eq19.com/tunnel/basics/caching/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/basics/versioning/</loc>
+  <loc>http://www.eq19.com/tunnel/basics/versioning/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/basics/hateoas/</loc>
+  <loc>http://www.eq19.com/tunnel/basics/hateoas/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/basics/codeondemand/</loc>
+  <loc>http://www.eq19.com/tunnel/basics/codeondemand/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/headers/acceptlanguage/</loc>
+  <loc>http://www.eq19.com/tunnel/headers/acceptlanguage/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/mediatypes/json/</loc>
+  <loc>http://www.eq19.com/tunnel/mediatypes/json/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/methods/options/</loc>
+  <loc>http://www.eq19.com/tunnel/methods/options/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/methods/put-vs-post/</loc>
+  <loc>http://www.eq19.com/tunnel/methods/put-vs-post/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/methods/patch/</loc>
+  <loc>http://www.eq19.com/tunnel/methods/patch/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/methods/idempotency/</loc>
+  <loc>http://www.eq19.com/tunnel/methods/idempotency/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/methods/400-vs-500/</loc>
+  <loc>http://www.eq19.com/tunnel/methods/400-vs-500/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/miscellaneous/richardsonmaturitymodel/</loc>
+  <loc>http://www.eq19.com/tunnel/miscellaneous/richardsonmaturitymodel/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/miscellaneous/rest-and-http/</loc>
+  <loc>http://www.eq19.com/tunnel/miscellaneous/rest-and-http/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/miscellaneous/rest-presentations/</loc>
+  <loc>http://www.eq19.com/tunnel/miscellaneous/rest-presentations/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/resources/using-custom-content-types/</loc>
+  <loc>http://www.eq19.com/tunnel/resources/using-custom-content-types/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/resources/pagination/</loc>
+  <loc>http://www.eq19.com/tunnel/resources/pagination/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/resources/link-types/</loc>
+  <loc>http://www.eq19.com/tunnel/resources/link-types/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/script/resources/asynchroneous-operations/</loc>
+  <loc>http://www.eq19.com/tunnel/resources/asynchroneous-operations/</loc>
   <priority>0.64</priority>
 </url>
 <url>
@@ -705,79 +705,79 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/index.html</loc>
+  <loc>http://www.eq19.com/classes/index.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/tables.html</loc>
+  <loc>http://www.eq19.com/classes/tables.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/login.html</loc>
+  <loc>http://www.eq19.com/classes/login.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/info/user.html</loc>
+  <loc>http://www.eq19.com/classes/user.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/index.html</loc>
+  <loc>http://www.eq19.com/feed/index.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/features.html</loc>
+  <loc>http://www.eq19.com/feed/features.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/about-us.html</loc>
+  <loc>http://www.eq19.com/feed/about-us.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/medical-counseling.html</loc>
+  <loc>http://www.eq19.com/feed/medical-counseling.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/medical-research.html</loc>
+  <loc>http://www.eq19.com/feed/medical-research.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/blood-bank.html</loc>
+  <loc>http://www.eq19.com/feed/blood-bank.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/gallery.html</loc>
+  <loc>http://www.eq19.com/feed/gallery.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/blog-archive.html</loc>
+  <loc>http://www.eq19.com/feed/blog-archive.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/blog-archive-with-left-sidebar.html</loc>
+  <loc>http://www.eq19.com/feed/blog-archive-with-left-sidebar.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/blog-archive-with-right-sidebar.html</loc>
+  <loc>http://www.eq19.com/feed/blog-archive-with-right-sidebar.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/blog-single.html</loc>
+  <loc>http://www.eq19.com/feed/blog-single.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/blog-single-with-left-sidebar.html</loc>
+  <loc>http://www.eq19.com/feed/blog-single-with-left-sidebar.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/blog-single-with-right-sidebar.html</loc>
+  <loc>http://www.eq19.com/feed/blog-single-with-right-sidebar.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/404.html</loc>
+  <loc>http://www.eq19.com/feed/404.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/team/contact.html</loc>
+  <loc>http://www.eq19.com/feed/contact.html</loc>
   <priority>0.64</priority>
 </url>
 <url>
