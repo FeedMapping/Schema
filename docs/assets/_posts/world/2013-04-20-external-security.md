@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: pages
 title: External Security
 category: Resources
 weight: 647

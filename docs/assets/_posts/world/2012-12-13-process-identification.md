@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: pages
 title: Process Identification
 category: Resources
 weight: 646

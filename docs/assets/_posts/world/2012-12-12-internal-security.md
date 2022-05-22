@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: pages
 title: Internal Security
 category: Resources
 weight: 648
