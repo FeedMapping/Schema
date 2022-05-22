@@ -1,6 +1,6 @@
 ## [Introduction](https://www.eq19.com/)
  
-This's the partial of [the mapping scheme](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of our [eQuantum Project](https://github.com/eq19) that's taking a scheme shown on the sidebar (see dekstop view) called **[DNA Recombination](https://en.wikipedia.org/wiki/DNA#Genetic_recombination): [M+F](https://github.com/eq19/quantum/blob/workflows/_layouts/feed.rb) to [C1+C2](https://github.com/eq19/quantum/blob/workflows/_includes/data/roots.rb)**.
+This's the partial of [the mapping scheme](https://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of our [₠Quantum Project](https://github.com/eq19) that's taking a scheme shown on the sidebar (see dekstop view) called **[DNA Recombination](https://en.wikipedia.org/wiki/DNA#Genetic_recombination): [M+F](https://github.com/eq19/quantum/blob/workflows/_layouts/feed.rb) to [C1+C2](https://github.com/eq19/quantum/blob/workflows/_includes/data/roots.rb)**.
 
 ```note
 Recombination involves the breaking and rejoining of two chromosomes (M and F) to produce two rearranged chromosomes (C1 and C2).
@@ -15,7 +15,7 @@ By Our Project this **Sheme** runs as _[remote theme](https://www.eq19.com/theme
 * _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 ```
 
-This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using two (2) kinds of cyclic algorithm that act as _[Lexer and Parser](https://www.javacodegeeks.com/2017/09/guide-parsing-algorithms-terminology.html)_.
+This sample was developed by converting [₠Quantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using two (2) kinds of cyclic algorithm that act as _[Lexer and Parser](https://www.javacodegeeks.com/2017/09/guide-parsing-algorithms-terminology.html)_.
 
 [![Lexer and Parser](https://user-images.githubusercontent.com/36441664/70385860-e5074f00-19c3-11ea-92f3-ec6f33bf9774.png)](https://stackoverflow.com/questions/2842809/lexers-vs-parsers)
 
@@ -34,7 +34,7 @@ Each cycles will have a total of **seven (7) steps prime algorithm** on base 10 
 
 By having digital root of (five) 5 and two (2), the above seven (7) steps of 168 and 618 is organized using the primes **23 and 11** respectively. So all together will finaly form as 10 primes in sequent that initiated with **10th prime = 29** as their _[base frame](base)_.
 
-[![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://www.eq19.com/base)
+[![₠Quantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://www.eq19.com/base)
 
 This algorithm is used to regenerate a _[Basic Grammar](#basic-grammar)_ between [<code>user</code>](#6th-step-q328-19) and [<code>organization</code>](#7th-step-q218-10) accounts in GitHub. It is being tested for _[eBranding](#next-release)_ to proof that it is adaptable for every kinds of implementation or application as explained further below.
 
@@ -655,5 +655,5 @@ Base on the 19 Cells of _[168 vs 618 tabulation](#6th-step-q328-19)_ then for th
 _So If You're Aware of What This Is All About:_<br>
 _Just Be Patient and Stay Tuned!_
 
-© [eQuantum Project](https://github.com/eq19)  
+© [₠Quantum Project](https://github.com/eq19)  
 [![profile for eQ19 on Stack Exchange, a network of free, community-driven Q&amp;A sites](https://stackexchange.com/users/flair/5054985.png)](https://stackoverflow.com/users/4058484/eq19?tab=profile)   
