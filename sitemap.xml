@@ -157,7 +157,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/site/</loc>
+  <loc>http://www.eq19.com/parser/site/</loc>
   <priority>0.80</priority>
 </url>
 <url>
@@ -189,7 +189,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/</loc>
+  <loc>http://www.eq19.com/parser/</loc>
   <priority>0.80</priority>
 </url>
 <url>
@@ -281,79 +281,79 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/basics/loggingin/</loc>
+  <loc>http://www.eq19.com/parser/basics/loggingin/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/basics/caching/</loc>
+  <loc>http://www.eq19.com/parser/basics/caching/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/basics/versioning/</loc>
+  <loc>http://www.eq19.com/parser/basics/versioning/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/basics/hateoas/</loc>
+  <loc>http://www.eq19.com/parser/basics/hateoas/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/basics/codeondemand/</loc>
+  <loc>http://www.eq19.com/parser/basics/codeondemand/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/headers/acceptlanguage/</loc>
+  <loc>http://www.eq19.com/parser/headers/acceptlanguage/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/mediatypes/json/</loc>
+  <loc>http://www.eq19.com/parser/mediatypes/json/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/methods/options/</loc>
+  <loc>http://www.eq19.com/parser/methods/options/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/methods/put-vs-post/</loc>
+  <loc>http://www.eq19.com/parser/methods/put-vs-post/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/methods/patch/</loc>
+  <loc>http://www.eq19.com/parser/methods/patch/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/methods/idempotency/</loc>
+  <loc>http://www.eq19.com/parser/methods/idempotency/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/methods/400-vs-500/</loc>
+  <loc>http://www.eq19.com/parser/methods/400-vs-500/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/miscellaneous/richardsonmaturitymodel/</loc>
+  <loc>http://www.eq19.com/parser/miscellaneous/richardsonmaturitymodel/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/miscellaneous/rest-and-http/</loc>
+  <loc>http://www.eq19.com/parser/miscellaneous/rest-and-http/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/miscellaneous/rest-presentations/</loc>
+  <loc>http://www.eq19.com/parser/miscellaneous/rest-presentations/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/resources/using-custom-content-types/</loc>
+  <loc>http://www.eq19.com/parser/resources/using-custom-content-types/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/resources/pagination/</loc>
+  <loc>http://www.eq19.com/parser/resources/pagination/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/resources/link-types/</loc>
+  <loc>http://www.eq19.com/parser/resources/link-types/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.eq19.com/rating/resources/asynchroneous-operations/</loc>
+  <loc>http://www.eq19.com/parser/resources/asynchroneous-operations/</loc>
   <priority>0.64</priority>
 </url>
 <url>
