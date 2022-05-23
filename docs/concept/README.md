@@ -1,9 +1,8 @@
 ---
 sort: 1
+path: /concept
 layout: concept
 title: Our Concept
-path: /concept
-permalink: /concept
 ---
 #  Concept
 

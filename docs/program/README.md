@@ -1,8 +1,8 @@
 ---
 sort: 2
+path: /program
 layout: program
 title: Our Program
-path: /program
 permalink: /program
 ---
 
