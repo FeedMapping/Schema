@@ -3,6 +3,7 @@ sort: 3
 path: /mapping
 layout: mapping
 title: Our Mapping
+permalink: /mappings
 ---
 
 # Mapping
