@@ -1,5 +1,8 @@
 ---
 sort: 2
+layout: program
+title: Our Program
+permalink: /program/
 ---
 
 # Program

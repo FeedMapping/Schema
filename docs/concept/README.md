@@ -2,7 +2,7 @@
 sort: 1
 layout: concept
 title: Our Concept
-permalink: /concept
+permalink: /concept/
 ---
 #  Concept
 
