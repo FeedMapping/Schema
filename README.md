@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Home Base
+title: ₠Quantum
 ---
 # Introduction
  
