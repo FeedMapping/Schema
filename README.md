@@ -1,6 +1,6 @@
 ---
-title: Intro
 layout: index
+title: Home Base
 ---
 # Introduction
  
