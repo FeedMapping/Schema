@@ -23,9 +23,6 @@ debug:
   compress: true
   shortcodes: true
 
-readme_index:
-  with_frontmatter: true
-
 # Repository Settings
 # https://blog.webjeda.com/jekyll-redirect/
 # https://github.com/dotnet/docs/issues/20459#issuecomment-725295168
@@ -105,6 +102,12 @@ whitelist:
 # https://jekyllrb.com/docs/configuration/front-matter-defaults
 
 defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "welcome"
   -
     scope:
       path: ""
