@@ -2,8 +2,8 @@
 sort: 1
 path: /concept
 layout: concept
-title: Our Concept
 permalink: /concept
+title: Tabulate Prime by The Power of 168
 ---
 
 {%- for item in site.html_pages -%}
