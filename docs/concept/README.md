@@ -8,6 +8,6 @@ permalink: /concept
 
 {%- for item in site.html_pages -%}
 	{%- if item.path == 'docs/README.md' -%}
-		{{ item.content }}
+		{% assign nodes = item.content | split: '<h' %}{{ nodes | size }}
 	{%- endif -%}
 {%- endfor -%}
