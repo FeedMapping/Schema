@@ -38,7 +38,7 @@ By having digital root of (five) 5 and two (2), the above seven (7) steps of 168
 
 This algorithm is used to regenerate a _[Basic Grammar](#basic-grammar)_ between [<code>user</code>](#6th-step-q328-19) and [<code>organization</code>](#7th-step-q218-10) accounts in GitHub. It is being tested for _[eBranding](#next-release)_ to proof that it is adaptable for every kinds of implementation or application as explained further below.
 
-## [Tabulate Prime by The Power of 168](https://www.eq19.com/lexer)
+## Tabulate Prime by The Power of 168
 
 Therefore these primes package end with the prime 19 as the 8th prime right below the **prime 23** as the 9th prime. Here we absorb the system of _[23 pairs of human chromosome](https://en.wikipedia.org/wiki/Chromosome)_.
 
