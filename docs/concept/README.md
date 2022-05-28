@@ -8,12 +8,11 @@ permalink: /concept
 
 {%- for item in site.html_pages -%}
 	{%- if item.path == 'docs/README.md' -%}
-		{% capture item_content %}{{ item.content }}{% endcapture %}
-		{% assign nodes = item.content | split: '#' %}{{ nodes | size }}
-		{% for node in nodes %}
-		    {% if node contains "Tabulate Prime by The Power of 168" %}
+		{%- assign nodes = item.content | split: '#' -%}
+		{%- for node in nodes -%}
+		    {%- if node contains "Tabulate Prime by The Power of 168" -%}
 				{{ node }}
-			{% endif %}	
-		{% endfor %}
+			{%- endif -%}	
+		{% endfor -%}
 	{%- endif -%}
 {%- endfor -%}
