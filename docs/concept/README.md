@@ -10,6 +10,6 @@ permalink: /concept
 	{%- if item.path == 'docs/README.md' -%}
 		{% capture item_content %}{{ item.content }}{% endcapture %}
 		{% assign nodes = item_content | split: '##' %}{{ nodes | size }}
-		{{ item.content }}
+		{{ item_content }}
 	{%- endif -%}
 {%- endfor -%}
