@@ -7,7 +7,7 @@ permalink: /concept
 ---
 
 {%- for item in site.html_pages -%}
-	{%- if item.path == 'docs/README.md' -%}
+	{%- if item.path == "docs/README.md" -%}
 		{{ item.content }}
 	{%- endif -%}
 {%- endfor -%}
