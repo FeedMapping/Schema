@@ -8,6 +8,7 @@ permalink: /concept
 
 {%- for item in site.html_pages -%}
 	{%- if item.path == 'docs/README.md' -%}
-		{% include templates/anchor_headings.html html=item.content anchorBody="#" %}
+		{% capture item_content %}{{ item.content }}{% endcapture %}
+		{% include templates/anchor_headings.html html=item_content anchorBody="#" %}
 	{%- endif -%}
 {%- endfor -%}
