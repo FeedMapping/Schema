@@ -11,7 +11,7 @@ permalink: /concept
 		{% assign nodes = item.content | split: '#' %}
 		{% for node in nodes %}
 		    {% if node contains "Tabulate Prime by The Power of 168" %}
-				{{ node }}
+				{{ nodes | size }}
 			{% endif %}	
 		{% endfor %}
 	{%- endif -%}
