@@ -10,7 +10,7 @@ permalink: /concept
 	{%- if item.path == 'docs/README.md' -%}
 		{%- assign nodes = item.content | split: '##' -%}
 		{%- for node in nodes -%}
-		    {%- if node contains 'Tabulate Prime by The Power of 168' -%}
+		    {%- if node contains "Tabulate Prime by The Power of 168" -%}
 				{{ node }}
 			{%- endif -%}	
 		{% endfor -%}
