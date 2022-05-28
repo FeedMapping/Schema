@@ -11,5 +11,6 @@ permalink: /concept
 		{% capture item_content %}{{ item.content }}{% endcapture %}
 		{% assign nodes = item_content | split: '<h' %}
 		{{ nodes | size }}
+		{{ item_content }}
 	{%- endif -%}
 {%- endfor -%}
