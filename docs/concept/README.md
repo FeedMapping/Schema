@@ -8,9 +8,10 @@ permalink: /concept
 
 {%- for item in site.html_pages -%}
 	{%- if item.path == 'docs/README.md' -%}
-		{% assign nodes = item.content | split: '<h' %}
+		{% capture item_content %}{{ item.content }}{% endcapture %}
+		{% assign nodes = item_content | split: '<h' %}
 		{%- for node in nodes -%}
-			{%- if node contains 'Tabulate Prime by The Power of 168' -%}
+			{%- if node contains '>Tabulate Prime by The Power of 168</a></h' -%}
 				{{ node }}
 			{%- endif -%}
 		{%- endfor -%}	
