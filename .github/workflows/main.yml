@@ -25,7 +25,7 @@ jobs:
   # Build job
   github-pages:
     if: github.event.workflow_run.conclusion == 'success'
-    runs-on: ${{ vars.OWNER != 'FeedMapping' && 'ubuntu-latest' || 'windows-latest' }}
+    runs-on: ${{ github.repository_owner != 'FeedMapping' && 'ubuntu-latest' || 'windows-latest' }}
     steps:
       - name: 📂 Checkout
         uses: actions/checkout@v3
