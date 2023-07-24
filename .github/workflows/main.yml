@@ -2,7 +2,7 @@
 name: Build and deploy ₠Quantum site
 
 # 💎 Runs on workflow_run.conclusion
-on: # push
+on:
   workflow_run:
     types: [completed] #requested
     workflows: ["pages-build-deployment"]
@@ -11,13 +11,17 @@ on: # push
 concurrency:
   group: "pages"
   cancel-in-progress: true
-  
+
+# Set GITHUB_TOKEN scopes
+permissions: write-all
+
 # Sets global environtment variables
 env:
   USER: ${{ github.actor }}
   REPO: ${{ github.repository }}
   OWNER: ${{ github.repository_owner }}
-
+  ACTOR: ${{ github.triggering_actor }}
+  
 jobs:
   # Build job
   github-pages:
@@ -37,10 +41,11 @@ jobs:
         with:
           pre_build_commands: 'make build'
           token: ${{ secrets.JEKYLL_GITHUB_TOKEN }}
+          owner: ${{ secrets.JEKYLL_GITHUB_OWNER }}
 
       - name: 💎 Build on Windows
         if: runner.os == 'Windows'
         uses: eq19/maps@v1
         with:
           dotnet-version: '3.1.x'
-          token: ${{ secrets.JEKYLL_GITHUB_TOKEN }}
+          owner: ${{ secrets.JEKYLL_GITHUB_OWNER }}
